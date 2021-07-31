@@ -10,5 +10,6 @@
 
 ## Вспомогательные вещи
 
+* [Тайминги](vspomogatelnye-veshi/taimingi.md)
 * [Ссылки](vspomogatelnye-veshi/links.md)
 
