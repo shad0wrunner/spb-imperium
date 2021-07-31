@@ -6,7 +6,7 @@ description: Последовательности выполнения дейс�
 
 ## Сводная таблица таймингов
 
-{% embed url="https://github.com/shad0wrunner/spb-imperium/blob/master/files/Timing.xlsx" %}
+[https://github.com/shad0wrunner/spb-imperium/blob/master/files/Timing.xlsx](https://github.com/shad0wrunner/spb-imperium/blob/master/files/Timing.xlsx)
 
 ## Фаза действия \(Action Phase\)
 
