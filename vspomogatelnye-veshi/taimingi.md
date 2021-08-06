@@ -4,6 +4,8 @@ description: Последовательности выполнения дейс�
 
 # Тайминги
 
+![](../.gitbook/assets/2021-08-06-17_12_43-timings.doc-openoffice-writer.png)
+
 ## Сводная таблица таймингов
 
 {% embed url="https://github.com/shad0wrunner/spb-imperium/raw/master/files/Timing.xlsx" %}
