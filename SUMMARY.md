@@ -16,3 +16,7 @@
 * [Тайминги](vspomogatelnye-veshi/taimingi.md)
 * [Ссылки](vspomogatelnye-veshi/links.md)
 
+---
+
+* [Релики и карты исследований](reliki-i-karty-issledovanii.md)
+
