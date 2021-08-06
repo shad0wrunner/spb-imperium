@@ -9,7 +9,7 @@
 
 ## Русские правила и пояснения
 
-* [Кратко о дополнении TI4: Prophecy of Kings](russkie-pravila-i-poyasneniya/kratko-o-dopolnenii-ti4-prophecy-of-kings.md)
+* [Дополнение TI4: Prophecy of Kings](russkie-pravila-i-poyasneniya/kratko-o-dopolnenii-ti4-prophecy-of-kings.md)
 
 ## Вспомогательные вещи
 
