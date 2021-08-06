@@ -4,11 +4,15 @@ description: Последовательности выполнения дейс�
 
 # Тайминги
 
-![](../.gitbook/assets/2021-08-06-17_12_43-timings.doc-openoffice-writer.png)
-
 ## Сводная таблица таймингов
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXQ82tq6C99qHridTj0bxOXRGRslJdpZO2DHXqZ\_ITi3Lansp4LJcS4Q1a6xiliTysg1089HPgggx/pubhtml?widget=true&amp;headers=false" %}
+Ссылка на саму таблицу: [https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXQ82tq6C99qHridTj0bxOXRGRslJdpZO2DHXqZ\_ITi3Lansp4LJcS4Q1a6xiliTysg1089HPgggx/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXQ82tq6C99qHridTj0bxOXRGRslJdpZO2DHXqZ_ITi3Lansp4LJcS4Q1a6xiliTysg1089HPgggx/pubhtml)
+
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXQ82tq6C99qHridTj0bxOXRGRslJdpZO2DHXqZ\_ITi3Lansp4LJcS4Q1a6xiliTysg1089HPgggx/pubhtml" %}
+
+## По фазам
+
+Ниже расписаны все тайминги по конкретной фазе
 
 ### Фаза действия \(Action Phase\)
 
