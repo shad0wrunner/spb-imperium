@@ -14,9 +14,6 @@
 ## Вспомогательные вещи
 
 * [Тайминги](vspomogatelnye-veshi/taimingi.md)
+* [Релики и карты исследований](vspomogatelnye-veshi/reliki-i-karty-issledovanii.md)
 * [Ссылки](vspomogatelnye-veshi/links.md)
-
----
-
-* [Релики и карты исследований](reliki-i-karty-issledovanii.md)
 
