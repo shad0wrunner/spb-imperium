@@ -6,7 +6,7 @@ description: Последовательности выполнения дейс�
 
 ## Сводная таблица таймингов
 
-Ссылка на саму таблицу: [https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXQ82tq6C99qHridTj0bxOXRGRslJdpZO2DHXqZ\_ITi3Lansp4LJcS4Q1a6xiliTysg1089HPgggx/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXQ82tq6C99qHridTj0bxOXRGRslJdpZO2DHXqZ_ITi3Lansp4LJcS4Q1a6xiliTysg1089HPgggx/pubhtml)
+Ссылка на саму таблицу: [сводная таблица таймингов \(GoogleDocs\)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXQ82tq6C99qHridTj0bxOXRGRslJdpZO2DHXqZ_ITi3Lansp4LJcS4Q1a6xiliTysg1089HPgggx/pubhtml)
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXQ82tq6C99qHridTj0bxOXRGRslJdpZO2DHXqZ\_ITi3Lansp4LJcS4Q1a6xiliTysg1089HPgggx/pubhtml" %}
 
