@@ -16,5 +16,4 @@
 * [Гайды и сканы по Twilight Imperium 4 \(Я.Диск\)](https://disk.yandex.ru/d/B136lxqFhqi9nA)
 * [Тайминги](vspomogatelnye-veshi/taimingi.md)
 * [Релики и карты исследований](vspomogatelnye-veshi/reliki-i-karty-issledovanii.md)
-* [Ссылки](vspomogatelnye-veshi/links.md)
 
