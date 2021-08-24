@@ -2,7 +2,7 @@
 description: TI Community (SPb edition)
 ---
 
-# Twilight Imperium Stuff Main
+# Twilight Imperium 4th Edition Stuff Main
 
 Сборище всякого разного по тематике
 
