@@ -11,3 +11,7 @@ description: Useful Links
 
 * [Генератор игрового поля](https://keeganw.github.io/ti4/) - с поддержкой PoK.
 * [Генератор игрового поля](https://ti4-map-generator.derekpeterson.ca/) - пока что без поддержки PoK.
+
+* [Ассистент для игры](http://extraboard.net/extracomputer/) - только база.
+
+* [Сведение фракций на лету](https://sreletron.github.io/ti4/)
