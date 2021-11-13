@@ -2,7 +2,7 @@
 description: Official Resources
 ---
 
-# Official Resoursec
+# Official Resources
 
 * [Twilight Imperium Fourth Edition на оф.сайте FFG \(ссылка\)](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/)
 * [Twilight Imperium Fourth Edition на сайте BoardGameGeek \(ссылка\)](https://www.boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition)
