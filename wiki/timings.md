@@ -10,6 +10,8 @@ description: Timings/Тайминги
 
 # Invasion
 
-https://docs.google.com/spreadsheets/d/1Oie0JtBdjRiv7nFMK8MDBnvfSRmFrd63WUkqojmyg1Q/edit#gid=791573885
+{% embed url="https://docs.google.com/spreadsheets/d/1Oie0JtBdjRiv7nFMK8MDBnvfSRmFrd63WUkqojmyg1Q/edit#gid=791573885" %}
+
+
 
 # Agenda Phase
