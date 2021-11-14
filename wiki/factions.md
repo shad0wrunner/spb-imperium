@@ -1,0 +1,28 @@
+---
+description: Factions/Фракции
+---
+# Фракции
+* Arborec: [The Arborec/]
+* Argent: [The Argent Flight/Серебрянная стая]
+* Creuss: [The Ghosts of Creuss/Призраки Креуссов]
+* Empyrean: [The Empyrean/]
+* Hacan: [The Emirates of Hacan/]
+* Jol-Nar: [The Universities of Jol-Nar/]
+* L1z1x: [The L1z1x Mindnet/]
+* Letnev: [The Barony of Letnev/]
+* Mahact: [The Mahact Gene-Sorcerers/]
+* Mentak: [The Mentak Coation/]
+* Muaat: [The Embers of Muaat/]
+* N'orr: [Sardakk N'orr/]
+* Naalu: [The Naalu Collective/Клубок]
+* Naaz-Rokha: [The Naaz-Rokha Alliance/]
+* Nekro: [The Nekro Virus/]
+* Nomad: [The Nomad/]
+* Saar: [The Clan of Saar/]
+* Sol: [The Federation of Sol/]
+* Ul: [The Titnas of Ul/Титаны]
+* Vuil'raith: [The Vuil'raith Cabal/]
+* Winnu: [The Winnu/]
+* Xxcha [The Xxcha Kingdom/]
+* Yin [The Yin Brotherhood/]
+* Yssaril [The Yssaril Tribes/]
