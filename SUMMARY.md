@@ -4,11 +4,18 @@
 
 ## Официальные ресурсы
 
-* [Официальные ресурсы](official.md)
+* [Официальные ресурсы](rules/official.md)
 
 ## Правила
 
 * [Официальные правила](rules/rules.md)
+
+## База данных aka Wiki
+
+* [Components / Компоненты](wiki/components.md)
+* [Factions / Фракции](wiki/factions.md)
+* [Mechanics / Механики](wiki/mechanics.md)
+* [Timings / Тайминги](wiki/timings.md)
 
 ## Различный стафф
 
