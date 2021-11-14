@@ -10,5 +10,5 @@ description: Official Resources
 
 # Локализация
 * [Сумерки империи. Четвёртая редакция на сайте Tesera \(ссылка\)](https://tesera.ru/game/twilight-imperium-fourth-edition/)
-* [Сумерки импреии. Четвёртая редакция на сайте HobbyGames](https://hobbygames.ru/sumerki-imperii-chetvjortoe-izdanie/) - For buy.
+* [Сумерки империи. Четвёртая редакция на сайте HobbyGames](https://hobbygames.ru/sumerki-imperii-chetvjortoe-izdanie/) - For buy.
 * [Сумерки империи. Пророчество королей на сайте HobbyGames](https://hobbygames.ru/sumerki-imperii-prorochestvo-korolej/) - For buy.
