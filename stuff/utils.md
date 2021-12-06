@@ -14,4 +14,4 @@ description: Useful Links
 
 * [Ассистент для игры](http://extraboard.net/extracomputer) - только база.
 
-* [Сведение фракций на лету](https://sreletron.github.io/ti4/)
+* [Сведение фракций на лету / Interactive Faction Summary](https://sreletron.github.io/ti4/)
