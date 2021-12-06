@@ -8,7 +8,7 @@ description: Useful Links
 * [Battle Calculator](https://ti4odds.herokuapp.com/) - частично встроен PoK, симуляция.
 * [Batlle Calculator](https://ti4battle.com/) - частично встроен PoK.
 
-* [Создание кастомных игровых карт](http://ti4-card-images.appspot.com/static/card.html/) - раздолье для хоумрульщиков.
+* [Создание кастомных игровых карт](http://ti4-card-images.appspot.com/static/card.html) - раздолье для хоумрульщиков.
 
 * [Генератор игрового поля](https://keeganw.github.io/ti4/) - с поддержкой PoK.
 * [Генератор игрового поля](https://ti4-map-generator.derekpeterson.ca/) - пока что без поддержки PoK.
