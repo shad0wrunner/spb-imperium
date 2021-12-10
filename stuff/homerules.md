@@ -37,3 +37,26 @@ description: Homerules
 
 # Franken Draft (Base Game)
 * [Файлы на Google.Disk](https://drive.google.com/drive/folders/1TTtT24d8-gAqAnlpNf2KVRtNpJJReWeT)
+
+# Discordant Stars (24 Community Homebrew Factions)
+* [Тема на BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
+* [Файлы на Google.Disk](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
+
+# Milty Draft
+* [Milty Draft Tool Online](https://miltydraft.com/)
+
+# Варианты правил на 2-х игроков
+* [“Trade Wars” 2-Player Variant на BGG](https://www.boardgamegeek.com/thread/2114639/trade-wars-2-player-variant)
+* [TI4 2 Player Princess Variant на BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
+* [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
+
+# The TI AI
+* [Тема на BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
+
+# Alternate Flagships: A Mini-Expansion (Base + PoK)
+* [Тема на BGG](https://www.boardgamegeek.com/thread/2514810/alternate-flagships-mini-expansion)
+* [PDF на Google.Disk](https://drive.google.com/file/d/1gF9ytNLo9-I1b-AcPMO3jNnUQauRkcpG/view)
+
+# Rebalance Faction Promissory Notes by Travis Caldeira (Base Game)
+* [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/erm0a3/homebrew_rebalance_faction_promissory_notes/)
+* [PDF на Google.Disk](https://drive.google.com/file/d/1ZEStEqyrmMGJJubFjMz6M6MOnYAbn2Xz/view)
