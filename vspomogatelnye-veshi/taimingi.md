@@ -12,7 +12,7 @@ description: Последовательности выполнения споб�
 
 ##1
 
-{% emned url="https://docs.google.com/spreadsheets/d/1Oie0JtBdjRiv7nFMK8MDBnvfSRmFrd63WUkqojmyg1Q/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1Oie0JtBdjRiv7nFMK8MDBnvfSRmFrd63WUkqojmyg1Q/edit?usp=sharing" %}
 
 ## По фазам
 
