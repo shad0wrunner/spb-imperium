@@ -17,6 +17,7 @@
 * [Factions / Фракции](wiki/factions.md)
 * [Mechanics / Механики](wiki/mechanics.md)
 * [Timings / Тайминги](wiki/timings.md)
+* [Exploration / Разведка](rules/exploration.md)
 
 ## Различный стафф
 
