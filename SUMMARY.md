@@ -23,6 +23,12 @@
 * [Exploration / Разведка](rules/exploration.md)
 * [Anomalies / Аномалии](wiki/anomalies.md)
 
+## Twilight Imperium Galaxy
+
+* [Игры из вселенной Twilight Imperium](galaxy/games.md)
+* [Таймлайн Twilight Imperium](galaxy/timeline.md)
+* [Lore](galaxy/lore.md)
+
 ## Различный стафф
 
 * [Различный стафф](stuff/stuff.md)
