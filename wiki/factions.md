@@ -21,7 +21,7 @@ description: Factions/Фракции
 * [N'orr](../factions/n'orr.md): [Sardakk N'orr/]
 * [Saar](../factions/saar.md): [The Clan of Saar/]
 * [Sol](../factions/sol.md): [The Federation of Sol/]
-* [Ul](../factions/ul.md): [The Titnas of Ul/Титаны]
+* [Ul](../factions/ul.md): [The Titans of Ul/Титаны Ула]
 * [Vuil'raith](../factions/vuil'raith.md): [The Vuil'raith Cabal/]
 * [Winnu](../factions/winnu.md): [The Winnu/Винну]
 * [Xxcha](../factions/xxcha.md): [The Xxcha Kingdom/]
