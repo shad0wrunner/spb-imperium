@@ -13,12 +13,15 @@
 ## База данных aka Wiki
 
 * [Links / Ссылки](wiki/links.md)
+* [Attributes / Характеристики](attributes.md)
 * [Unit Abilities / Способности](wiki/unitabilities.md)
 * [Components / Компоненты](wiki/components.md)
 * [Factions / Фракции](wiki/factions.md)
+* [Strategy Cards / Карты стратегий](wiki/strategycards.md)
 * [Mechanics / Механики](wiki/mechanics.md)
 * [Timings / Тайминги](wiki/timings.md)
 * [Exploration / Разведка](rules/exploration.md)
+* [Anomalies / Аномалии](wiki/anomalies.md)
 
 ## Различный стафф
 
