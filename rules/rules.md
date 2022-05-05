@@ -11,6 +11,8 @@
 * [Twilight Codex Volume 1: Ordinian - Cards](https://images-cdn.fantasyflightgames.com/filer_public/e4/ea/e4ea8e76-3448-4d92-baec-18dc718716e0/codex_v1_cards.pdf)
 * [Twilight Codex Volume 2: Affinity - Rules](https://images-cdn.fantasyflightgames.com/filer_public/ff/fe/fffe5e9d-33fb-4149-a3a2-cd6dfadb4de3/ti_codex_ii_rules_web.pdf)
 * [Twilight Codex Volume 2: Affinity - Cards](https://images-cdn.fantasyflightgames.com/filer_public/ff/5c/ff5cc986-344a-4460-a0cb-41d40a3446ed/ti_codex_2_cards_web.pdf)
+* [Twilight Codex Volume 3: Vigil - Rules](https://images-cdn.fantasyflightgames.com/filer_public/35/e1/35e10f37-4b6d-4479-a117-4e2c571ddfa7/ti_codex_volume_3_vigil_v2_1-compressed.pdf)
+* [Twilight Codex Volume 3: Vigil - Cards](https://images-cdn.fantasyflightgames.com/filer_public/1d/0b/1d0b0659-c70c-462a-b8c3-a847a5e4b08f/ti_codex_3_cards_3.pdf)
 
 # Официальные русскоязычные правила на сайте HobbyGames:
 
