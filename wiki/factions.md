@@ -2,7 +2,7 @@
 description: Factions/Фракции
 ---
 # Фракции
-* Arborec: [The Arborec/]
+* Arborec: [The Arborec/](../factions/arborec.md)
 * Argent: [The Argent Flight/Серебрянная стая]
 * Creuss: [The Ghosts of Creuss/Призраки Креуссов]
 * Empyrean: [The Empyrean/]
