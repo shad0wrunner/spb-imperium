@@ -25,7 +25,7 @@
 
 ## Twilight Imperium Galaxy
 
-* [Игры из вселенной Twilight Imperium](galaxy/games.md)
+* [Вселенная Twilight Imperium](galaxy/media.md)
 * [Таймлайн Twilight Imperium](galaxy/timeline.md)
 * [Lore](galaxy/lore.md)
 
