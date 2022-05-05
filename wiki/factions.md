@@ -2,8 +2,8 @@
 description: Factions/Фракции
 ---
 # Фракции
-* Arborec: [The Arborec/](../factions/arborec.md)
-* Argent: [The Argent Flight/Серебрянная стая]
+* [Arborec](../factions/arborec.md): [The Arborec/]
+* [Argent](../factions/argent.md): [The Argent Flight/Серебрянная стая]
 * Creuss: [The Ghosts of Creuss/Призраки Креуссов]
 * Empyrean: [The Empyrean/]
 * Hacan: [The Emirates of Hacan/]
