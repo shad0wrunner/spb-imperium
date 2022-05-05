@@ -12,7 +12,7 @@ description: Factions/Фракции
 * L1z1x: [The L1z1x Mindnet/Психосеть]
 * Letnev: [The Barony of Letnev/]
 * Mahact: [The Mahact Gene-Sorcerers/]
-* Mentak: [The Mentak Coation/]
+* Mentak: [The Mentak Coalition/]
 * Muaat: [The Embers of Muaat/Тлеющие Муаата]
 * N'orr: [Sardakk N'orr/]
 * Naalu: [The Naalu Collective/Клубок]
