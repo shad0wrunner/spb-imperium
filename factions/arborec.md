@@ -1,4 +1,4 @@
-# ![The Arborec](icons/arborec40x40.png) The Arborec
+# ![The Arborec](icons/Arborec40x40.png) The Arborec
 ---
 ## Faction Abilities
 #### Mitosis
