@@ -13,7 +13,7 @@
 ## База данных aka Wiki
 
 * [Links / Ссылки](wiki/links.md)
-* [Attributes / Характеристики](attributes.md)
+* [Attributes / Характеристики](wiki/attributes.md)
 * [Unit Abilities / Способности](wiki/unitabilities.md)
 * [Components / Компоненты](wiki/components.md)
 * [Factions / Фракции](wiki/factions.md)
