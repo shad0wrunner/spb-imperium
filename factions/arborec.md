@@ -31,6 +31,8 @@ Your space dock cannot produce infantry. At the start of the status phase, place
 | MECH | FLAGSHIP | FT | FT |
 |:---:|:---:|:---:|:---:|
 | ![Arborec Mech](https://drive.google.com/uc?export=view&id=1cqu58sVONFoQOVtOJ2SObggxJ_k0LhSb) | ![Arborec Flagship](https://drive.google.com/uc?export=view&id=15DjoPriE6Y8yTxVU4_u1tnNQmbjLPYjF) | ![Arborec FT Bioplasmosis](https://drive.google.com/uc?export=view&id=10sTh4NvL7Qm04_mQPbSptndDVTOcIQHS) | ![Arborec FT Letani Warrior II](https://drive.google.com/uc?export=view&id=1cqu58sVONFoQOVtOJ2SObggxJ_k0LhSb) |
+| HOME | PN | PN |  |
+| ![Arborec Home](https://drive.google.com/uc?export=view&id=1IvAK7MfsFt8KXfgbe08qlgp1Ow_mtCzF) | ![Arborec PN](https://drive.google.com/uc?export=view&id=1HqfYwc2dupd-sXChPf07L2ac5kSOjVV9) |  |  |
 
 ## Faction Technologies
 
