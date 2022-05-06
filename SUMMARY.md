@@ -17,6 +17,7 @@
 * [Unit Abilities / Способности](wiki/unitabilities.md)
 * [Components / Компоненты](wiki/components.md)
 * [Factions / Фракции](wiki/factions.md)
+  * [The Arborec / Арборек](factions/arborec.md)
 * [Strategy Cards / Карты стратегий](wiki/strategycards.md)
 * [Mechanics / Механики](wiki/mechanics.md)
 * [Timings / Тайминги](wiki/timings.md)
