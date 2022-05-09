@@ -1,5 +1,5 @@
 # ![The Arborec](icons/Arborec40x40.png) The Arborec / Арбореки
----
+
 ## Faction Abilities
 #### Mitosis
 Your space dock cannot produce infantry. At the start of the status phase, place 1 infantry from your reinforcements on any planet you control.
