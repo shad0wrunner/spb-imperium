@@ -1,2 +1,2 @@
-# ![The Argent Flight](icons/Argent40x40.png) The Argent Flight / Серебрянная стая
+# ![The Ghosts of Creuss](icons/creuss40x40.png) The Ghosts of Creuss / Призраки Креусса
 ---
