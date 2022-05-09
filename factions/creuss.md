@@ -4,6 +4,11 @@
 ### Faction Ability 1
 ### Faction Ability 2
 
+## Faction Start
+### Faction Home
+### Faction Commodities
+### Faction Start Technologies
+### Faction Start Fleet
 
 | Starting Fleet | | | |
 |:---:|:---:|:---:|:---:|
@@ -16,7 +21,12 @@
 ### Mech Name (Mech)
 
 ## Faction Technologies
+### Faction Technology 1
+### Faction Technology 2
 
 ## Faction Leaders
+### Faction Agent
+### Faction Commander
+### Faction Hero
 
 ## Faction Promissory Note
