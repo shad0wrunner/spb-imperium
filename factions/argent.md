@@ -1,2 +1,2 @@
-### The Argent Flight
+### The Argent Flight / Серебрянная стая
 ---
