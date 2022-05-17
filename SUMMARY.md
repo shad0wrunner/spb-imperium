@@ -9,6 +9,7 @@
 ## Правила
 
 * [Официальные правила](rules/rules.md)
+* [FAQ / ЧАВО](rules/faq.md)
 
 ## База данных aka Wiki
 
