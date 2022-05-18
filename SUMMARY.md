@@ -4,14 +4,14 @@
 
 ## Официальные ресурсы
 
-* [Официальные ресурсы](rules/official.md)
+* [Оф.ресурсы](rules/official.md)
 
 ## Правила
 
 * [Официальные правила](rules/rules.md)
 * [FAQ / ЧАВО](rules/faq.md)
 
-## База данных aka Wiki
+## Wiki
 
 * [Links / Ссылки](wiki/links.md)
 * [Attributes / Характеристики](wiki/attributes.md)
