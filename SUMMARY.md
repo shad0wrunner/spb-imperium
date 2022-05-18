@@ -61,12 +61,11 @@
 * [Полезные утилиты](stuff/utils.md)
 * [Хоумрулы](stuff/homerules.md)
 
-## Русские правила и пояснения
-
-* [Дополнение TI4: Prophecy of Kings - краткое пояснение механик](russkie-pravila-i-poyasneniya/kratko-o-dopolnenii-ti4-prophecy-of-kings.md)
+## [Tabletop Simulator](tts.md)
 
 ## Вспомогательные вещи
 
+* [Дополнение TI4: Prophecy of Kings - краткое пояснение механик](russkie-pravila-i-poyasneniya/kratko-o-dopolnenii-ti4-prophecy-of-kings.md)
 * [Гайды и сканы по Twilight Imperium 4 \(Я.Диск\)](https://disk.yandex.ru/d/B136lxqFhqi9nA)
 * [Тайминги](vspomogatelnye-veshi/taimingi.md)
 * [Релики и карты исследований](vspomogatelnye-veshi/reliki-i-karty-issledovanii.md)
