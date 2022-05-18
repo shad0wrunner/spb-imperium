@@ -1,32 +1,36 @@
-# ![The Keleres Council](icons/keleres40x40.png) [The Keleres Council / Келерес Совета
+# ![The Keleres Council](icons/keleres40x40.png) The Keleres Council / Келерес Совета
 
 ## Faction Abilities
-### Faction Ability 1
-### Faction Ability 2
+### Faction Ability 1 / Трибунии
+### Faction Ability 2 / Покровительство Совета
+### Faction Ability 3 / Распоряжение по закону
 
 ## Faction Start
 ### Faction Home
 ### Faction Commodities
-### Faction Start Technologies
-### Faction Start Fleet
+### Faction Starting Technologies
+### Faction Starting Fleet
 
 | Starting Fleet | | | |
 |:---:|:---:|:---:|:---:|
-| Space Dock | 1 | PDS | 1 |
-| Cruiser | 1 | Carrier | 1 |
-| Fighters | 2 | Infantry | 4 |
+| Space Dock | 1 |  |  |
+| Cruiser | 1 | Carrier | 2 |
+| Fighters | 2 | Infantry | 2 |
 
 ## Faction Flagship & Mech
-### Flagship Name (Flagship)
-### Mech Name (Mech)
+### Flagship Name / Артемирис (Flagship)
+### Mech Name / Омниопиарес (Mech)
 
 ## Faction Technologies
-### Faction Technology 1
-### Faction Technology 2
+### Faction Technology 1 / Модернизация штаба
+### Faction Technology 2 / Сеть снабжения агенства
 
 ## Faction Leaders
-### Faction Agent
-### Faction Commander
-### Faction Hero
+### Faction Agent / Ксандер Алексин Виктори III
+### Faction Commander / Суффи Ан
+### Faction Hero I
+### Faction Hero II
+### Faction Hero III
 
 ## Faction Promissory Note
+### Faction PN / Поправка Келерес
