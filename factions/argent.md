@@ -1,32 +1,36 @@
 # The Argent Flight / Серебрянная стая
 
-## Faction Abilities
-### Faction Ability 1
-### Faction Ability 2
+## Faction Abilities / Способности фракции
+### Faction Ability 1 / Рвение
+### Faction Ability 2 / Боевое построение
+
+## Faction Unit Upgrades
+### Faction UU 1 / Ударное звено Альфа I
 
 ## Faction Start
-### Faction Home
-### Faction Commodities
-### Faction Start Technologies
-### Faction Start Fleet
+### Home
+### Commodities
+### Starting Technologies
+### Starting Fleet 
 
 | Starting Fleet | | | |
 |:---:|:---:|:---:|:---:|
 | Space Dock | 1 | PDS | 1 |
-| Cruiser | 1 | Carrier | 1 |
-| Fighters | 2 | Infantry | 4 |
+| Destroyer | 1 | Carrier | 1 |
+| Fighters | 2 | Infantry | 5 |
 
 ## Faction Flagship & Mech
-### Flagship Name (Flagship)
-### Mech Name (Mech)
+### Flagship Name / Кетцалькоатль (Flagship)
+### Mech Name / Страж гнезда (Mech)
 
 ## Faction Technologies
-### Faction Technology 1
-### Faction Technology 2
+### Faction Technology 1 / Голографическая сеть "Гнездо"
+### Faction Technology 2 / Ударное звено Альфа II
 
 ## Faction Leaders
-### Faction Agent
-### Faction Commander
+### Faction Agent / Трилосса Аун Мирик
+### Faction Commander / Трракан Аун Зилок
 ### Faction Hero
 
 ## Faction Promissory Note
+### / Налёт ударного звена
