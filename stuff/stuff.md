@@ -4,6 +4,8 @@ description: Various Stuff
 
 # Various Stuff
 
+* [Информация о размерах и количестве протекторов для Twilight Imperium](https://boardgamegeek.com/geeklist/164572?itemid=5562442#item5562442)
+
 Thingiverse - ресурс с подборкой файлов для 3D-печати, на котором можно найти много различного для Twilight Imperium (и для 3-й, и для 4-й редакций):
 * [Общий поиск по Thingverse \(ссылка\)](https://www.thingiverse.com/search?q=Twilight+Imperium/)
 * [Фиксаторы для краёв игрового поля: Вариант 1](https://www.thingiverse.com/thing:3092262/)
