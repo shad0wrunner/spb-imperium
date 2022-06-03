@@ -1,4 +1,4 @@
-#### 16. Capacity
+### 16. Capacity
 16.1. 
 - A unit’s capacity value indicates the maximum combined number of fighters and ground forces that it can transport.
 
