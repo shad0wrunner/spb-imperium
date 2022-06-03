@@ -8,6 +8,7 @@
 Уникальных моделей есть 2 больших проекта.
 1. [IVAN](https://www.patreon.com/_IVAN_) - модельки Креуссов бесплатные, остальное по подписке.
 * модели Креуссов можно поглядеть [здесь](https://disk.yandex.ru/d/IsOPuoyCxI6rJQ)
+* он же на [MyMiniFactory](https://www.myminifactory.com/users/_IVAN_)
 
 2. [Wastewolf](https://www.thingiverse.com/wastewolf/designs) - к сожалению, модельки сделаны только для базы, для дополнения их нет.
 * копию одной папкой можно взять на [Я.Диске](https://disk.yandex.ru/d/RDSVUp2YltpNyw)
