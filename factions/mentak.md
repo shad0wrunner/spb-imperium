@@ -13,18 +13,19 @@ After 1 of your neighbors gains trade goods or resolves transaction, if he has 3
 | Moll Primus | 4 | 1 | In places lush and rich, in others a barren wasteland. This old Lazax penal colony has prospered under the rule of the governing Mentak Coalition. |
 
 ### Faction Commodities
+2
+
 ### Faction Start Technologies
 | | |
 | --- | --- |
 | Sarween Tools | Plasma Scoring |
 
-### Faction Start Fleet
+### Faction Starting Units
 
-| Starting Fleet | | | |
-|:---:|:---:|:---:|:---:|
-| Space Dock | 1 | PDS | 1 |
-| Cruiser | 2 | Carrier | 1 |
-| Fighters | 3 | Infantry | 4 |
+| Structures | x | NF-Ships | x | FF&GF | x |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Space Docks | 1 | Carriers | 1 | Fighters | 3 |
+| PDS | 1 | Cruisers | 2 | Infantry | 4 |
 
 ## Faction Flagship & Mech
 ### Fourh Moon (Flagship)
@@ -45,8 +46,18 @@ After you win or lose a space combat, gain 1 trade good; if you won the combat, 
 
 ## Faction Leaders
 ### Suffi An (Agent)
+After the PILLAGE faction ability is used against another player: 
+
+You may exhaust this card; if you do, you and that player each draw 1 action card.
 ### S'Ula Mentarion (Commander)
+UNLOCK: Have 4 cruisers on the game board.
+
+After you win a space combat: 
+You may force your opponent to give you 1 promissory notes from their hand.
 ### Ipswitch, Loose Cannon (Hero) - Sleeper Cell
+At the start of a space combat that you are participating in:
+
+You may purge this card; if you do, for each other player's ship that is destroyed during this combat, place 1 ship of that type from your reinforcements in the active system.
 
 ## Promise of Protection - Faction Promissory Note
 * ACTION: Place this card faceup in your play area.
