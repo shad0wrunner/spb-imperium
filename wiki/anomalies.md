@@ -1,4 +1,4 @@
-### 9Anomalies
+### 9. Anomalies
 An anomaly is a system tile that has unique rules.
 
 9.1. An anomaly is identified by a red border located on the tile’s corners.
