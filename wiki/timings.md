@@ -4,6 +4,10 @@ description: Timings/Тайминги
 
 # Общие принципы
 
+* Before
+* When
+* After
+
 # Action Phase
 
 # Space Combat
