@@ -1,6 +1,7 @@
 ### Ключевые слова и выражения
 
 - Destroy
+- May
 - Move
 - Place
 - Produce
