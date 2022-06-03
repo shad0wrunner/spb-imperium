@@ -6,17 +6,18 @@
 2) [Я.Диск](https://disk.yandex.ru/d/3KmVOLWkCMBFmQ) - с моделью меха.
 
 Уникальных моделей есть несколько проектов.
-1. [IVAN](https://www.patreon.com/_IVAN_) - модельки Креуссов бесплатные, остальное по подписке.
+1. [IVAN](https://www.patreon.com/_IVAN_)
+* модельки Креуссов бесплатные, остальное по подписке.
 * модели Креуссов можно поглядеть [здесь](https://disk.yandex.ru/d/IsOPuoyCxI6rJQ)
 * [пример](https://www.myminifactory.com/prints/3d-print-flagship-for-ghost-of-creuss-from-twilight-imperium-4-37005) печати флагмана Креуссов
 * он же на [MyMiniFactory](https://www.myminifactory.com/users/_IVAN_)
-
-2. [Wastewolf](https://www.thingiverse.com/wastewolf/designs) - к сожалению, модельки сделаны только для базы, для дополнения их нет.
+2. [Wastewolf](https://www.thingiverse.com/wastewolf/designs)
+* модели сделаны только для базы, для дополнения нет.
 * копию одной папкой можно взять на [Я.Диске](https://disk.yandex.ru/d/RDSVUp2YltpNyw)
-
-3. [Saunick](https://www.cgtrader.com/saunick) - только на продажу.
-
-4. [NSiemens4387](https://www.cgtrader.com/nsiemens4387) - только на продажу, на любителя.
+3. [Saunick](https://www.cgtrader.com/saunick)
+* только на продажу.
+4. [NSiemens4387](https://www.cgtrader.com/nsiemens4387) 
+* только на продажу, на любителя.
 
 Имеется также несколько отдельных изысков, к примеру, на тему флагмана Ззча. 
 * свободные модели собраны [здесь](https://disk.yandex.ru/d/VCU-hWJ8j7A3hQ)
