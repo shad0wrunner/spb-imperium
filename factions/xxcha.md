@@ -1,4 +1,4 @@
-# The Xxcha Kingdom / Королевство Кзча
+# The Xxcha Kingdom / Королевство Ззча
 
 ## Faction Abilities
 ### Peace Accords
