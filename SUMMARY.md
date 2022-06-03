@@ -58,6 +58,7 @@
 
 ## Различный стафф
 
+* [3D-модели отрядов](stuff/3dunits.md)
 * [Различный стафф](stuff/stuff.md)
 * [Полезные утилиты](stuff/utils.md)
 * [Хоумрулы](stuff/homerules.md)
