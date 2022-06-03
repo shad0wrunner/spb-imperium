@@ -9,7 +9,7 @@ After 1 of your neighbors gains trade goods or resolves transaction, if he has 3
 ## Faction Start
 ### Faction Home
 | Planet Name | Resource | Influence | Text |
-| --- | --- | --- | --- |
+| - | - | - | --- |
 | Moll Primus | 4 | 1 | In places lush and rich, in others a barren wasteland. This old Lazax penal colony has prospered under the rule of the governing Mentak Coalition. |
 
 ### Faction Commodities
