@@ -1,18 +1,18 @@
 # Twilight Imperium Lore
 
 
-| Faction | TI 1E | TI B | TI OR |
-| - | - | - | - |
-| Jol-Nar | + | + | + |
-| Letnev| + | + | + |
-| Xxcha | + | + | + |
-| Hacan | + | + | + |
-| Sol | + | + | + |
-| N'orr | + | + | + |
-| Mentak | - | + | + |
-| Yssaril | - | + | + |
-| Naalu | - | - | + |
-| L1Z1X | - | - | + |
+| Faction | TI 1E | TI B | TI OR | TI2 | TI2 HE |
+| - | - | - | - | - | - |
+| Jol-Nar | + | + | + | + | + |
+| Letnev| + | + | + | + | + |
+| Xxcha | + | + | + | + | + |
+| Hacan | + | + | + | + | + |
+| Sol | + | + | + | + | + |
+| N'orr | + | + | + | + | + |
+| Mentak | - | + | + | - | + |
+| Yssaril | - | + | + | - | + |
+| Naalu | - | - | + | - | - |
+| L1Z1X | - | - | + | - | - |
 
 Kenara - star of Hacan home-system.
 Quieron - leader of the Hacan.
