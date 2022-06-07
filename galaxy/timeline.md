@@ -104,3 +104,9 @@ Speculations:
 - The Empyreans, learning of the Mahact kings return, leaves their nebula homeworld and reveal themselves to the galaxy.
 
 - The Mahact awakens the Titans of Ul, but for now, are unable to control them?
+
+
+
+---
+
+Age of Dusk -> Twilight Wars -> Лазаксы были полностью уничтожены в течении 20 лет -> Более 6000 лет Лазаксов не видели в галактике
