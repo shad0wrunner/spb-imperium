@@ -62,6 +62,30 @@ The Imperial Throne remains empty, the Winnarans still custodians of its greatne
 
 ---
 
+### TWILIGHT IMPERIUM: DISTANT SUNS
+
+After extensive space-travel, you begin to fail hearing the humming of the mass-engines. Their deep resonance simply becomes a part of your daily environment. Fleet officers often subconsciously associate the sound with safety and comfort. It was therefore strange to Unlenn that it was this sound that interrupted his deep thoughts as he stood in the air-lift onboard the *Miskac*. Admiral, Lord of Wenn, Master of Blades, and he was ... nervous? Admiral Unlenn shook his head in tense amusement. This was the first time that he had the pleasure of transporting the Baron himself. But, as the newly appointed First Admiral, it was probably a thing to grow accustomed to. Probably.
+
+The two Guards that escorted Unlenn felt his uneasiness. They exchanged a brief look, and decided that today they would pay extra attention to detail. Military protocol was an important, lethal, doctrine in the Letnev fleet.
+
+The air-lift stopped. The somber display indicated that they had arrived at the executive quarters of the *Miskac*, quarters especially designed for the ruling family. The door opened with a whisper, and the Admiral strode briskly forward into the darkened room. The room's viewshields were open and starlight illuminated the walls. The still figure of the Baron stood as a black outline against the stars looking aft. Baron Daz Emmiciel Werqan IV. Proud, noble, just, and cruel. One of the most powerful men in the universe.
+
+Unlenn fell to his knees, his grey robe spreading about him.
+
+'Command me, my Baron.'
+
+The dark figure slowly turned. Bleak shadows beneath heavy, sleek eyebrows studied the newcomers. With a surprising soft voice, he spoke.
+
+'Guard, you are dismissed.'
+
+Without showing too much relief, the guard snapped about. They retreated back into the waiting air-lift, whose doors closed swiftly, leaving the two senior Letnevians alone. The baron glanced at the kneeling officer, slightly amused.
+
+'Rise, Unlenn. Come speak with me!'
+
+... Продолжение следует.
+
+---
+
 ### TWILIGHT IMPERIUM: OUTER RIM
 
 "...Third shift, 1300 hours, all is clear." 
