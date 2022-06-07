@@ -25,13 +25,12 @@ Ccrysus - the Xxcha King.
 
 Sacul G -> Sakulag 
 Riescue -> Rescullon (?)
-Tallin (TI1)
-Emelpar (TI1)
-Cronos (TI1)
-Olergodt (TI1)
-Kostboth (TI1 OR)
-Lazur Rex (TI1 OR)
 
+TI1 Planets: Tallin / Emelpar / Cronos / Olergodt
+
+TI1 OR Planets: Kostboth / Lazur Rex 
+
+TI2 HE Planets: Luthen VI ~ Horizon (1 system) / Tarana / Lazur Rex ~ Cresius (1 system) / Kostboth / Tinnes ~ Neutera (1 system) / Lemox
 XXcha -> Xxcha.
 
 ---
