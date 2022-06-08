@@ -2,33 +2,61 @@
 
 ## Factions of TI
 
-| N | Faction | TI11 | TI1:B | TI1:OR | TI2 | TI2:HE | TI3 | TI3:SE | TI3:SotT & TI4 | TI4:PoK |
-| - | - | - | - | - | - | - | - | - | - | - |
-| 01 | Hacan | + | + | + | + | + | + | + | + | + |
-| 02 | Jol-Nar | + | + | + | + | + | + | + | + | + |
-| 03 | Letnev | + | + | + | + | + | + | + | + | + |
-| 04 | N'orr | + | + | + | + | + | + | + | + | + |
-| 05 | Sol | + | + | + | + | + | + | + | + | + |
-| 06 | Xxcha | + | + | + | + | + | + | + | + | + |
-| 07 | Mentak | - | + | + | - | + | + | + | + | + |
-| 08 | Yssaril | - | + | + | - | + | + | + | + | + |
-| 09 | Naalu | - | - | + | - | - | + | + | + | + |
-| 10 | L1Z1X | - | - | + | - | - | + | + | + | + |
-| 11 | Muaat | - | - | - | - | - | - | + | + | + |
-| 12 | Saar | - | - | - | - | - | - | + | + | + |
-| 13 | Winnu | - | - | - | - | - | - | + | + | + |
-| 14 | Yin |  - | - | - | - | - | - | + | + | + |
-| 15 | Arborec | - | - | - | - | - | - | - | + | + |
-| 16 | Creuss | - | - | - | - | - | - | - | + | + |
-| 17 | Nekro | - | - | - | - | - |  | - | + | + |
-| 18 | Argent | - | - | - | - | - |  | - | - | + |
-| 19 | Empyrean | - | - | - | - | - |  | - | - | + |
-| 20 | Mahact | - | - | - | - | - |  | - | - | + |
-| 21 | Naaz-Rokha | - | - | - | - | - |  | - | - | + |
-| 22 | Nomad | - | - | - | - | - |  | - | - | + |
-| 23 | Ul | - | - | - | - | - |  | - | - | + |
-| 24 | Vuil'raith | - | - | - | - | - |  | - | - | + |
-| 25 | Keleres | - | - | - | - | - |  | - | - | - |
+<table>
+  <tr>
+    <td> N </td><td> Faction </td><td> TI11 </td><td> TI1:B </td><td> TI1:OR </td><td> TI2 </td><td> TI2:HE </td><td> TI3 </td><td> TI3:SE </td><td> TI3:SotT & TI4 </td><td> TI4:PoK </td><td> TI4: Codex </td>
+  </tr><tr>
+    <td> 01 </td><td> Hacan </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 02 </td><td> Jol-Nar </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 03 </td><td> Letnev </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 04 </td><td> N'orr </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 05 </td><td> Sol </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 06 </td><td> Xxcha </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 07 </td><td> Mentak </td><td> - </td><td> + </td><td> + </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 08 </td><td> Yssaril </td><td> - </td><td> + </td><td> + </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 09 </td><td> Naalu </td><td> - </td><td> - </td><td> + </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 10 </td><td> L1Z1X </td><td> - </td><td> - </td><td> + </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 11 </td><td> Muaat </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 12 </td><td> Saar </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 13 </td><td> Winnu </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 14 </td><td> Yin </td><td>  - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 15 </td><td> Arborec </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 16 </td><td> Creuss </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 17 </td><td> Nekro </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> + </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 18 </td><td> Argent </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 19 </td><td> Empyrean </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 20 </td><td> Mahact </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 21 </td><td> Naaz-Rokha </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 22 </td><td> Nomad </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 23 </td><td> Ul </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 24 </td><td> Vuil'raith </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
+  </tr><tr>
+    <td> 25 </td><td> Keleres </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> - </td><td> + </td>
+  </tr>
+</table>
 
 ---
 
