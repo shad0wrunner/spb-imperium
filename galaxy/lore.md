@@ -142,8 +142,6 @@ The Baron of Letnev turned fully towards his Admiral. And, in the military tradi
 
 'All these distant suns... You shall make them mine!'
 
-... Продолжение следует.
-
 ---
 
 ### TWILIGHT IMPERIUM: OUTER RIM
