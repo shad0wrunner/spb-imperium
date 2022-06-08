@@ -248,3 +248,52 @@ Willard watched for a second as the people followed his orders. Weapon lockers w
 "Good Luck." 
 
 The battle of Emelpar had begun.
+
+---
+
+TWILIGHT IMPERIUM THIRD EDITION
+
+My name is Mahthom Iq Seerva. 
+
+I am the Winnaran keeper of the Custodian Chronicle, and I write this from the ancient Tower of Annals in old Mecatol City. Since inheriting the duties of the chronicle from my father, I have enjoyed the view of our city from my wide windows; enjoyed the old buildings, ancient towers, and bright lights that proudly stretch into the remote distance. Yet, like the shadow at my feet, I can never escape or forget the lethal finite borders of my city. I cannot cast aside the fact that less than a hundred leagues from this tower, our city shields rise to protect us from the poisonous dust that is the Sea of Desolation. The terrible wasteland that covers our planet.
+
+My people, the Winnarans, have kept this city safe for more than three thousandyears. Ever since the time of the great scourge, we have been the custodians of the imperial throne, the imperial records, and the galactic council here on Mecatol Rex. We have indeed been faithful to the promise that we made to the last emperor.
+
+My hands tremble as I write this. Events are now unfolding which I believe to be the harbinger of great change. I foresee that, in my lifetime, our custodianship will come to an end. This is why I have contacted you. I will here seek to give you a brief, but true, summary of the recent history of our galaxy. I give this to you, because I know that you will spread this knowledge far and wide. As we enter the dangerous years before us, I fear that the galaxy shall have a great need of the past.
+
+It is told that the Lazax emperors arose from the ashes of the Mahact kings. Little is known of their early ascension, but it is impossible to deny that the Lazax must have been a profoundly intelligent, benevolent, and wise people. After their prehistoric rise to power, we know that they chose the central planet of Mecatol Rex as their home world. The year that the Lazax first arrived on Mecatol Rex is recorded in the Imperial Chronicle as "first" and marks the beginning of my account. 
+
+For untold ages, the Lazax ruled the known galaxy. As new races came into contact with the empire, they would be allowed to join the Galactic Council that represented the needs and voices of the empires people. The great races: Xxcha, Hacan, Letnev, Hylar, Sol, and N'orr were all represented in the council during the last time of the Lazax empire. 
+
+Yet, as the years passed, discoveries of new races and planetary systems began to slow. Little by little the mood of the empire changed as technological and intellectual growth began to diminish. In their need for advancement, the great races began instead to look to the power of the Lazax and the resources of their neighbors. Greed and ambition slowly grew in the hearts of statesmen and councilors. The spirit of the empire turned suspicious and fearful. It is during this time that the first conflicts between the great races are recorded in the Imperial Chronicle. The Galactic Council became a seedbed of intrigue, ushering in an era of spies and assassins. First in secret, and later in public, the great races began at this time to build their military capabilities. Many started territorial expansions that extended beyond their original charter. Border strife and resource disputes began to proliferate, gnawing at the very foundations of the empire. This was a time of growing darkness that is now known as the Age of Dusk.
+
+Throughout most of this age, the Lazax held authority without question. Except for a few minor and unsuccessful rebellions, few dared to openly challenge the emperors. Yet, blinded by assurance of eternal rule, the Lazax did not perceive the threat of ambition that grew around them. As years passed, tensions between the great races grew deeper, and so did their hunger for power. In the end, they held only one thing in common: They hated the Lazax, hated the imperial rule, and hated the benevolent arrogance of the emperors.
+
+A small affair near the Quann wormhole was the spark that set the galaxy aflame.
+
+In protest over imperial trade oversight, the Baron of Letnev had begun a blockade of trade traffic through the Quann wormhole. As this had been far from the first trouble with the Letnev, an unconcerned Lazax emperor sought to solve the conflict peacefully in the Galactic Council. 
+
+Then, without warning, the blockading Letnev ships were attacked and annihilated by a Sol task force acting without imperial mandate. Losing valuable trade-income, the Sol federation had lost patience, and had acted in its own interest. 
+
+Angered, the emperor attempted to consolidate his control by issuing the Maandu edict, which would place all warships under direct imperial supervision. The Maandu edict would be the stone that shattered a brittle empire. After this proclamation, the Letnev, Sol, and Jol-Nar civilizations announced their immediate withdrawal from the council, drawing the galaxy into civil war. 
+
+The Quann conflict marks the beginning of the Age of Twilight.
+
+As race fought race, as a thousand territorial disputes erupted over a few years, the Lazax desperately sought to assert their authority. Holding together a crumbling empire, Lazax fleets fought across the galaxy. The final days of the Lazax began in the seventy-third year of the war. Without warning, an alliance of Sol, N'orr, and Hacan attacked Mecatol Rex itself. 
+
+Of all the planets in the galaxy, no planet was more war-torn than Mecatol Rex. Over the course of only a few years, the planet’s ecology was ravaged by bombardments, its population decimated, and its green fields blasted into a toxic wasteland. The last Lazax emperor and his entire family were executed during an early Sol incursion and no successor was named.
+
+After the death of the last emperor, all semblance of Lazax control collapsed. The Lazax people became hunted across the galaxy in the vengeful wave of murder that is known as the great scourge. Lasting only twenty years, the scourge resulted in the complete annihilation of the Lazax race. Until now, no Lazax had been seen in the
+known galaxy for more than 3000 years.
+
+The Twilight Wars continued for centuries. Yet no race was powerful enough to seize the throne and risk the fate of the Lazax. Slowly the strength of the great civilizations failed as their economies crumbled and whole technologies were lost from the strain of long war. 
+
+The Twilight Wars died in a slow whisper. The time that followed, now known as the Dark Years, was a period of economic, cultural, and intellectual collapse. The great races had by then retreated into their own small, safe areas of space.
+
+With time, the Dark Years did come to an end, and a calm but uncertain period of rebuilding began. As I write this, the great races have regained elements of their former strength. In my city, the Galactic Council is growing in influence once more, while the great races are embarking on the colonization of neighboring systems, abandoned during the Dark Years. 
+
+The signs of great change are everywhere. I taste it in the air I breathe. This year, as if walking out of ancient prophecy, the Lazax returned from the darkness of history in a foreboding cybernetic form. To me, their coming is like the first wind of a terrible storm. I feel as if the galaxy is waking. As if an ancient beast stirs from slumber in a dark cave.
+
+The day will soon come when a new empire will rise. For the sake of all, may the new emperor not only have the power to seize the throne, but the strength to conquer the peace.
+
+If not, I fear that a sea of desolation will drown us all.
