@@ -30,14 +30,9 @@
 | 24 | Vuil'raith | - | - | - | - | - |  | - | - | + |
 | 25 | Keleres | - | - | - | - | - |  | - | - | - |
 
-Kenara - star of Hacan home-system.
-Quieron - leader of the Hacan.
+---
 
-"Ell Won Zee Won Ex" - L1Z1X.
-Ibna Vel Syd
-
-Xxlak - star of Xxcha home-system.
-Ccrysus - the Xxcha King.
+## PLANETS
 
 Sacul G -> Sakulag 
 Riescue -> Rescullon (?)
