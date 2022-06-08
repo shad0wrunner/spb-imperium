@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td> N </td><td> Faction </td><td> TI11 </td><td> TI1:B </td><td> TI1:OR </td><td> TI2 </td><td> TI2:HE </td><td> TI3 </td><td> TI3:SE </td><td> TI3:SotT & TI4 </td><td> TI4:PoK </td><td> TI4: Codex </td>
+    <td width="20"> N </td><td width="50"> Faction </td><td width="20"> TI11 </td><td width="20"> TI1:B </td><td width="20"> TI1:OR </td><td width="20"> TI2 </td><td width="20"> TI2:HE </td><td width="20"> TI3 </td><td width="20"> TI3:SE </td><td width="20"> TI3:SotT & TI4 </td><td width="20"> TI4:PoK </td><td width="20"> TI4: Codex </td>
   </tr><tr>
     <td> 01 </td><td> Hacan </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
   </tr><tr>
