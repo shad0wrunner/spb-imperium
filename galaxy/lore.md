@@ -97,6 +97,56 @@ Without showing too much relief, the guard snapped about. They retreated back in
 
 'Rise, Unlenn. Come speak with me!'
 
+The Baron turned against towards the viewshield. The departing Mecatol Rex System was now a diminishing golden flare of light toward the bow end of the mighty Dreadnought. Unlenn spoke cordially.
+
+'I trust that the council of races went well, my Baron.'
+
+The Admiral wondered what had transpired behind the closed doors of the council in the past three days. There had been an odd tension in the old Imperial city. Unlenn had felt that something was awry within the higher echelons of power.
+
+'Well, yes, well...' the Baron cleared his voice, 'I feel, dear Unlenn, that we are reaching a watershed for our galaxy. Sentiments are changing, and time has come for us to ... shall I say... restore... what once was!'
+
+'How do you mean, My Baron?'
+
+'As you know, my dear Admiral, historically the council has looked critically upon territorial expansion, but the temperament seemingly has changed. As as matter of fact, I do believe that the Humans will annex the Emelpar system this cycle. They made their intensions very clear. Yes, very clear...'
+
+'But the council...'
+
+'It seemed that most of other races have certain... interests... of their own, and Sol annexation of Emelpar will function to create a new precedent.'
+
+'But that would inevitably mean war, my Baron!'
+
+The Baron turned slowly towards his Admiral, a hidden smile spreading to his eyes. *So this Admiral had political foresight!* A useful man, the Baron thought. And a dangerous man! It would be prudent to keep this Admiral close to home. It had not been an uncommon thing, in the Letnev past, for a well placed admiral or official to attempt a coup against the Family. Every attempt had failed; of course, it always paid to be careful.
+
+'Yes, Unlenn, war will come.'
+
+The Admiral shifted his feet. 'But my Lord, we still have a vital problem with basic logistics, it...'
+
+The Baron lifted his hand, silencing the Admiral with his gesture.
+
+'During the last three days, I have made an... arrangement with the Jol-Nar.'
+
+'The fishmen? But my Baron...'
+
+Another gesture silenced the Admiral. The Baron took a deep breath, and spoke while glaring at myriad of stars before him.
+
+'Admiral, is our fleet still massing around Quann?'
+
+'Yes, my Baron.'
+
+'And the cursed Hacan?'
+
+'Their fleet is docked at Arrezte, but my Baron...'
+
+'Admiral. Look upon these luminous stars. These distant suns! They harbor fruitful harvests, and wealth upon which to build an empire.'
+
+The Baron of Letnev turned fully towards his Admiral. And, in the military tradition of Letnev, removed a glove from his belt and handed it to his First Admiral: the symbolic permission to strike with the Baron's full might. The Baron formally addressed his most senior officer with a sharp voice.
+
+'Admiral, will you follow my command?'
+
+'Yes, my Baron!' Unlenn fell to his knees.
+
+'All these distant suns... You shall make them mine!'
+
 ... Продолжение следует.
 
 ---
