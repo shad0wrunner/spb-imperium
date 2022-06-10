@@ -2,18 +2,8 @@
 
 * [Twilight Imperium Stuff Main](README.md)
 
-## Официальные ресурсы
-
-* [Оф.ресурсы](rules/official.md)
-
-## Правила
-
-* [Официальные правила](rules/rules.md)
-* [FAQ / ЧАВО](rules/faq.md)
-
 ## Wiki
 
-* [Links / Ссылки](wiki/links.md)
 * [Attributes / Характеристики](wiki/attributes.md)
 * [Unit Abilities / Способности](wiki/unitabilities.md)
 * [Components / Компоненты](wiki/components.md)
@@ -56,12 +46,16 @@
 * [Таймлайн Twilight Imperium](galaxy/timeline.md)
 * [Lore](galaxy/lore.md)
 
-## Различный стафф
+## Ссылки
 
+* [Оф.ресурсы](stuff/official.md)
+* [Официальные правила](stuff/rules.md)
+* [FAQ's](stuff/faq.md)
+* [Полезные утилиты](stuff/utils.md)
 * [3D-модели отрядов](stuff/3dunits.md)
 * [Различный стафф](stuff/stuff.md)
-* [Полезные утилиты](stuff/utils.md)
 * [Хоумрулы](stuff/homerules.md)
+* [Неразобранное](stuff/links.md)
 
 ## [Tabletop Simulator](tts.md)
 
