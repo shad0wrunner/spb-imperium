@@ -19,4 +19,4 @@ description: Useful Links
 
 * [Создание кастомных игровых карт](http://ti4-card-images.appspot.com/static/card.html) - раздолье для хоумрульщиков.
 * [Ассистент для игры](http://extraboard.net/extracomputer) - только база.
-* [Сведение фракций на лету / Interactive Faction Summary](https://sreletron.github.io/ti4/)
+* [Interactive Faction Summary](https://sreletron.github.io/ti4/) - сведение фракций на лету.
