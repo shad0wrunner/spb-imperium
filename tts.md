@@ -1,7 +1,0 @@
-* [Tabletop Simulator в Стиме](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
-* [Мод Twilight Imperium 4 для TTS](https://steamcommunity.com/sharedfiles/filedetails/?id=1288687076)
-* [Русификатор для мода](https://drive.google.com/drive/folders/1LWpQW6pnB3nRmt_ETSzKRIHILONJbsuk)
-* [Русское сообщество TI4/TTS в Discord](https://discord.gg/Gx6Qzv5k)
-* [Англоязычное сообщество TI4/TTS в Discord](https://discord.gg/X7ERcqPFkn))
-* [Мод TI: Shattered Ascension в TTS](https://steamcommunity.com/sharedfiles/filedetails/?id=478727953)
-* [Сообщество поддержки TI:SA](http://www.astralvault.net/games/SA/)
