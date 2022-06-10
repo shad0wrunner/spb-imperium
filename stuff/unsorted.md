@@ -1,5 +1,5 @@
 * [TI4 Tabletop Simulator Stats Dashboard](https://datastudio.google.com/reporting/3b435bf2-2100-488c-a424-130f1d22ebb0/page/pE58B)
-* [TI4 Google Form Stats Dashboard] (https://datastudio.google.com/reporting/cb0b987b-5105-4aa4-8c8a-53d809833965/page/J2F0B)
+* [TI4 Google Form Stats Dashboard](https://datastudio.google.com/reporting/cb0b987b-5105-4aa4-8c8a-53d809833965/page/J2F0B)
 * [Наша группа в ВК](https://vk.com/spb_ti3ed)
 * [Волгоградская группа в ВК](https://vk.com/twilightimperium_vlg)
 * [Группа с большой беседкой по TI4](https://vk.com/spacestrategy)
