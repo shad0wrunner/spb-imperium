@@ -276,7 +276,7 @@ They continued their walk in a rare moment of silence. The emperor’s smile soo
 
 The emperor nodded. “Well, Verus. Will you please tell me why you interrupted my evening walk this time?” 
 
-***
+...
 
 Verus led the emperor into the throne room. On a normal night, the room would be bustling with councilors, ambassadors, military officers, and representatives from every corner of the galaxy. Court staff would be busy filling cups and providing light meals to a crowd buzzing with intrigue and ploys of power.
 
