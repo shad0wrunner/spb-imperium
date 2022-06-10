@@ -24,7 +24,7 @@
 ### [Twilight Imperium: Armada – Incursion (2004)](https://boardgamegeek.com/boardgameexpansion/15022/twilight-imperium-armada-incursion)
 ## [Rex: Final Days of an Empire (2012)](https://boardgamegeek.com/boardgame/104363/rex-final-days-empire)
 Rex представлял из себе перенесённую во вселенную Twilight Imperium игру Dune и был посвящён сражению на Мекатол Рексе.
-## Embers of the Imperium (https://edge-studio.net/games/embers-of-the-imperium/)
+## [Embers of the Imperium](https://edge-studio.net/games/embers-of-the-imperium/)
 RPG по вселенной TI на движке Genesys.
 ## [Twilight Inscription](https://boardgamegeek.com/boardgame/361545/twilight-inscription)
 Пока не вышедшая игра в жанре Roll-and-Wtrite.
