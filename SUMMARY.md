@@ -40,11 +40,13 @@
 * [Exploration / Разведка](rules/exploration.md)
 * [Anomalies / Аномалии](wiki/anomalies.md)
 
-## Twilight Imperium Galaxy
+## TI Galaxy
 
-* [Вселенная Twilight Imperium](galaxy/media.md)
-* [Таймлайн Twilight Imperium](galaxy/timeline.md)
+* [Вселенная TI](galaxy/media.md)
+* [Таймлайн TI](galaxy/timeline.md)
 * [Lore](galaxy/lore.md)
+* [Planets](galaxy/planets.md)
+* [Leaders](galaxy/leaders.md)
 
 ## Ссылки
 
