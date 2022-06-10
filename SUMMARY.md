@@ -56,7 +56,8 @@
 * [FAQ's](stuff/faq.md)
 * [Утилиты](stuff/utils.md)
 * [3D-модели](stuff/3dunits.md)
-* [Различный стафф](stuff/stuff.md)
+* [Стафф](stuff/stuff.md)
+* [TI Online](stuff/online.md)
 * [Хоумрулы](stuff/homerules.md)
 * [Неразобранное](stuff/links.md)
 
