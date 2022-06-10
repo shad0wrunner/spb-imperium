@@ -49,7 +49,7 @@
 * [Planets](galaxy/planets.md)
 * [Leaders](galaxy/leaders.md)
 
-## Ссылки
+## Links
 
 * [Оф.ресурсы](stuff/official.md)
 * [Оф.правила](stuff/rules.md)
@@ -59,8 +59,6 @@
 * [Различный стафф](stuff/stuff.md)
 * [Хоумрулы](stuff/homerules.md)
 * [Неразобранное](stuff/links.md)
-
-## [Tabletop Simulator](tts.md)
 
 ## Вспомогательные вещи
 
