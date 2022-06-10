@@ -2,3 +2,7 @@
 * [Волгоградская группа в ВК](https://vk.com/twilightimperium_vlg)
 * [Группа с большой беседкой по TI4](https://vk.com/spacestrategy)
 * [Московская группа в Telegram](https://t.me/+IqQ5U1-wQEQ2NzM6)
+
+
+* [SCPT](https://spacecatspeaceturtles.com/)
+* [SCPT в Discord](https://discord.gg/Q5kPZSEf)
