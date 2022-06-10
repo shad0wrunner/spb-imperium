@@ -223,3 +223,131 @@ The signs of great change are everywhere. I taste it in the air I breathe. This 
 The day will soon come when a new empire will rise. For the sake of all, may the new emperor not only have the power to seize the throne, but the strength to conquer the peace.
 
 If not, I fear that a sea of desolation will drown us all.
+
+---
+
+### TI3 SHATTERED EMPIRE
+
+At the end of empire, a faint wind rustled through Salai’s robes. It was a calm, warm evening, and the bruised purple outline of the setting sun was still visible on the horizon. An evening made for calm contemplation and peace.
+
+Instead it was neither.
+
+For most of his adult years, Salai had come to this balcony to breathe the clean air and admire the lights of Mecatol City. Yet tonight, the lights were scattered and few, the usual bustling traffic was scarce, and the air was tainted with the acrid scent of burning and foreboding. Salai glanced to the west, where distant columns of dark smoke still rose, obscuring the western stars.
+
+“Your Highness?”
+
+Salai did not turn to greet the owner of the voice. It belonged to High Councilor Verus Da Ishnu. The councillor knew his emperor’s displeasure at being interrupted on his evening balcony stroll, yet for months Verus had interrupted him regardless. Salai gently shook his head and sighed. He could hardly blame his old friend. These were difficult times. 
+
+“The fire continues.” The emperor gestured towards the plumes of smoke in the west. “It has been burning for months. Please tell me that we are making progress?” 
+
+Verus emerged from the doorway and approached his emperor. “They have contained the spread of the fire, but the work goes on. The Hall of Cartography was vast, and our resources are now limited....”
+
+“The continuing call for reservists has drained our public sectors.” Salai shook his head. “Is that not what we tell the citizens?” 
+
+It was a question that Verus Da Ishnu knew better than to answer. Verus felt a twang of the gnawing fear that had been growing within him since the Hall of Cartography was destroyed. The nagging fear of the impossible. 
+
+“And Ibna?” Salai Sa Corian, the last Lazax emperor, turned to his advisor.
+
+“There is still no word of Ibna Vel Syd.” Verus didn’t understand or appreciate the emperor’s empathy for the renegade junior councilor. Even before his treason, Ibna’s presence had become destructive in court. His nervous outcries, bordering on panic, had been far from useful in procuring any long-term solution to the crisis.
+
+“And his ships?” Salai glanced towards the stars, resuming his slow walk along the balcony. Verus followed.
+
+“Still unaccounted for, I’m afraid. Our navy...”
+
+“Yes, I know,” Salai sighed, “It is stretched thin.” His eyes seemed to glaze over as he studied the distant suns that shone in the Mecatol night sky. “Ah, Ibna. Where have you gone?” Salai lowed his eyes to look at his old friend. “I envy him, Verus.”
+
+“This traitor?” Verus could barely contain his frustration. “Rats flee a sinking ship, my Lord, not a captain!” As he spoke, he immediately regretted his words. The acidic fear within him twitched again. 
+
+The emperor’s lips curled in stark amusement. “Is our ship sinking, Verus?”
+
+“Of course not, my lord! I certainly did not...” 
+
+“What I mean, Verus, is that I envy the freedom of the rat.” 
+
+Verus paused. “Not words I would use at your dinner speech, my Lord.”
+
+The emperor burst into friendly laughter, his spirit raised for the moment. “No, I better not.” The emperor took his friend’s arm as they walked. “I am glad to employ so esteemed a councilor. Especially when he saves me from rhetorical folly involving vermin.” 
+
+Verus smiled back, it was good to see Salai jest; it did not happen often. 
+
+They continued their walk in a rare moment of silence. The emperor’s smile soon faded. “I stand with the ship, Verus. Sinking or not. I stand with the ship!”
+
+“Of course, my Lord. And we stand with you.”
+
+The emperor nodded. “Well, Verus. Will you please tell me why you interrupted my evening walk this time?” 
+
+***
+
+Verus led the emperor into the throne room. On a normal night, the room would be bustling with councilors, ambassadors, military officers, and representatives from every corner of the galaxy. Court staff would be busy filling cups and providing light meals to a crowd buzzing with intrigue and ploys of power.
+
+Instead, tonight the room was dimly lit, strangely hot, and only the inner circle of Salai’s councilors was present. 
+
+And the visitor.
+
+The stranger stood taller than even the Lazax. Entirely cased in a gold-bronze metal, only its glowing eyes could be seen burning beneath an expressionless golden mask. Salai could feel the strange heat emanating from the creature, a pulsing, living heat, unlike any that Salai had known in the past.
+
+The creature, somewhat clumsily in its heavy armor, bowed gently. Its eyes, flickering with a living fire, dimmed in respect.
+
+A servant brought Salai his translation device on a golden tray. Salai placed the device over his ear. “Who are you?” Salai’s voice was kind.
+
+“I am Feramon Azh.” The voice of the stranger was like that of coals grinding in a furnace. “I am of the Gashlai people from distant Muaat.”
+
+Salai spread his arms in the traditional welcome. “Be well received here on Mecatol. Even in these troubled times, the empire is glad for your arrival and your presence!”
+
+“We ask for your help,” the Gashlai began. “We are a people enslaved.” The creature inched forward towards the emperor, its fiery eyes pleading. 
+
+The emperor listened to the tale of the Gashlai and their mistreatment by the Jol Nar. As the creature finished its tale, Salai moved towards it, reaching to touch its armor, but as he felt the boiling heat of the metal, he slowly returned his hand to his side.
+
+“We are at war against the Hylar. We have no control over their actions,” the emperor said. Across the room, councilors nodded their silent agreement.
+
+The disappointment in the eyes of the Gashlai was evident. “But you are emperor! You are strong!” he continued. “You can free Muaat, and the Gashlai will help you in your war!”
+
+A Lazax admiral came to whisper something in the emperor’s ear, but Salai waved him away. “Our forces are hard pressed, Feramon. Despite my compassion for your plight, we cannot spare even a single ship.” 
+
+“But you must help us!” The Gashlai inched forward again. “The hope of my people rests with my mission here. You cannot fail them!”
+
+“I am sorry, my friend.” The Lazax emperor was powerless. It seemed the whole galaxy was pleading for help, while truly it was the empire that needed help from the galaxy. This audience was over.
+
+The eyes of the Gashlai dimmed again in disappointment, but he did not step back. “Wait!” There was a hint of tension in his voice, a taste of desperation. The creature touched a small control at his side, and with a hiss of hot air a small door opened in his chest armor. The palace guards sprung to the emperor’s side.
+
+Slowly the Gashlai brought out an engineering drafting device from the compartment. “If you save the Gashlai, we will give you this.”
+
+Salai took the device and glanced at the Hylar schematics. The emperor gestured for the admiral to come forth once more. Their eyes grew in surprise as they realized what the schematic meant.
+
+“The Hylar are building this monstrosity?” Salai asked. The Gashlai blinked and nodded. “My people have been slaving to build this vessel for years,” the creature sadly announced.
+
+The emperor glanced at the admiral, who looked longingly at the schematic and the powerful weapon it promised. 
+
+The emperor was about to speak again when the door to the throne room sprang open with a clamor. Led by the High Commander of the Lazax forces, a group of naval and diplomatic personnel burst into the room. Their faces were grave, and hints of perspiration beaded on their foreheads. Wary of the alien in the center of the room, the High Commander approached Verus, whispering news in the councilor’s ear. 
+
+“Yes?” Salai inquired. Something was wrong.
+
+“My lord,” Verus began. “The Hacan and the N’orr...their entire diplomatic contingents have secretly departed. Their districts are empty.”
+
+“But why?” Salai demanded. But as he looked into the face of the High Commander, he knew. “We are betrayed?” 
+
+The high commander only lowered his eyes, deep embarrassment in his face. 
+
+Salai moved calmly to the great western window. As he approached the glass, the first bomb fell, splitting the night in yellow and orange. Hard shadows flared across the room. In the night skies above, Salai could see the emerging outlines of the Sol fleet. Like a vast swarm of black birds, the vessels soon shrouded the stars. 
+
+Salai turned to the people in the room. They looked longingly at him, as if some secret legacy of the imperial blood would spring forth and vanquish the enemy. Instead they saw only tears.
+
+Salai moved calmly to the Gashlai, who was clearly shaken over the sudden events. “Go home, friend Feramon. I hope that you and your people find a safe way out of the destruction in the years ahead. If you survive this night, tell your people that they must carve their own destiny.”
+
+The last emperor returned the engineering device to the creature. Placing his hand emphatically on its metallic arm, Salai ignored the instant blistering of his
+skin. “This knowledge is too late for us. Keep it. It may yet benefit your people!”
+
+The Gashlai quickly retreated, the room palpably cooling at his departure. Another explosion shook the city and the imperial tower trembled. The emperor tore the imperial chain from his neck, precious metals and gemstones spilling on to the floor. “This twilight imperium is no more. Save your families.” 
+
+The others in the room came alive with a sudden panic, most rushing blindly to the doors. “Remember the peace of the emperors!” Salai shouted after them. 
+
+As the echo of his words rang through the room, a sharp sound rang through the low rumble of bombardament. The High Commander, having discharged his service pistol on himself, instantly collapsed.  His blood slowly saaking into the imperial rugs. Salai hardly noticed.
+
+Verus came to his emperor’s side for the last time. Together the two stood in the trembling tower, silently witnessing a bloom of fires grow in their city like a garden of destruction.
+
+The next wave of bombardments destroyed the imperial palace and everyone therein.
+
+---
+
+### TI3 SHARDS OF THE THRONE
+
