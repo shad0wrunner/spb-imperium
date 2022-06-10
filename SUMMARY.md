@@ -52,7 +52,7 @@
 ## Ссылки
 
 * [Оф.ресурсы](stuff/official.md)
-* [Официальные правила](stuff/rules.md)
+* [Оф.правила](stuff/rules.md)
 * [FAQ's](stuff/faq.md)
 * [Полезные утилиты](stuff/utils.md)
 * [3D-модели отрядов](stuff/3dunits.md)
