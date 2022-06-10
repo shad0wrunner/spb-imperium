@@ -15,9 +15,8 @@ description: Useful Links
 * [Battle Calculator](https://ti4odds.herokuapp.com/) - частично встроен PoK, симуляция.
 * [Batlle Calculator](https://ti4battle.com/) - частично встроен PoK.
 
+## Others
+
 * [Создание кастомных игровых карт](http://ti4-card-images.appspot.com/static/card.html) - раздолье для хоумрульщиков.
-
-
 * [Ассистент для игры](http://extraboard.net/extracomputer) - только база.
-
 * [Сведение фракций на лету / Interactive Faction Summary](https://sreletron.github.io/ti4/)
