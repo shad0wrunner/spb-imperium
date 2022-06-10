@@ -7,4 +7,6 @@
 * [Краснодарская группа в ВК](https://vk.com/tikrd)
 * [SCPT](https://spacecatspeaceturtles.com/)
 * [SCPT в Discord](https://discord.gg/Q5kPZSEf)
+* [TI на Reddit](https://www.reddit.com/r/twilightimperium/)
+* [PapaNurgle84](https://www.reddit.com/user/Papa_Nurgle_84/posts/) - подборка аналитических статей на Reddit.
 * [TI4 DB by MitrandirGM (только база)](https://docs.google.com/spreadsheets/d/1tlaUvsF2OiBCPbQFyCiyDiorixmXFXVWGVCJsSK_zAo/edit#gid=201186600)
