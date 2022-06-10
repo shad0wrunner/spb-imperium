@@ -8,6 +8,7 @@ description: Useful Links
 * [Генератор игрового поля](https://keeganw.github.io/ti4/) - второй лучший генератор карт.
 * [Генератор игрового поля](https://ti4-map-generator.derekpeterson.ca/) - пока что без поддержки PoK.
 * [TI4 Map String Generator](https://migpalser.github.io/TI4MapStringGenerator/)
+* [BGG Map Database](https://boardgamegeek.com/thread/2609062/bgg-map-database) - небольшая подборка пресетов на BGG.
 
 ## Battle Calculator's
 
@@ -15,8 +16,13 @@ description: Useful Links
 * [Battle Calculator](https://ti4odds.herokuapp.com/) - частично встроен PoK, симуляция.
 * [Batlle Calculator](https://ti4battle.com/) - частично встроен PoK.
 
+## Milty Draft
+
+* [Milty Draft Tool](https://miltydraft.com/)
+
 ## Others
 
+* [Twilight Imperium 4 Systems Dealer](http://dah.me.uk/ti4/)
 * [Создание кастомных игровых карт](http://ti4-card-images.appspot.com/static/card.html) - раздолье для хоумрульщиков.
 * [Ассистент для игры](http://extraboard.net/extracomputer) - только база.
 * [Interactive Faction Summary](https://sreletron.github.io/ti4/) - сведение фракций на лету.
