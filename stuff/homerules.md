@@ -60,3 +60,6 @@ description: Homerules
 # Rebalance Faction Promissory Notes by Travis Caldeira (Base Game)
 * [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/erm0a3/homebrew_rebalance_faction_promissory_notes/)
 * [PDF на Google.Disk](https://drive.google.com/file/d/1ZEStEqyrmMGJJubFjMz6M6MOnYAbn2Xz/view)
+
+# Keleres Tribunii+ Expansion
+* [Файлы на Google.Disk](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
