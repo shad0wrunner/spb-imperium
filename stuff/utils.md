@@ -7,6 +7,7 @@ description: Useful Links
 * [TI4 Map Lab](https://joepinion.github.io/ti4-map-lab/) - один из 2 лучших генераторов карт.
 * [Генератор игрового поля](https://keeganw.github.io/ti4/) - второй лучший генератор карт.
 * [Генератор игрового поля](https://ti4-map-generator.derekpeterson.ca/) - пока что без поддержки PoK.
+* [Генератор игрового поля](https://conclave.mistake-not.net/) - красиво, но без дополнительных настроек.
 * [TI4 Map String Generator](https://migpalser.github.io/TI4MapStringGenerator/)
 * [BGG Map Database](https://boardgamegeek.com/thread/2609062/bgg-map-database) - небольшая подборка пресетов на BGG.
 
