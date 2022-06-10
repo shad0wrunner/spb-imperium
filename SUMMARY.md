@@ -11,7 +11,7 @@
   * [Arborec / Арборек](factions/arborec.md)
   * [Argent / ...](factions/argent.md)
   * [Creuss / Креусс](factions/creuss.md)
-  * [Empyrean / Возвышенныые](factions/empyrean.md)
+  * [Empyrean / Возвышенные](factions/empyrean.md)
   * [Hacan / Хакан](factions/hacan.md)
   * [Jol-Nar / Жол-Нар](factions/jol-nar.md)
   * [Keleres / Келерес](factions/keleres.md)
