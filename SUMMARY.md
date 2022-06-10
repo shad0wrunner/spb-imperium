@@ -45,6 +45,7 @@
 * [Вселенная TI](galaxy/media.md)
 * [Таймлайн TI](galaxy/timeline.md)
 * [Lore](galaxy/lore.md)
+* [Factions](galaxy/factions.md)
 * [Planets](galaxy/planets.md)
 * [Leaders](galaxy/leaders.md)
 
