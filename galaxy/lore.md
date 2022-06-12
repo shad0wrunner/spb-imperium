@@ -351,3 +351,207 @@ The next wave of bombardments destroyed the imperial palace and everyone therein
 
 ### TI3 SHARDS OF THE THRONE
 
+*Scout Unit H256, Sol 67th Marine Division   
+Second Moon of Kal Haddar*
+
+Captain Jael Ducan was annoyed. The men, recognizing his sullen mood, gave him a wide berth as they expertly moved into the dark and desolated civhab block. It was the fifth month of campaigning, and the H256th’s first incursion.
+
+*Five months coagulating in the hold of a third generation cruiser, only to be dropped on an abandoned moon for a survey mission. Jael spat bitterly onto the ashen soil. Some incursion.*
+
+While the coreward and central battle groups of joint task force *Salient Sun* had been engaged with the enemy for weeks, the rimward group had seen no action. A few naval skirmishes, sure, but no honest work for leatherneck specialists like the men of unit H256.
+
+*Roeto’s going to return home a barkin’ Colonel, and I’ll be lucky to get combat pay.* Jael’s friend had been assigned to the central battle group. Everyone had heard rumors of the successes that the 81st had chalked up against the L1z1x on Tiamat and Hercalor. *He’s going to be unbearable, the braggart.*
+
+“I don’t like this, Captain.”
+
+The sound of the deep, heavily accented voice broke Jael’s introversion, upping his annoyance another notch. *This notion of a “joint” task force was well and good, but expecting him to be happy about a “training embedment” was beyond reasonable.*
+
+“I don’t like this, Captain Jael,” Groc Yysho repeated. The huge Xxcha warrior’s yellow eyes warily scanned the abandoned buildings around them, his slug-rifle held ready. *He’s actually nervous.* Jael was disgusted. *They’re expecting me to train a rookie.*
+
+“I heard you the first time,” Jael snapped and stopped. “Listen, I don’t like this either. We’re stuck in the arse-end of rim space, scouting a worthless barren moon while all the glory is had coreward. On top of that sad story, I’m stuck with training your scaly behind. So, there’s *plenty* not to like.”
+
+Jael gave the alien his hardest don’t-mess-with-me face. He needn’t look to know his men were watching the dress-down with wry  smiles.
+
+But Yysho wasn’t cowed. He calmly studied Jael with his big yellow eyes, starlight dully outlining the leathery hide of his beaked face. Moments passed.
+
+ Jael was the first to break, sensing the unseen attention of his men waning. *Damn alien.*
+“
+And what is it *exactly*,” Jael growled, “that you don’t like, Groc Yysho?”
+
+The Xxcha studied Jael for another second, blinked, then gestured towards one of the structures they’d just passed. “We were told the ‘1X abandoned this moon,” he said, using the Sol shorthand term for the L1z1x enemy.
+
+*I wonder if he knows that we call his race the ‘2X*? Jael glanced at the structure towards which Yysho was pointing. It was an old ‘1x defensive position, now silent and broken in the cold night air. 
+
+“That’s right. They abandoned the sector,” Jael said. “And we’re here to survey the little half-robo rats and roaches they left behind.” Jael gestured at the Xxcha’s heavy slug-rifle. “Think your little boom-stick can handle that, Xxcha?” The men grunted in restrained amusement. 
+
+Ignoring the slight, Yysho stepped away from the Captain and moved towards the ruined structure. 
+
+“Yet, their defensive positions are destroyed,” said the Xxcha, pushing at one of the splintered beams. It grated across the dilapidated pile, pulverized ceramics and metal girders shifting in the darkness.
+
+Jael sighed. *Kal Haddar Moon classroom, Professor Ducan presiding*.
+
+“Scorched earth!” Jael said as he bent down to gather up a ‘1X rifle from the rubble, dust falling from its broken barrel like water from a faucet. “Don’t leave anything behind for your enemy!” He waived the broken weapon to illustrate the point, then let it drop back onto the street. *And let them waste their resources scouting this worthless orb of a moon*.
+
+“Their weapons are still here, as are the targeting systems.” Yysho pushed more rubble out of the way. The main heavy repeater-gun was still in its stand. Below the weapon, sophisticated targeting and communications systems sat powerless in their chassis, all covered with the fine dust that seemed to be everywhere on this moon. 
+
+Jael shrugged. “Must’ve been in a hurry.” He turned and gestured for his men to continue their patrol. They roused soundlessly and moved into the darkness ahead. The Xxcha continued to rummage through the ruined structure. 
+
+“This one wasn’t in a hurry.” Yysho’s accent made the last word sound like *whuuri*.
+
+Jael turned. *Enough with the lessons*. He was about to bark at the Xxcha again, but stopped. 
+
+In the rubble lay the broken body of a ‘1X guardsman. Augmetics covered the lower face and pate of the soldier, but his organic eyes, filled with dust, were open in death. His armored chest plate had been torn apart with what appeared to be massive shears.
+
+The Xxcha looked at Jael carefully, as if measuring him. Then the alien sighed and undid the safety of his slug-rifle. “The enemy did not abandon this moon because of us, Captain,” he said. “They fought something here before they left.”  Yysho checked his ammo count. “Or maybe they didn’t leave,” he continued, tilting his head at the dead soldier, “maybe they died here.”
+
+Jael walked back to the ruined structure and knelt to study the mangled body. As he did, Yysho studied the civhab around them, yellow eyes looking for signs of movement in the silent windows.
+
+The H256th had been inserted into the largest of three primary settlements on Kal Haddar’s second moon. The place had been home to a community of foodstuff colonists, to farmers. The atmosphere on the moon was thin but breathable, and the soil supposedly excellent for growing roots. The settlement, called “Astaria” according to the charts, was human, but like so many remote human settlements of this age, not part of the Federation. Instead, it had given its fealty to a Naalu governor a system or so coreward. 
+
+Jael guessed Astaria had once been home to a few hundred thousand souls. *A rootfarmer metropolis*. 
+
+They were all gone now. Dead most likely. Or slaves to the ‘1X. Orbital bioscans had shown nothing alive on the moon with a signature larger than that of a small dog. The place was depressing.
+ 
+Jael traced a finger along the massive cut in the armored chest of the dead ‘1X guard. *Did the colonists do this? Did they rise up against the invaders?* Unlikely. The ‘1X were unforgiving and effective warriors. A mob of farmers wouldn’t have stood a chance. *If not them, then who?* Jael reached for his comlink and pressed the 
+transmitter.
+
+“Higheye, this is the H256th, do you copy?”
+
+Yysho didn’t glance down, but Jael could sense the alien’s satisfaction in having the issue escalated. 
+
+The transmitter buzzed. “**H256, this is Higheye, copy.**”
+
+“Higheye, this is Captain Ducan. Give me Traw.”
+
+“**Stand by, Captain.**”
+
+Yysho seemed to sniff at the air, his head cocked towards the sky. The large alien warrior was growing more restless by the second. Jael noticed a feral quality in the Xxcha’s careful movements. Had he misjudged his embedded trainee? *What do you smell, alien?*
+
+“Something’s about to happen, Captain Jael.” The Xxcha slipped a small device out of his battlesuit, his slitted eyes intently studying the readouts. *A motion sensor*. Jael had a similar device in his pack. *Expensive*. Among Federation scouts, only captains or higher were outfitted with lightweight motion sensors.
+
+“You should recall your men, Captain,”  Yysho said, in as close to a whisper the alien could muster. He expertly slipped the sensor back into his suit. 
+
+“Motion?” Jael asked. *Why am I whispering?* 
+
+The Xxcha shook his head. “Intuition.”
+
+“**Jael, what do you have?**” Colonel Traw’s voice boomed in the receiver. Yysho frowned at the volume level. Jael turned it down. 
+
+“**Jael?**” Colonel Traw was not a man accustomed to waiting.
+
+Yysho looked down at Jael, big yellow eyes intent and alert. “Recall your men, Captain.”
+
+Jael ignored the Xxcha. “Sir, we’ve found...something here.” He considered his next words. “Do we know for sure why the enemy abandoned this moon?”
+
+Jael sensed Traw’s impatience. “**As I told you in mission orientation, Captain, they’ve withdrawn to support their defenses against our coreward 
+action...**”  The colonel suddenly paused; Jael heard agitated chatter in the background. “**Stand by, Jael. Seems I got another unit checking in.**” 
+
+Damn. 
+
+Jael switched transmission frequency. “Gather and caution,” he said in a low voice to the H256th’s unit channel. Ahead, in the shadows, his men would check their weapons and start their return to him. 
+
+That was when the first distant explosion lit the dusty atmosphere with a dull orange flash. A second or so later, the dull crunch of impact followed. Jael estimated the distance to be two miles to the south. *Sliver rocket*. A Federation scout unit had fired its heavy weapon. *At what?*  
+
+The remote clacking of firearms followed, then another rocket impact.
+
+“H256th, to me!” Jael stood and roared down the street. Transmitter be damned. 
+
+More rocket blasts, more rifle fire. This time to the west. Another Federation unit had engaged. *Engaged what?*
+
+The men began expertly emerging from the shadows ahead, silently and with weapons ready.  Lt. Germaine stopped a few feet from Jael, a curt dip of his head an unsaid inquiry, *What are your orders?* 
+
+Jael was about to say “we go south to help” when he saw subtle movement out of the corner of his eye. A long dark shape slithered against the dust and rubble with a metallic sound, like a chain dragged over dry leaves. 
+
+“**CONTACT!**”
+
+Pvt. Jens fired into the darkness. Muzzle flashes lit up the dark street. Yysho grunted unhappily.
+
+Jens’s shooting seemed to wake more of whatever it was Jael had seen. Over the clattering of rifle fire, Jael heard the slithering noise intensify, this time from several directions. And there was another sound: the thin sonic whine of batteries, servos, and forced air coolant systems coming online. *Dozens of them*.
+
+Pvt. Jens died, and the firing momentarily stopped. His body had been sliced in two by such sharp force that it left him standing whole for a few seconds before he slid apart.
+
+Then the street came alive. 
+
+From windows, from alleys, from beneath dusty rubble, *things* rose. Slim snakelike appendages of dark banded metal, each a dozen or so yards in length. They emerged like a school of kraken breaching the surface of a grey ocean. At the tip of each tentacle was a slim leaf-shaped blade, black and sharp in the starlight.
+
+A low *thump* sounded to Jael’s right, followed immediately by the splintering of black metal vertebrae and flying fragments that stung his face.
+
+The shot from Yysho’s slug-rifle had severed the closest of the tentacles, its live end thrashing like a wounded snake. The business-end, the one with the bladed spike that surely would have speared Jael’s head, undulated in death-throes at the captain’s feet. 
+
+Pandemonium erupted as the men of the H256th all began firing as one.  
+
+Like a kick in the eardrum, Jael felt the jet vacuum of a Sliver rocket shoot past him. Fifty yards ahead, the rocket impacted its target with a dull *crump* that sent dust and metal fragments spinning through the already thick chaos of rifle-shots and waving metallic appendages. 
+
+The recipient of the rocket was briefly revealed in the red bloom of the explosion.
+
+It was as large as a *Carnivore class* tank. Its bloated exoskeletal body was segmented in black metal plates that twisted like living scales, propelling the monstrous body towards Jael’s unit. The thing had no head or face – only a nexus of those metal tentacles, each extending nearly a city block to slash and stab at the soldiers. Jael unslung his rifle and sent a volley of plasma in the general direction of the monstrosity while he tried to read the tactical situation. 
+
+Three of his men were dead already, Lt. Germaine among them. A few more wounded but nobly keeping up the job of destroying flailing tendrils with rifle-shots and heavy slugs. The things seemed to come from everywhere. *There must be at least five of those monsters out there!* Jael thought. The able men of the H256th, a good dozen now, were dodging and firing the best they knew how, but this couldn’t last long. Jonas Kemp, the unit’s heavy weapons specialist, sent another Sliver rocket into the darkness before he was impaled simultaneously by three tendrils. Howling, Jonas was violently retracted into the darkness. Jael never saw Jonas again. 
+
+Yysho fired another shot. The stabbing head of another tentacle exploded in a mist of metallic dust. 
+
+“Into the yellow building!” the Xxcha boomed over the din. 
+
+Even if his accent made it sound like *Jollo Booldun*, Jael couldn’t agree more. He repeated the order with a bark, adding a traditional Sol “Go, Go, Go.”
+
+Then the flyers struck.
+
+About half of Jael’s men had ducked inside the doorway of the yellow civhome when the sky suddenly began to rain molten darts. Jael took three hits to his upper shoulders before throwing himself into cover under the doorway. The two men behind him were torn to shreds. 
+
+The barrage of darts stopped as suddenly as it had started. Over the grating and banging of the tentacles, they heard an unfamiliar oscillating whoop of many small but powerful propellers. Then, like evil daddy longlegs, about 20 enemy drones dropped into street view. Each of the machines had three lightweight propellers protruding from serrated backs. Hanging from each drone was a collection of slender robotic legs, each brimming with strange lightweight weaponry. Their heads consisted of a balled collection of whirring cameras, moving and refocusing constantly, each emanating a dull red glow. 
+
+“Let ‘em have it!” Jael ordered his men. 
+
+Jael emptied his plasma magazine into the face of the nearest flyer. The thing disintegrated, legs blowing off of it like rotten stalks. Its head exploded with an electric hiss, and its body crashed to the ground in a mess of metal joints. One of its propellers had been pried loose by Jael’s shots and careened like a saw blade into another of the flyers. The second flyer was torn apart in a storm of white sparks. *Gotcha!*
+
+Another four of the insectile machines were destroyed by Jael’s men before the remaining drones had calculated their situation. Delicate servos whining, they each raised two of their many legs in line with the yellow civhome, and the hellish rain of darts started again. 
+
+The survivors of the H256th fell to the floor and rolled desperately against the front wall as thousands of tiny red-hot darts disintegrated the plaster of the outside walls and anything in view of doorways and windows. The sound was thunderous. Dust and bits of building flew everywhere. 
+
+After what seemed an hour, but couldn’t have been more than a few seconds, the intensity of the shooting lessened. Jael straightened his helmet and brushed the dust off his face. His ears were ringing and he didn’t feel right. He was dizzy, nauseous, his vision blurry. *C’mon soldier!* He shook his head to clear it up; it didn’t help. *Did they use gas?* A sickness suddenly erupted in his middle, and Jael heaved his guts onto the floor. As he recovered, he realized Yysho was next to him. One of the Xxcha’s strong arms had propped him against the wall, while the alien investigated the wounds on his back. 
+
+“What! Are you a Medic trainee now?” Jael quipped drunkenly. The Xxcha didn’t laugh. It wasn’t funny. 
+
+A few of the men had started returning fire, and from the sound of it, they were nailing a few more of those damned daddy longlegs. The Xxcha produced a thin plastek-sealed cylinder from his vest. He bit off the cylinder’s wrapper and plunged its short thick syringe into Jael’s upper back. Jael squealed like a stuck pig, the needle stabbing him like a knife. *The ‘2X must have some damn tough skin.* The injected fluid stung like a scorpion bite. Almost immediately, Jael’s entire body began to burn like hot soup. 
+
+Yysho grabbed Jael’s moaning face, prying open one of the captain’s eyelids. “Arsenic poisoning,” the alien mumbled and released Jael. “From the dart wounds.” 
+
+Jael threw up again, a dry heave. His body still felt like warm goo, but his vision was clearing a bit already. “Thanks, I get that a lot.”
+
+“You’ll live.” Yysho nodded in satisfaction and took up his slug-rifle to help in the defense. “At least for another few minutes,” he added. 
+
+The barrage of flaming darts continued, now rejoined by the tentacles stabbing at the walls and lashing the windows and doorways. The screech of metal on ceramite was like a needle poking in the brain. The noise cleared Jael’s head.
+
+“You just happened to have medication for arsenic poisoning with you?” Jael asked the Xxcha between a round of firing. 
+
+The alien glanced at the recovering captain, shrugged, and took another shot at a drone that had come too close. The enemy exploded in a white flash of burning phosphor and the stink of ozone.
+
+“You know what those things are, don’t you?” Jael gestured to the street as he groped for his rifle and inched toward the window. *Damned if he wouldn’t have some of the action too.* 
+
+Yysho thought for a moment. “My commanders recently came to suspect something dangerous was infesting this quadrant,” he said. Jael noticed smoke. The back of the house had begun smoldering, no doubt ignited by the heaping piles of red-hot projectiles. The Xxcha had seen it too, but seemed far more concerned with the enemy in front of the building.
+
+“At first we thought the ‘1X had some form of new weapon, an advanced force of some kind,” Yysho continued. “But there were intercepts, indications that the ‘1X themselves were fighting it.”
+
+“I guess this place proves *that* theory,” Jael said as he stabbed his knife into a metallic tendril that had slithered over the windowsill near him. The knife grated in between two joints. Jael twisted the blade, sending sparks flying. With a violent jerk, the tendril retreated back into the street, Jael’s knife with it. 
+
+The Xxcha nodded distractedly, he was now listening for something. Jael heard it too. A deep rumbling that made the floor jitter. Something big was coming. 
+
+Yysho gestured at Jael’s transmitter. “Now would be a good time for another helpful talk with your CO!”
+
+Jael grabbed his transmitter and adjusted the signal. Nothing. He drew back the flap of his equipment pack. The transmitter was smoking; it had taken two direct hits by the arsenic darts.  Jael looked at the Xxcha and shook his head. *So much for the cavalry.*
+
+The rumbling grew louder, and the ground began to shake tangibly. 
+
+A thought occurred to Jael. “Yysho?” he asked. “When you were assigned to the H256th, I was told you were a training embedment.” 
+  
+The Xxcha reloaded his weapon. “That’s right,” he grunted. It sounded like *das rewt*.
+
+Jael grinned. “Except we weren’t supposed to train you, were we?” 
+
+The Xxcha blinked once, then cocked his head to look at Jael with his large yellow eyes. “No, Captain,” Yysho answered. “I was tasked to train your fleshy little behind.”
+
+Jael couldn’t help but laugh out loud. It hurt his wounded shoulders. Then he noticed the rumbling had stopped. Whatever vile device the enemy was deploying, it had apparently rolled into position. 
+
+*At least I don’t have to worry about getting combat pay*, Jael thought and reloaded his weapon. 
+
+The real fighting was about to begin.
