@@ -22,6 +22,20 @@
 
   Soon the Hacan became masters of trade, and their system prospered as unfathomable fortunes were made by the increasingly powerful trading clans, chief among them the Mowshir Emirate of Arretze. The desire to protect their newfound wealth, and a will to peacefully regulate and arbitrate between the clans, moved the Hacan to form a representative gathering and to elect a Quieron - the leader who speaks for all the Hacan. The Quieron leads the entire hierarchy of trade-groups, each possessing its own fleets of commerce and war. His task: to lead his people to the Imperial Throne, establishing an era of wealth and peaceful commerce."
 
+## Jol-Nar (TI1)
+
+  Only the oldest of the regents know the complete origin and evolution of the aquatic Hylar. Living in massive submerged floating cities, the water-breathing Jol-Nar is a species whose intense passion for technology is unrivaled anywhere in the Galaxy. Human scholars have speculated that this genetic passion for technology is an evolutionary sign of environmental strain, and that the physically weak Jol-Nar evolved intelligence and ambition to offset the external threat of aggressive off-worlders.
+  
+  The governing system of the Jol-Nar is that of a vast house of education. The *Head Master* and his *Circle of Regents* are based in the small city of Nhillar in the warm waters of the red ocean on Jol. Part mammal, part fish, the Jol-Nar are capable of breating surface air for extremely long periods of time (some have been measured to severeal years). The race is most comfortable submerged, however, and their compact build renders them immune to liquid depth pressure. The Jol-Nar are often considered by other races to be impatient and rude. This is surely a reflection of the Jol-Nar culture which is extremely competitive and ambitious. The Circle of Regents believes that the Jol-Nar is a completely superior race and will not tolerate any obstruction in their search of intellectual and technological improvement.
+
+## Letnev
+
+  In the very blackness of space lies Arc Prime. Here the Baron preside over a vast underground populace. Dwelling in enormous subterranean caverns, great cities are generously heated by the core of the planet. The Letnev exploit their easy access to the immense metallurgic riches of Arc Prime, and their ship-yards are the most impressive in the galaxy. The Baron nurtures and prods an aggressive militant people which he channels into subordination by impressive discipline and the maintenance of a strict military bureaucracy. The pale Letnev people despise excessive light, and will often wear protective eyewear when travelling on planets with normal sunlight.
+  
+  The everlasting dilemma of the Letnev is their need for food and biological nutrition. Though an army of droids manage vast underground fungus caverns, the population of the Barony have far outgrown what Arc Prime and its barren sister planet, Wren Terra, can muster in foodstuffs and liquid. The ancient Lazax Imperium kept the Barony under control by always closely monitoring the food supply to the Letnev.
+  
+  The Letnev military receives a training so intense and effective it is only surpassed by the *Tekklar Elite* troops on distant Quinarra. The Baron has always had only one flaring ambition: To become Emperor at any cost...
+
 ## Arborec (TI4)
 
   On first approach to Nestphar, a first-time visitor may be surprised by the soupy haze that bleeds from the planet’s atmosphere like a dusty cloud. This cloud consists of quadrillions of tiny living spores emitted by Nestphar’s many Flaah, city-sized floating forests in its stratosphere. The short-lived (and therefore continually resupplied) orbital presence of the Flaah spores allows the Arborec denizens in Nestphar's space-stations and shipyards to remain in continuous symbiotic contact with their planet. The Arborec term for this vital connection, shared among all living things on Nestphar, is best translated as "the Symphony."
