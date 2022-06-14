@@ -35,7 +35,13 @@
   The everlasting dilemma of the Letnev is their need for food and biological nutrition. Though an army of droids manage vast underground fungus caverns, the population of the Barony have far outgrown what Arc Prime and its barren sister planet, Wren Terra, can muster in foodstuffs and liquid. The ancient Lazax Imperium kept the Barony under control by always closely monitoring the food supply to the Letnev.
   
   The Letnev military receives a training so intense and effective it is only surpassed by the *Tekklar Elite* troops on distant Quinarra. The Baron has always had only one flaring ambition: To become Emperor at any cost...
-  
+
+## Mentak (TI1: B)
+
+Moll Primus, a lonely montainous planet on the very outskirts of known space. Used by the ancient empire as a penal colony once claiming the most impressive punitive institutions for criminals in the galaxy. Early during the Age Twilight, Moll Primus was abandoned by its Lazax wardens, leaving its starving inmate population to centuries of chaos and anarchy. Then, led by Ervan Mentak, the scarce and mixed population united and formed a coalition of rogues. The central administration on Moll Primus is called the *Table of Captains* which is elected by popular vote. *Ervans Hand* is the single most influential title in the Table of Regents and on Moll Primus. The Mentak platform of politics is efficent and desimple: Revenge. Publicity denied by the Table of Captains, yet known to all, the Mentak employ a vast pirating fleet, wrecking systematic and effecient havoc among shipping lanes and unprotected military convoys. Pirating and deep core mining are the two main economic drivers for the Mentaks growing military and political power.
+
+  For countless centuries, the mixed races of the Mentak have looked towards the skies, a fierce hatred embedded in their genes. Hatred towards the Great Races who abondened them so long ago!
+
 ## L1Z1X (TI1: OR)
 
   It has been eight years since the Hacan trader *Zollar* was lost. Two parsecs out from Retillion, the *Zollar's* navigation equipment failed, leaving the ship and its crew stranded in deep space. Weeks later, the drifting merchant freighter was hailed by a great warship of unknown origin. The crew's joy turned to terror as the warship closed, brought its cannons on line and opened fire. The random destruction of the *Zollar* announced the return the Lazax, the first imperial race, to the known galaxy.
