@@ -28,13 +28,27 @@
   
   The governing system of the Jol-Nar is that of a vast house of education. The *Head Master* and his *Circle of Regents* are based in the small city of Nhillar in the warm waters of the red ocean on Jol. Part mammal, part fish, the Jol-Nar are capable of breating surface air for extremely long periods of time (some have been measured to severeal years). The race is most comfortable submerged, however, and their compact build renders them immune to liquid depth pressure. The Jol-Nar are often considered by other races to be impatient and rude. This is surely a reflection of the Jol-Nar culture which is extremely competitive and ambitious. The Circle of Regents believes that the Jol-Nar is a completely superior race and will not tolerate any obstruction in their search of intellectual and technological improvement.
 
-## Letnev
+## Letnev (TI1)
 
   In the very blackness of space lies Arc Prime. Here the Baron preside over a vast underground populace. Dwelling in enormous subterranean caverns, great cities are generously heated by the core of the planet. The Letnev exploit their easy access to the immense metallurgic riches of Arc Prime, and their ship-yards are the most impressive in the galaxy. The Baron nurtures and prods an aggressive militant people which he channels into subordination by impressive discipline and the maintenance of a strict military bureaucracy. The pale Letnev people despise excessive light, and will often wear protective eyewear when travelling on planets with normal sunlight.
   
   The everlasting dilemma of the Letnev is their need for food and biological nutrition. Though an army of droids manage vast underground fungus caverns, the population of the Barony have far outgrown what Arc Prime and its barren sister planet, Wren Terra, can muster in foodstuffs and liquid. The ancient Lazax Imperium kept the Barony under control by always closely monitoring the food supply to the Letnev.
   
   The Letnev military receives a training so intense and effective it is only surpassed by the *Tekklar Elite* troops on distant Quinarra. The Baron has always had only one flaring ambition: To become Emperor at any cost...
+  
+## L1Z1X (TI1: OR)
+
+  It has been eight years since the Hacan trader *Zollar* was lost. Two parsecs out from Retillion, the *Zollar's* navigation equipment failed, leaving the ship and its crew stranded in deep space. Weeks later, the drifting merchant freighter was hailed by a great warship of unknown origin. The crew's joy turned to terror as the warship closed, brought its cannons on line and opened fire. The random destruction of the *Zollar* announced the return the Lazax, the first imperial race, to the known galaxy.
+  
+  Enhanced by cybernetic implants, the Lazax have transformed themselves into something more akin to a data-processing machine than biological entity. After the encounter with the Hacan trader, the Lazax, calling themselves "Elwonzeewonex" (L1z1x), sent a delegation to Mecatol Rex, submitting an ancestral claim to the throne.
+  
+  The Winnaran Custodians are deeply divided over this issue. Some Winnarans claim that the L1z1x, though obviously descended from the Lazax, are not the ancient ruling race, but a new and potentially dangerous hybrid. Other Winnarans argue that the Lazax has returned, and that the custodianship is over.
+  
+  Little is known of the L1z1x. Only one person, a Winarran historian, has been allowed to visit the L1z1x homeworld, and he has not yet returned. The L1z1x homeworld is located many parsecs beyond the Borderlands, in cold orbit around the small star Hazz. Called "0.0.0" by its inhabitants, "Null" by the rest of the Galaxy, the homeworld remains a largely unknown entity.
+  
+  There are many theories about why and how the Lazax transformed themselves into this cybernetic new race. It is a fact that no one truly knows what secrets and violent ambitions lie behind the vacant red eyes of the L1z1x.
+
+## Naalu (TI1: OR)
 
 ## Arborec (TI4)
 
