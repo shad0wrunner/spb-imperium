@@ -1,5 +1,7 @@
 ## PLANETS
 
+Kamm -> Kamdorn
+
 Sacul G -> Sakulag 
 Riescue -> Rescullon (?)
 
