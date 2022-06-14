@@ -2,14 +2,21 @@
 
 ![factions](https://user-images.githubusercontent.com/88241831/173678370-c3e1b5eb-796b-462e-bf57-7ed7b5fd1c55.png)
 
-NOTE: Описание фракций в TI1 и TI2 практически идентично. В тех случаях, когда есть расхождения, они разделены.
-
+NOTE: Описание фракций в TI1 и TI2 практически идентично. 
 
 ## Hacan (TI1)
 
-  <font color="red">Located</font> in the center of the Quenwari starcluster lies the tri-system of the Hacan. Circling the massive star Kenara are the three desert planets of the Hacan Emirate: Arretze, Kamm, and Hercant. Scorched by the merciless sun, the People of Hacan are nomads, moving their cities on massive on massive dust-sleds to cooler climates in the twilight dawn.  
+  Located In the center of the Quenwari starcluster lies the tri-system of the Hacan. Circling the massive star Kenara are the three desert planets of the Hacan Emirate: Arretze, Kamm, and Hercant. Scorched by the merciless sun, the People of Hacan are nomads, moving their cities on massive on massive dust-sleds to cooler climates in the twilight dawn.  
   
-  In their distant past, the Hacan were a poor species, their exploits into space dwarfed by the other great <font color="red">factions of the forgone Lazax Imperium</font> (races of the Imperium). Then the Hacan discovered the off-Worlders insatiable lust for special products grown under Kenaras blinding light: the intoxicating Gerr-Root, clothes made from the star-flowers that only bloom on Hercants equinox, multiple aphrodisiacs, liquors, and forbidden drugs harvested under Kenaras grace. In a short period of time the Hacan became masters of trade, and the tri-system prospered trade-clans. The desire to protect their wealth was the catalyst behind the formation of the cental Hacan Emirate goverment. The *Quieron*, leader of the Hacan, is chosen by a hierarchy of trade-groups, each possessing their own fleets of trade and war. The Quieron is the high-commander of the united merchant and warfleet, his motive: To lead the Hacan to the imperial throne, solidifying an era of wealth and commerce.
+  In their distant past, the Hacan were a poor species, their exploits into space dwarfed by the other great factions of the forgone Lazax Imperium. Then the Hacan discovered the off-Worlders insatiable lust for special products grown under Kenaras blinding light: the intoxicating Gerr-Root, clothes made from the star-flowers that only bloom on Hercants equinox, multiple aphrodisiacs, liquors, and forbidden drugs harvested under Kenaras grace. In a short period of time the Hacan became masters of trade, and the tri-system prospered trade-clans. The desire to protect their wealth was the catalyst behind the formation of the cental Hacan Emirate goverment. The *Quieron*, leader of the Hacan, is chosen by a hierarchy of trade-groups, each possessing their own fleets of trade and war. The Quieron is the high-commander of the united merchant and warfleet, his motive: To lead the Hacan to the imperial throne, solidifying an era of wealth and commerce.
+
+## Hacan (TI2)
+
+  In the center of the Quenwari starcluster lies the tri-system of the Hacan. Circling the massive star Kenara are the three desert planets of the Hacan Emirate: Arretze, Kamm, and Hercant. Scorched by the merciless sun, the People of Hacan are nomads, moving their cities on massive on massive dust-sleds to cooler climates in the twilight dawn.
+
+  In their distant past, the Hacan were a poor species, their exploits into space dwarfed by the other great races of the Imperium. That was before the Hacan discovered the insatiable lust of off-worlders for special products grown under Kenara's blinding light: The intoxicating Gerr Root, clothes made from the Starflowers that only rise during Hercant's equinox, multiple aphrodisiacs, liquors, medicine, and forbidden drugs harvested and manufactured by the crafty hands of the Hacan people.
+  
+  Soon the Hacan became masters of trade, and their system prospered as unfathomable fortunes were made by the increasingly powerful trade-clans. The desire to protect their wealth was the catalyst behind the election of the "Quieron": the leader of the Hacan. This individual is chosen by a hierarchy of trade-groups, each possessing their own fleets of trade and war. The Quieron is the supreme commander of the united Hacan tradefleet and military machine. His task: to lead the Hacan to the imperial throne, solidifying an era of wealth and peaceful commerce.
 
 ## Hacan (TI4)
 
