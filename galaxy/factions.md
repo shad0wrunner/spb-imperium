@@ -1,60 +1,6 @@
 ## Factions of TI
 
-<table>
-  <tr width="300">
-    <td width="20"> N </td><td width="50"> Faction </td><td width="20"> TI11 </td><td width="20"> TI1:B </td><td width="20"> TI1:OR </td><td width="20"> TI2 </td><td width="20"> TI2:HE </td><td width="20"> TI3 </td><td width="20"> TI3:SE </td><td width="20"> TI3:SotT & TI4 </td><td width="20"> TI4:PoK </td><td width="20"> TI4: Codex </td>
-  </tr><tr>
-    <td> 01 </td><td> Hacan </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 02 </td><td> Jol-Nar </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 03 </td><td> Letnev </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 04 </td><td> N'orr </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 05 </td><td> Sol </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 06 </td><td> Xxcha </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 07 </td><td> Mentak </td><td> - </td><td> + </td><td> + </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 08 </td><td> Yssaril </td><td> - </td><td> + </td><td> + </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 09 </td><td> Naalu </td><td> - </td><td> - </td><td> + </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 10 </td><td> L1Z1X </td><td> - </td><td> - </td><td> + </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 11 </td><td> Muaat </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 12 </td><td> Saar </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 13 </td><td> Winnu </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 14 </td><td> Yin </td><td>  - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 15 </td><td> Arborec </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 16 </td><td> Creuss </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 17 </td><td> Nekro </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> + </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 18 </td><td> Argent </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 19 </td><td> Empyrean </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 20 </td><td> Mahact </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 21 </td><td> Naaz-Rokha </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 22 </td><td> Nomad </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 23 </td><td> Ul </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 24 </td><td> Vuil'raith </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> + </td><td> + </td>
-  </tr><tr>
-    <td> 25 </td><td> Keleres </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td>  </td><td> - </td><td> - </td><td> - </td><td> + </td>
-  </tr>
-</table>
+![factions](https://user-images.githubusercontent.com/88241831/173678370-c3e1b5eb-796b-462e-bf57-7ed7b5fd1c55.png)
 
 ## Hacan (TI1)
 
@@ -94,3 +40,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   Ultimately, despite the objections of the dissident races, the Arborec were admitted as a member of the galactic council. The potential wealth of foodstuffs, medicines, and other treasures of Nestphar proved effective in overcoming any objections.
   
   While the Arborec insist that the past knowledge and experiences of Dirzuga bodies do not persist beyond this reanimation, there are some who suspect the Arborec do not tell the entire truth. Such theorists can provide many examples in which the Arborec seem to have come upon information, or intimate understanding of other cultures, that seem inexplicable otherwise.
+
+## Xxcha (TI1)
+
+  Bathed in the stong, yet gentle light of the Xxllak star lies the splendid jewel of Archon Ren. A magnificent sylvan planet hosting a vast myriad of living creatures. The Xxcha, a sentient lizard race, are masters of life in Archon Ren and have been considered as one of the Great Galactic Races longer than history itself. The Xxcha people is ruled by the High King and his royals from the mightty city of Kklaj. Here the king oversees a philosophic and peaceful race whose structures and starships are intricately beatuful and an aesthetic joy to the eye. A favorite past time of the elder Xxcha is to contemplate origin and meaning while smoking Gerr-Root from long-stemmed pipes. Tourists find Archon Ren a paradise, and remarkably free of from the annoyance of insects that so often tend to make forest-planets unbearable.
+  
+  The everlasting sorrow of the gentle Xxcha hover above them in the night sky. Archon Tau, sister planet that once matched Archon Rens beauty and majesty. The ecology of Archon Tau was destroyed in the gruesome bombardment when a Letnev Force invaded and was subsequently defeated by forces from Sol in the early Twilight Years. Once a people with no military, the Xxcha are docile no more. The silent reminder in their night sky keep the Xxcha fleet vigilant and its military determined to never again submit to an invading force.
