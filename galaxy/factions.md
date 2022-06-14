@@ -2,7 +2,7 @@
 
 ![factions](https://user-images.githubusercontent.com/88241831/173678370-c3e1b5eb-796b-462e-bf57-7ed7b5fd1c55.png)
 
-NOTE: Описание фракций в TI1 и TI2 практически идентично. 
+***
 
 ## Hacan (TI1)
 
@@ -32,11 +32,25 @@ NOTE: Описание фракций в TI1 и TI2 практически ид�
 
   Soon the Hacan became masters of trade, and their system prospered as unfathomable fortunes were made by the increasingly powerful trading clans, chief among them the Mowshir Emirate of Arretze. The desire to protect their newfound wealth, and a will to peacefully regulate and arbitrate between the clans, moved the Hacan to form a representative gathering and to elect a Quieron - the leader who speaks for all the Hacan. The Quieron leads the entire hierarchy of trade-groups, each possessing its own fleets of commerce and war. His task: to lead his people to the Imperial Throne, establishing an era of wealth and peaceful commerce.
 
+***
+
 ## Jol-Nar (TI1)
 
   Only the oldest of the regents know the complete origin and evolution of the aquatic Hylar. Living in massive submerged floating cities, the water-breathing Jol-Nar is a species whose intense passion for technology is unrivaled anywhere in the Galaxy. Human scholars have speculated that this genetic passion for technology is an evolutionary sign of environmental strain, and that the physically weak Jol-Nar evolved intelligence and ambition to offset the external threat of aggressive off-worlders.
   
-  The governing system of the Jol-Nar is that of a vast house of education. The *Head Master* and his *Circle of Regents* are based in the small city of Nhillar in the warm waters of the red ocean on Jol. Part mammal, part fish, the Jol-Nar are capable of breating surface air for extremely long periods of time (some have been measured to severeal years). The race is most comfortable submerged, however, and their compact build renders them immune to liquid depth pressure. The Jol-Nar are often considered by other races to be impatient and rude. This is surely a reflection of the Jol-Nar culture which is extremely competitive and ambitious. The Circle of Regents believes that the Jol-Nar is a completely superior race and will not tolerate any obstruction in their search of intellectual and technological improvement.
+  The governing system of the Jol-Nar is that of a vast house of education. The *Head Master* and his *Circle of Regents* are based in the small city of Nhillar in the warm waters of the red ocean on Jol. Part mammal, part fish, the Jol-Nar are capable of breating surface air for extremely long periods of time (some have been measured to several years). The race is most comfortable submerged, however, and their compact build renders them immune to liquid depth pressure. The Jol-Nar are often considered by other races to be impatient and rude. This is surely a reflection of the Jol-Nar culture which is extremely competitive and ambitious. The Circle of Regents believes that the Jol-Nar is a completely superior race and will not tolerate any obstruction in their search of intellectual and technological improvement.
+
+## Jol-Nar (TI2)
+
+  Only the oldest of the Regents know the complete origin and evolution of the aquatic Hylar. Living in massive submerged cities, the water breathing Hylar is a species whose intense passion for technology is unrivaled anywhere in the galaxy. Human scholars have speculated that this genetic passion for technology is an evolutionary sign of a harsh environment adapted to a biological physique that is a signfically weak and with limited dexterous use. In other words, the Hylar have found intelligence and ambition sufficient to circumvent their weakness.
+  
+  The governing system of the Hylar is that of the Jol-Nar education alliance. The Head Master governs their united efforts with the Circle of Regents acting simultaneously as the most accomplished scholars of their field, and as governors of the various regions on the two oceanic planets of Jol and Nar. The Jol-Nar regime is often considered by other races to be an impatient and rude one. Perharps this is a mere reflection of the ambitious and competitive Hylar culture, perhaps not.
+  
+  Though the Hylar are capable of breating surface air for extremely long periods of time (some have been timed to exceed several years), their dense bodies and soft bones make them most comfortable submerged.
+  
+  The Head Master and the Circle of Regents will not tolerate any obstruction in their search for intellectual and technological advancement.
+
+***
 
 ## Letnev (TI1)
 
