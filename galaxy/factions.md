@@ -50,6 +50,12 @@
 
 ## Naalu (TI1: OR)
 
+Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to join the council. Some other races are disturbed by the Naalu mind-reading ability, fearing that these graceful creatures will turn their telepathy in a weapon of conquest. Other points to the Collective's calm demeanor and passion for beauty - unlikely attributes for an ambitious race.
+
+  Reaching out from their lovely homeworld Druaa, the Naalu have plans for the beautification of the rest of the galaxy. Worlds full of ugliness and chaos will be broken down and rebuilt according to the Naalu vision. The other races may resist these changes at first, but they are destined to accept their glorious rule... or be destroyed.
+  
+  Naalu starships are known for their ornate splendor and elegant design. As powerful as they are beautiful, these mighty ships harbor massive engines and terrible weapons behind their gorgeous facades. With fleets of these ships to enforce their rule, the Naalu feel confident that their time has arrived. Soon the rest of the galaxy will know tranquillity, order and true beauty ...  or be destroyed.
+
 ## Arborec (TI4)
 
   On first approach to Nestphar, a first-time visitor may be surprised by the soupy haze that bleeds from the planet’s atmosphere like a dusty cloud. This cloud consists of quadrillions of tiny living spores emitted by Nestphar’s many Flaah, city-sized floating forests in its stratosphere. The short-lived (and therefore continually resupplied) orbital presence of the Flaah spores allows the Arborec denizens in Nestphar's space-stations and shipyards to remain in continuous symbiotic contact with their planet. The Arborec term for this vital connection, shared among all living things on Nestphar, is best translated as "the Symphony."
