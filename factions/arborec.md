@@ -3,20 +3,20 @@
 ## Faction Abilities / Фракционные свойства
 #### Mitosis
 Your space dock cannot produce infantry. At the start of the status phase, place 1 infantry from your reinforcements on any planet you control.
-#### Letani Warrior I (Infantry)
+#### Letani Warrior I (Infantry) (GG)
 
 <img src="https://user-images.githubusercontent.com/88241831/173884457-b2a67ca5-9a55-4665-904c-a5a16269174f.png" width=300>
 
-| Cost | Combat | Other |
-|:---:|:---:|:---:|
-| 1x2 | 8 | PRODUCTION I |
+Cost: 1x2  
+Combat: 8  
+Other: PRODUCTION 1
 
 | Home System | Commodities |
 |:---:|:---:|
 | [Nestphar](../planets/nestphar.jpg) 3/2 | 3 |
 
 | Starting Fleet | | | |
-|:---:|:---:|:---:|:---:|
+|:--:|:--:|:--:|:--:| 
 | Space Dock | 1 | PDS | 1 |
 | Cruiser | 1 | Carrier | 1 |
 | Fighters | 2 | Infantry | 4 |
