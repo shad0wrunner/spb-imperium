@@ -1,5 +1,7 @@
 ## PLANETS
 
+2nd Edition number of planets: 58
+
 Kamm -> Kamdorn
 
 Tren-Lak (TI1) -> Tren'lak (TI2)
