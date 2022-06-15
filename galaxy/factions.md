@@ -59,7 +59,17 @@
   The everlasting dilemma of the Letnev is their need for food and biological nutrition. Though an army of droids manage vast underground fungus caverns, the population of the Barony have far outgrown what Arc Prime and its barren sister planet, Wren Terra, can muster in foodstuffs and liquid. The ancient Lazax Imperium kept the Barony under control by always closely monitoring the food supply to the Letnev.
   
   The Letnev military receives a training so intense and effective it is only surpassed by the *Tekklar Elite* troops on distant Quinarra. The Baron has always had only one flaring ambition: To become Emperor at any cost...
+
+## Letnev (TI2)
+
+  In the very blackness of space lies the bleak and tortured world known as Arc Prime. Here the Baron presides over the vast underground populace of the Letnev. Dwelling in enormous subterran cities, generously heated by the planet core, the Letnev exploit the immense metallurgic riches of Arc Prime.
   
+  The Baron nurtures and prods a proud and aggressive people. Order is kept by the maintenance of a militant culture, impressive discipline, and a strict bureaucracy. The pale Letnev people despise excessive light, and often will wear protective eyewear when travelling on planets with bright sunlight.
+  
+  The everlasting dilemma of the Letnev is their need for food and nutrition. Though an army of droids manage vast caverns of fungus farming, the population of the Barony has far outgrown what Arc Prime can muster in foodstuffs and liquid. The ancient Lazax kept the Barony under control by careful monitoring of the Letnev food supply.
+  
+  The Letnev military receives a training so intense and effective it is only surpassed by the "Tekklar Elite" troops on distant Quinarra. The Baron himself has only one flaring ambition: To become Emperor at any cost!
+
 ## N'orr (TI1)
 
   Gigantic oceanless Quinarra dwell like a sleeping behemoth in the misty depths of space. The surface of the red planet is often terrorized by mighty thunderstorms, sandstorms, and icy hail. On Quinarra, pure water is in constant shortage, its only real on-world source being the precipitation of the immense storms. Though a liquid-efficient species, it is still necessary for the Norr to ferry gigantic mountains of ice to Quinarra from its frozen sister-planet Tren-Lak. The Sardakk Norr is an insectile race, dwelling in gigantic complex hive-like cities. Hardened by the rough evolution on Quinarra, the Norr are able to live for long periods of time in extreme hard-ship, their shell-like bodies containing an enormous strength. The Norr are supposedly ruled by the Queen Mother, yet few truly believe in her existence. Even the majority of the Norr hold SARDAKK THE MOTHER in a merely ritual respect. The accepted leader, and the head-ofstate, is *The Speaker of the Queen*, a male Norr in direct command over the economy, culture, and military forces of the Norr.
