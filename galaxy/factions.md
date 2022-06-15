@@ -70,11 +70,27 @@
   
   The Letnev military receives a training so intense and effective it is only surpassed by the "Tekklar Elite" troops on distant Quinarra. The Baron himself has only one flaring ambition: To become Emperor at any cost!
 
+***
+
 ## N'orr (TI1)
 
-  Gigantic oceanless Quinarra dwell like a sleeping behemoth in the misty depths of space. The surface of the red planet is often terrorized by mighty thunderstorms, sandstorms, and icy hail. On Quinarra, pure water is in constant shortage, its only real on-world source being the precipitation of the immense storms. Though a liquid-efficient species, it is still necessary for the Norr to ferry gigantic mountains of ice to Quinarra from its frozen sister-planet Tren-Lak. The Sardakk Norr is an insectile race, dwelling in gigantic complex hive-like cities. Hardened by the rough evolution on Quinarra, the Norr are able to live for long periods of time in extreme hard-ship, their shell-like bodies containing an enormous strength. The Norr are supposedly ruled by the Queen Mother, yet few truly believe in her existence. Even the majority of the Norr hold SARDAKK THE MOTHER in a merely ritual respect. The accepted leader, and the head-ofstate, is *The Speaker of the Queen*, a male Norr in direct command over the economy, culture, and military forces of the Norr.
+  Gigantic oceanless Quinarra dwell like a sleeping behemoth in the misty depths of space. The surface of the red planet is often terrorized by mighty thunderstorms, sandstorms, and icy hail. On Quinarra, pure water is in constant shortage, its only real on-world source being the precipitation of the immense storms. Though a liquid-efficient species, it is still necessary for the Norr to ferry gigantic mountains of ice to Quinarra from its frozen sister-planet Tren-Lak. 
   
-  *The Tekklar Elite*, the most featured band of military elite fighters, are trained from birth in the waster of Quinarra to fight and give their fanatical loyalty to the Mother and the Speaker alone.
+  The Sardakk Norr is an insectile race, dwelling in gigantic complex hive-like cities. Hardened by the rough evolution on Quinarra, the Norr are able to live for long periods of time in extreme hard-ship, their shell-like bodies containing an enormous strength. The Norr are supposedly ruled by the Queen Mother, yet few truly believe in her existence. Even the majority of the Norr hold SARDAKK THE MOTHER in a merely ritual respect. The accepted leader, and the head-ofstate, is *The Speaker of the Queen*, a male Norr in direct command over the economy, culture, and military forces of the Norr.
+  
+  *The Tekklar Elite*, the most featured band of military elite fighters, are trained from birth in the wastes of Quinarra to fight and give their fanatical loyalty to the Mother and the Speaker alone.
+
+## N'orr (TI2)
+
+  Gigantic, oceanless Quinarra dwells like a sleeping behemoth in the misty depths of space. The surface of the red planet is often terrorized by mighty electrical storms, sandstorms, and deadly hail. On Quinarra, pure water is in constant shortage, its only real on-world source being the precipitation of the immense storms. Though a liquid-efficient species, it is still necessary for the N'orr to ferry gigantic mountains of ice to Quinarra from the frozen sister planet of Tren'lak. 
+
+  The Sardakk N'orr is an insectile race, dwelling in enormous and complex hive cities. Hardened by the rough evolution on Quinarra, the N'orr are able to live for long periods of time in extreme hardship, their shell-like bodies containing great physical strength. 
+  
+  The N'orr are supposedly ruled by the "Queen Mother", yet few truly believe in her existence. The majority of the N'orr hold "Sardakk The Mother" in a mere ritual respect. The accepted leader, and the Head Of State, is The Speaker of the Queen, a male N'orr in direct command over the economic, cultural, and military matters of the N'orr.
+  
+  The N'orr "Tekklar Elite" troops are trained from birth in the wastes of Quinarra to fight and give their fanatical loyalty to the Mother and the Speaker alone.
+
+***
 
 ## Sol (TI1)
 
