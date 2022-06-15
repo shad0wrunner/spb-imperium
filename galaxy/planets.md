@@ -2,6 +2,8 @@
 
 Kamm -> Kamdorn
 
+Tren-Lak (TI1) -> Tren'lak (TI2)
+
 Sacul G -> Sakulag 
 Riescue -> Rescullon (?)
 
