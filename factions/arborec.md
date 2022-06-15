@@ -1,9 +1,12 @@
-# ![The Arborec](icons/Arborec40x40.png) The Arborec / Арборек
+# The Arborec / Арборек
 
-## Faction Abilities
+## Faction Abilities / Фракционные свойства
 #### Mitosis
 Your space dock cannot produce infantry. At the start of the status phase, place 1 infantry from your reinforcements on any planet you control.
 #### Letani Warrior I (Infantry)
+
+<img src="https://user-images.githubusercontent.com/88241831/173884457-b2a67ca5-9a55-4665-904c-a5a16269174f.png" width=300>
+
 | Cost | Combat | Other |
 |:---:|:---:|:---:|
 | 1x2 | 8 | PRODUCTION I |
@@ -36,9 +39,33 @@ Your space dock cannot produce infantry. At the start of the status phase, place
 
 ## Faction Technologies
 
+#### Bioplasmosis (GG)
+
+At the end of the status phase, you may remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.
+
+#### Letani Warrior II (Infantry) (GG)
+
 ## Faction Leaders
 
+#### Letani Ospha (Agent)
+
+#### Dirzuga Rophal (Commander)
+
+#### Letani Miasmiala (Hero) - Ultrasonic Emitter
+
 ## Faction Promissory Note
+
+#### Stymie 
+
+* ACTION: Place this card faceup in your play area.
+* While this card in your play area, the Arborec player cannot produce units in or adjacent to non-home systems that contain 1 or more of your units.
+* If you activate a system that contains 1 or more of the Arborec player's units, return this card to the Arborec player.
+
+#### Stymie Ω
+
+* After another player moves ships into a system that contains 1 or more of your units:
+* You may place 1 command token from that player's reinforcements in any non-home system.
+* Then, return this card to the Arborec player.
 
 ---
 ![Faction Sheet Front](https://drive.google.com/uc?export=view&id=1IumWHlKaQJyiwwtXJXipVgDn-4Ec6aFv)
