@@ -4,7 +4,7 @@ Kamm -> Kamdorn
 
 Tren-Lak (TI1) -> Tren'lak (TI2)
 
-Sacul G -> Sakulag 
+Sacul G -> Sakulag  
 Riescue -> Rescullon (?)
 
 TI1 Planets: Tallin / Emelpar / Cronos / Olergodt
