@@ -94,15 +94,39 @@
 
 ## Sol (TI1)
 
-  Ever-since their discovery of the mass-driver engine, humans have been reaching into space, driven by some inner instinct of exploration and discovery. Coming from the central *Jord* or *Ert*, human fleets of commerce and war are a common sight almost anywhere in the galaxy. More than any of the other Great races, humans have the greatest swings in intelligence and talent: Humans can be found in all levels of the galactic coulture, from common servants, smugglers, thieves, to wealthy traders, to diplomatic consultants and renowned scholars. It is commonly recognized by Galactic Massologists, that it is the diversity of talent that has allowed the human race to resist annihilation or extinction.Since the human race inherently carries no special characteristics in which it especially excels, the theory is considered a sound one.
+  Ever-since their discovery of the mass-drive engine, humans have been reaching into space, driven by some inner instinct of exploration and discovery. Coming from the central *Jord* or *Ert*, human fleets of commerce and war are a common sight almost anywhere in the galaxy. More than any of the other Great races, humans have the greatest swings in intelligence and talent: Humans can be found in all levels of the galactic coulture, from common servants, smugglers, thieves, to wealthy traders, to diplomatic consultants and renowned scholars. It is commonly recognized by Galactic Massologists, that it is the diversity of talent that has allowed the human race to resist annihilation or extinction. Since the human race inherently carries no special characteristics in which it especially excels, the theory is considered a sound one.
   
   The Federation is governed by the bi-annually elected *President* and his council of one-thousand in New Moscow (a massive city in the center of a vast urban continent.) For all their prowess in diversification, humans have shown themselves to be as aggressive as any of the other great races. History shows that The federation of Sol, were among the most ardent of aggressors in the early Twilight Wars in the wake of the crumbling Lazax Imperium.
 
+## Sol (TI2)
+
+  Ever since their discovery of the mass-drive engine, humans have been reaching into space. Driven by some inner instinct of exploration and discovery, no star seems too remote for human curiosity.
+  
+  Stemming from the gorgeous planet Jord (or Ert), human fleets of commerce and colonization are common sights in the galaxy. More so than any other race humans have the greatest deviance in intellect and application in skills. They can be found in every level of galactic coulture, from common servants, smugglers, and thieves, to wealthy traders, diplomatic consultants, and respected scholars. It is commonly recognized by galactic historians that it has been the diversification of human talent that has allowed the race to resist annihilation or extinction. 
+  
+  The Federation is governed by the bi-annually elected "President" or "High Minister", whose power is counterbalanced by the central Council of One Thousand. Governance and administration of the human cause is done from of New Moscow, located in the center of the Jord urbanized continent.
+  
+  For all their prowess in diversification, humans have proven themselves to be one of the most aggressive of the great races. War, nationalism, and hostile expansion have left their mark on human history. Sol was among the most ardent aggressors during the early Twilight Wars.
+
+***
+
 ## Xxcha (TI1)
 
-  Bathed in the stong, yet gentle light of the Xxllak star lies the splendid jewel of Archon Ren. A magnificent sylvan planet hosting a vast myriad of living creatures. The Xxcha, a sentient lizard race, are masters of life in Archon Ren and have been considered as one of the Great Galactic Races longer than history itself. The Xxcha people is ruled by the High King and his royals from the mightty city of Kklaj. Here the king oversees a philosophic and peaceful race whose structures and starships are intricately beatuful and an aesthetic joy to the eye. A favorite past time of the elder Xxcha is to contemplate origin and meaning while smoking Gerr-Root from long-stemmed pipes. Tourists find Archon Ren a paradise, and remarkably free of from the annoyance of insects that so often tend to make forest-planets unbearable.
+  Bathed in the stong, yet gentle light of the Xxllak star lies the splendid jewel of Archon Ren. A magnificent sylvan planet hosting a vast myriad of living creatures. The Xxcha, a sentient lizard race, are masters of life in Archon Ren and have been considered as one of the Great Galactic Races longer than history itself. The Xxcha people is ruled by the High King and his royals from the mighty city of Kklaj. Here the king oversees a philosophic and peaceful race whose structures and starships are intricately beatuful and an aesthetic joy to the eye. A favorite past time of the elder Xxcha is to contemplate origin and meaning while smoking Gerr-Root from long-stemmed pipes. Tourists find Archon Ren a paradise, and remarkably free of from the annoyance of insects that so often tend to make forest-planets unbearable.
   
   The everlasting sorrow of the gentle Xxcha hover above them in the night sky. Archon Tau, sister planet that once matched Archon Rens beauty and majesty. The ecology of Archon Tau was destroyed in the gruesome bombardment when a Letnev Force invaded and was subsequently defeated by forces from Sol in the early Twilight Years. Once a people with no military, the Xxcha are docile no more. The silent reminder in their night sky keep the Xxcha fleet vigilant and its military determined to never again submit to an invading force.
+
+## Xxcha (TI2)
+
+  Bathed in the stong, yet gentle, light of the Xxllak star lies the splendid jewel of Archon Ren. The planet hosts a magnificient jungle environment and a myriad of living creatures. The Xxcha, a sentient lizard race, are masters of life on Archon Ren. The Xxcha have been considered one of the Great Races longer than history itself. 
+  
+  The Xxcha monarchy is ruled by the King in the lush city of Kklaj, where he oversees a philosophical and peaceful people whose structures and starships are often intricately beatuful and an aestetic joy to the eye. A favorite past time of elder Xxcha is to contemplate Origin and Meaning while smoking Gerr Root on long stemmed pipes. Tourists find Archon Ren a paradise remarkably free from hostile insects that so often make jungle planets unbearable.
+  
+  The everlasting sorrow of the Xxcha people hovers shining above them in the night sky. Brilliant it may look, but shattered and dead nevertheless: Archon Tau, the sister planet that once matched Archon Ren's beauty and majesty. The ecology of Archon Tau was destroyed in the gruesome bombardment when a Letnev Force invaded and was subsequently defeated by a liberating Sol force in the early Twilight Era. 
+  
+  Once a people with no military, the Xxcha are docile no longer. The silent reminder above them keeps the Xxcha military and fleet vigilant and determined to never again submit to an invading force.
+  
+***
 
 ## Mentak (TI1: B)
 
