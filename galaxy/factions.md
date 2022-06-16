@@ -4,6 +4,11 @@
 
 ***
 
+NOTE: Описание фракций в TI3 и TI4 практически идентично, за исключением Арборека и одного абзаца Nekro.  
+Небольшие добавления в виде catch phrase на лицевой стороне листа фракции в TI4 и краткого описания в правом верхнем углу оборотной стороны выделены отдельно.
+
+***
+
 ## Hacan (TI1)
 
   Located In the center of the Quenwari starcluster lies the tri-system of the Hacan. Circling the massive star Kenara are the three desert planets of the Hacan Emirate: Arretze, Kamm, and Hercant. Scorched by the merciless sun, the People of Hacan are nomads, moving their cities on massive on massive dust-sleds to cooler climates in the twilight dawn.  
@@ -18,7 +23,19 @@
   
   Soon the Hacan became masters of trade, and their system prospered as unfathomable fortunes were made by the increasingly powerful trade-clans. The desire to protect their wealth was the catalyst behind the election of the "Quieron": the leader of the Hacan. This individual is chosen by a hierarchy of trade-groups, each possessing their own fleets of trade and war. The Quieron is the supreme commander of the united Hacan tradefleet and military machine. His task: to lead the Hacan to the imperial throne, solidifying an era of wealth and peaceful commerce.
 
-## Hacan (TI4)
+## Hacan (TI3 & TI4)
+
+`"There is no price too great for the Hacan, no silk too fine, and no war too long. My people will perservere." (c) Hacan Carth`
+
+>Kenara System  
+>* Population: 8.82 billion  
+>* Goverment: United Emirates  
+>* Leadership: Queieron  
+>* Disposition: Nomadic  
+>* Tendencies: Ecomonic  
+>  
+>  *The wealth of half the galaxy flows through the coffers of the nomadic trading clans of the Hacan, but being a traditional people, they choose to remain secluded away in dry deserts of Kenara's worlds, their ancestral home.*
+
 
   Under the punishing rays of the massive star Kenara lies the tri-system of the Hacan, each of its three satellites wrapped in the yellow haze so distinctive of desert planets. These three jewels are called Arretze, Kamdorn, and Hercant. Here, the united Emirates of the Hacan have grown a mighty civilization of warriors, nomads, farmers, and above all, merchants.  
   
@@ -51,6 +68,17 @@
   The Head Master and the Circle of Regents will not tolerate any obstruction in their search for intellectual and technological advancement.
   
 ## Jol-Nar (TI4)
+
+`"We cannot halt progress for the sake of morality. If you have not the stomach for science, then I suggest you depart Wun-Escha immediately" (c) Doctor Sucuban`
+
+>Garin System  
+>* Population: 3.22 billion  
+>* Goverment: Circle of Regents  
+>* Leadership: Headmaster  
+>* Disposition: Aloof  
+>* Tendencies: Scientific  
+>  
+>  *The Hylar technologies which have become so widespread across the galaxy represent a mere fraction of the Universities' advanced capabilities.*
 
   Most technological devices used in the galaxy today have at least one or two components originating from the Jol-Nar laboratories. During the height of the Lazax Imperium, the galaxy was even more reliant on underlying Jol-Nar technology and the knowledge of the aquatic Hylar. This reliance on Jol-Nar engineers and skills was one of the key factors leading to the total collapse of galactic civilization and its descent into the Dark Years that followed the Twilight Wars.
 
@@ -420,25 +448,25 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
   Brightest in the Morgallen Cluster burns the old star Farruban. While sun to no less than 26 satellites, Farruban's only inhabitable planet is the tropical giant of Nestphar, a planet teeming with life so abundant it almost defies description.
 
-  On first approach to Nestphar, a first-time visitor may be surprised by the soupy haze that bleeds from the planet's atmosphere like a dusty cloud. This cloud consists of quadrillions of tiny living spores emitted by Nestphar's many Flaah, city-sized floating forests in its stratosphere. The short-lived (and therefore continually resupplied) orbital presence of the Flaah spores allows the Arborec denizens in Nestphar's space-stations and shipyards to remain in continuous symbiotic contact with their planet. The Arborec term for this vital connection, shared among all living things on Nestphar, is best translated as "the Symphony".
+  On first approach to Nestphar, a first-time visitor may be surprised by the soupy haze that bleeds from the planet's atmosphere like a dusty cloud. This cloud consists of quadrillions of tiny living spores emitted by Nestphar's many *Flaah*, city-sized floating forests in its stratosphere. The short-lived (and therefore continually resupplied) orbital presence of the Flaah spores allows the Arborec denizens in Nestphar's space-stations and shipyards to remain in continuous symbiotic contact with their planet. The Arborec term for this vital connection, shared among all living things on Nestphar, is best translated as "the Symphony".
 
-  The Arborec should be described not as a race, but as an intelligent ecosystem consisting of countless biological specimens, from the smallest spore to the complex fungal organisms of the Letani.
+  The Arborec should be described not as a race, but as an intelligent ecosystem consisting of countless biological specimens, from the smallest spore to the complex fungal organisms of the *Letani*.
 
-  When traveling beyond the reach of Nestphar's Flaah spores, and therefore outside connection to the prime Symphony, the Arborec employ the massive Letani. Physically, the Letani are the largest sentient beings yet discovered in the galaxy (each slightly larger than a Sol Elephantus), their bodies resembling a kraken-shaped mushroom crossed with a monstrous carnivorous flower. The Letani are each uniquely capable of embodying a powerful instance of the Symphony (and are therefore closest to an "individual" within Arborec society) which may act as a harmonic nexus for Arborec organisms in near proximity. All ships in the Arborec fleet are based around the presence of at least one (with some ships as many as five) Letani orchestrating the unity of Arborec lifeforms crewing the vessel.
+  When traveling beyond the reach of Nestphar's Flaah spores, and therefore outside connection to the prime Symphony, the Arborec employ the massive Letani. Physically, the Letani are the largest sentient beings yet discovered in the galaxy (each slightly larger than a Sol *Elephantus*), their bodies resembling a kraken-shaped mushroom crossed with a monstrous carnivorous flower. The Letani are each uniquely capable of embodying a powerful instance of the Symphony (and are therefore closest to an "individual" within Arborec society) which may act as a harmonic nexus for Arborec organisms in near proximity. All ships in the Arborec fleet are based around the presence of at least one (with some ships as many as five) Letani orchestrating the unity of Arborec lifeforms crewing the vessel.
 
   Once a Letani returns to the embrace of Nestphar's prime Symphony, its experiences are reconnected and absorbed into the Arborec, as a data-capsule would be reconnected to its mainframe.
 
   The admittance of the Arborec to the galactic council was undoubtedly the most controversial in the council's long history. A small group of elder races - led by the humans of Sol - viciously protested admittance by reason of moral impediment.
 
-  While surely intelligent and demonstrably capable of crafting impressive technologies, structures, and a sophisticated fleet of interstellar craft, the Arborec's method of communication remains a source of great controversy. Being a race of vegetative and fungal matter, handling its own data transmission and emotive projection through the prime Symphony, the Arborec had never developed any form of visual or auditory communication (concepts which, to this day, remain foreign to them).
+  While surely intelligent and demonstrably capable of crafting impressive technologies, structures, and a sophisticated fleet of interstellar craft, the Arborec's method of *communication* remains a source of great controversy. Being a race of vegetative and fungal matter, handling its own data transmission and emotive projection through the prime Symphony, the Arborec had never developed any form of visual or auditory communication (concepts which, to this day, remain foreign to them).
 
-  Arborec scientists had found the solution to this dilemma in the Sol merchant vessel Dies Opulen. The crew of the Dies Opulen had tragically become infected by Yborin Plague on Maaluk and had later died in deep space. When the derelict ship was found by an Arborec scout, it was determined the cool bodies of the human crew were in perfect condition for an ambitious experiment. The bodies were sent to the great laboratories in Kushin, near the Arborec capital Phara.
+  Arborec scientists had found the solution to this dilemma in the Sol merchant vessel *Dies Opulen*. The crew of the *Dies Opulen* had tragically become infected by Yborin Plague on Maaluk and had later died in deep space. When the derelict ship was found by an Arborec scout, it was determined the cool bodies of the human crew were in perfect condition for an ambitious experiment. The bodies were sent to the great laboratories in Kushin, near the Arborec capital Phara.
 
-  Here, fungal Arzuga cells were attached to the brainstems of the dead humans. It was hoped, when grown under proper conditions, the complex acidic properties of Arzuga would successfully merge the cells with the innate brain-tissue of the deceased subjects, slowly re-stimulating the neural pathways back to life. Then, by injecting photo-voltaic stims into the soft tissues of the dead body, the neurally active Arzuga would spur the soft tissue cells to heal and regrow, effectively reanimating the dead body.
+  Here, fungal *Arzuga* cells were attached to the brainstems of the dead humans. It was hoped, when grown under proper conditions, the complex acidic properties of Arzuga would successfully merge the cells with the innate brain-tissue of the deceased subjects, slowly re-stimulating the neural pathways back to life. Then, by injecting photo-voltaic stims into the soft tissues of the dead body, the neurally active Arzuga would spur the soft tissue cells to heal and regrow, effectively reanimating the dead body.
 
   The experiment was a rousing success, and one that would change the destiny of the Arborec.
 
-  Symbolically attached to the host body, the Arzuga fungi evolved into a new being, one which the Arborec call the Dirzuga.
+  Symbolically attached to the host body, the Arzuga fungi evolved into a new being, one which the Arborec call the *Dirzuga*.
 
   The Dirzuga were the missing link between the Symphony and the manifestation of physical communication that the Arborec lacked. Over the following few decades, the Arborec eagerly acquired additional subjects (human bodies seem to work best and are the most frequently used, but Letnev, Winnu, and Xxcha bodies are also commonly used as Dirzuga hosts), establishing a sizable diplomatic and trading corps that have become the basis for the Arborec's interaction with the rest of the galaxy.
 
