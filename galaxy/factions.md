@@ -416,6 +416,40 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
 ***
 
+## Arborec (TI3)
+
+  Brightest in the Morgallen Cluster burns the old star Farruban. While sun to no less than 26 satellites, Farruban's only inhabitable planet is the tropical giant of Nestphar, a planet teeming with life so abundant it almost defies description.
+
+  On first approach to Nestphar, a first-time visitor may be surprised by the soupy haze that bleeds from the planet's atmosphere like a dusty cloud. This cloud consists of quadrillions of tiny living spores emitted by Nestphar's many Flaah, city-sized floating forests in its stratosphere. The short-lived (and therefore continually resupplied) orbital presence of the Flaah spores allows the Arborec denizens in Nestphar's space-stations and shipyards to remain in continuous symbiotic contact with their planet. The Arborec term for this vital connection, shared among all living things on Nestphar, is best translated as "the Symphony".
+
+  The Arborec should be described not as a race, but as an intelligent ecosystem consisting of countless biological specimens, from the smallest spore to the complex fungal organisms of the Letani.
+
+  When traveling beyond the reach of Nestphar's Flaah spores, and therefore outside connection to the prime Symphony, the Arborec employ the massive Letani. Physically, the Letani are the largest sentient beings yet discovered in the galaxy (each slightly larger than a Sol Elephantus), their bodies resembling a kraken-shaped mushroom crossed with a monstrous carnivorous flower. The Letani are each uniquely capable of embodying a powerful instance of the Symphony (and are therefore closest to an "individual" within Arborec society) which may act as a harmonic nexus for Arborec organisms in near proximity. All ships in the Arborec fleet are based around the presence of at least one (with some ships as many as five) Letani orchestrating the unity of Arborec lifeforms crewing the vessel.
+
+  Once a Letani returns to the embrace of Nestphar's prime Symphony, its experiences are reconnected and absorbed into the Arborec, as a data-capsule would be reconnected to its mainframe.
+
+  The admittance of the Arborec to the galactic council was undoubtedly the most controversial in the council's long history. A small group of elder races - led by the humans of Sol - viciously protested admittance by reason of moral impediment.
+
+  While surely intelligent and demonstrably capable of crafting impressive technologies, structures, and a sophisticated fleet of interstellar craft, the Arborec's method of communication remains a source of great controversy. Being a race of vegetative and fungal matter, handling its own data transmission and emotive projection through the prime Symphony, the Arborec had never developed any form of visual or auditory communication (concepts which, to this day, remain foreign to them).
+
+  Arborec scientists had found the solution to this dilemma in the Sol merchant vessel Dies Opulen. The crew of the Dies Opulen had tragically become infected by Yborin Plague on Maaluk and had later died in deep space. When the derelict ship was found by an Arborec scout, it was determined the cool bodies of the human crew were in perfect condition for an ambitious experiment. The bodies were sent to the great laboratories in Kushin, near the Arborec capital Phara.
+
+  Here, fungal Arzuga cells were attached to the brainstems of the dead humans. It was hoped, when grown under proper conditions, the complex acidic properties of Arzuga would successfully merge the cells with the innate brain-tissue of the deceased subjects, slowly re-stimulating the neural pathways back to life. Then, by injecting photo-voltaic stims into the soft tissues of the dead body, the neurally active Arzuga would spur the soft tissue cells to heal and regrow, effectively reanimating the dead body.
+
+  The experiment was a rousing success, and one that would change the destiny of the Arborec.
+
+  Symbolically attached to the host body, the Arzuga fungi evolved into a new being, one which the Arborec call the Dirzuga.
+
+  The Dirzuga were the missing link between the Symphony and the manifestation of physical communication that the Arborec lacked. Over the following few decades, the Arborec eagerly acquired additional subjects (human bodies seem to work best and are the most frequently used, but Letnev, Winnu, and Xxcha bodies are also commonly used as Dirzuga hosts), establishing a sizable diplomatic and trading corps that have become the basis for the Arborec's interaction with the rest of the galaxy.
+
+  The Arborec insist the host bodies of the Dirzuga are devoid of the expired individuals' consciousness. With a cultural relationship to death rooted in the natural cycle of decomposition and regrowth, the Arborec have little understanding or sympathy for those who vigorously protest against the bodies of their citizens being reused (some use the term "enslaved") in such a manner.
+
+  Ultimately, despite the objections of the dissident races, the Arborec were admitted as a member of the galactic council. The potential wealth of foodstuffs, medicines, and other treasures of Nestphar proved effective in overcoming any objections.
+
+  While the Arborec insist that the past knowledge and experiences of Dirzuga bodies do not persist, there are some who suspect the Arborec do not tell the entire truth. Such theorists can provide many examples in which the Arborec seem to have come upon information, or intimate understanding of other cultures, that seem inexplicable otherwise.
+
+  If some memories and knowledge of the dead are absorbed by the Arborec, would emotion and ambition be as well? Is it possible, perhaps even likely, that in digesting the music of such alien lives, the Arborec are in return infecting the Symphony? Is this why the Arborec have come to show keen interest in colonization and expansion? Is this why they have come to exhibit signs of duplicity, or even aggression?
+
 ## Arborec (TI4)
 
   On first approach to Nestphar, a first-time visitor may be surprised by the soupy haze that bleeds from the planet’s atmosphere like a dusty cloud. This cloud consists of quadrillions of tiny living spores emitted by Nestphar’s many Flaah, city-sized floating forests in its stratosphere. The short-lived (and therefore continually resupplied) orbital presence of the Flaah spores allows the Arborec denizens in Nestphar's space-stations and shipyards to remain in continuous symbiotic contact with their planet. The Arborec term for this vital connection, shared among all living things on Nestphar, is best translated as "the Symphony."
