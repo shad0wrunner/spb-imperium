@@ -7,5 +7,6 @@
 - Produce
 - Remove
 - Replace
+- Spend
 - Then
 - Up to
