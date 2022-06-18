@@ -8,6 +8,7 @@ description: Механики игры.
 * Deploy /
 * Exploration / Исследования
 * Produce / Производство
+* Research / 
 * Transaction / Транзакция
 
 #### 30. DEPLOY
