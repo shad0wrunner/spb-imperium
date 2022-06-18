@@ -1,9 +1,17 @@
-# ![The Ghosts of Creuss](icons/creuss40x40.png) The Ghosts of Creuss / Призраки Креусса
+# The Ghosts of Creuss / Призраки Креусса
 
 ## Faction Abilities
-### Faction Ability 1 / Квантовая запутанность
-### Faction Ability 2 / Гравитационный манёвр
-### Faction Ability 3 / Врата Креусса
+### Quantum Entanglement / Квантовая запутанность
+
+You treat all systems that contain either an alpha or beta wormholess adjacent to each other. Game effects cannot prevent you from using this ability.
+
+### Slipstream / Гравитационный манёвр
+
+During your tactical action, apply +1 to the move value of each of your ships that starts its movements in your home system or in a system that contains either an alpha or beta wormhole.
+
+### Creuss Gate / Врата Креусса
+
+When you create the game board, place the Creuss Gate (tile 17) where your home system would normally be placed. The Creuss Gate system is not a home system. Then, place your home system (tile 51) in your place area.
 
 ## Faction Start
 ### Faction Home
@@ -22,13 +30,13 @@
 ### Icarus Drive / Двигатель Икаруса (Mech)
 
 ## Faction Technologies
-### Faction Technology 1 / Генератор червоточин
-### Faction Technology 2 / Пространственный исказитель
+### Dimensional Splicer (R) / Генератор червоточин
+### Wormhole Generator (BB) / Пространственный исказитель
 
 ## Faction Leaders
-### Faction Agent / Эмиссар Тайвра
-### Faction Commander / Сай Серавус
-### Faction Hero
+### Emissary Taivra / Эмиссар Тайвра
+### Sai Seravus / Сай Серавус
+### Riftwalker Meian - Singularity Reactor
 
 ## Faction Promissory Note
-### Faction PN / Система "Свой-Чужой"
+### Creuss Iff / Система "Свой-Чужой"
