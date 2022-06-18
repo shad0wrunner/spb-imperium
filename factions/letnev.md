@@ -2,7 +2,12 @@
 
 ## Faction Abilities
 ### Munitions Reserves
+
+At the start of each round of space combat, you may spend 2 trade goods; you may reroll any number of your dice during this combat round.
+
 ### Armada
+
+The maximum number of non-fighter ships you can have in each system is equal to 2 more than number of tokens in your fleet pool.
 
 ## Faction Start
 ### Faction Home
