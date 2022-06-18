@@ -1,8 +1,17 @@
-# ![The Embers of Muaat](icons/muaat40x40.png) The Embers of Muaat / Тлеющие с Муаата
+# The Embers of Muaat / Тлеющие с Муаата
 
 ## Faction Abilities
-### Faction Ability 1
-### Faction Ability 2
+### Star Forge
+
+ACTION: Spend 1 token from your strategy pool to place either 2 fighters or 1 destroyer from your reinforcements in a system that contains 1 or more of your war suns.
+
+### Gashlai Physiology
+
+Your ships can move through supernovas.
+
+### Prototype War Sun I (War Sun)
+
+Other players' units in this system lose the PLANETARY SHIELD ability.
 
 ## Faction Start
 ### Faction Home
@@ -17,16 +26,25 @@
 | Fighters | 2 | Infantry | 4 |
 
 ## Faction Flagship & Mech
-### Flagship Name (Flagship)
-### Mech Name (Mech)
+### The Inferno
+
+ACTION: Spend 1 token from your strategy pool to place 1 cruiser in this unit's system.
+
+### Ember Colossus
+
+When you use your STAR FORGE faction ability in this system or an adjacent system, you may place 1 infantry from your reinforcements with this unit.
 
 ## Faction Technologies
-### Faction Technology 1
-### Faction Technology 2
+
+### Magmus Reactor (RR)
+
+### Magmus Reactor  Ω (RR)
+
+### Prototype War Sun II (War Sun) (RRRY)
 
 ## Faction Leaders
-### Faction Agent
-### Faction Commander
-### Faction Hero
+### Umbat
+### Magmus
+### Adjudicator Ba'al - Nova Seed
 
-## Faction Promissory Note
+## Fires of the Gashlai
