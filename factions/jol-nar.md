@@ -1,4 +1,4 @@
-# The Universities of Jol-Nar/ Жол-Нарские Университеты
+# The Universities of Jol-Nar / Жол-Нарские Университеты
 
 ## Faction Abilities
 ### Fragile
