@@ -1,8 +1,15 @@
-# ![The Federation of Sol](icons/sol40x40.png) The Federation Sol / Федерация Сол
+# The Federation Sol / Федерация Сол
 
 ## Faction Abilities
-### Faction Ability 1
-### Faction Ability 2
+### Orbital Drop
+ACTION: Spend 1 token from your strategy pool to place 2 infantry from your reinforcements on 1 planet you control.
+
+### Versatile
+When you gain command tokens during the status phase, gain 1 additional command token.
+
+## Faction Units
+### Advanced Carrier I (Carrier)
+### Spec Ops I (Infantry)
 
 ## Faction Start
 ### Faction Home
@@ -17,16 +24,20 @@
 | Fighters | 2 | Infantry | 4 |
 
 ## Faction Flagship & Mech
-### Flagship Name (Flagship)
-### Mech Name (Mech)
+### Genesis (Flagship)
+At the end of the status phase, place 1 infantry from your reinforcements in this system's space area.
+
+### ZS Thunderbolt M2 (Mech)
+After you use your ORBITAL DROP faction ability you may spend 3 resources to place 1 mech on that planet.
 
 ## Faction Technologies
-### Faction Technology 1
-### Faction Technology 2
+### Advanced Carrier II (Carrier) (BB)
+### Spec Ops II (Infantry) (GG)
 
 ## Faction Leaders
-### Faction Agent
-### Faction Commander
-### Faction Hero
+### Evelyn Delouis Agent
+### Claire Gibson Commander
+### Jace X. 4th Air Legion (Hero) - Helio Command Array
 
 ## Faction Promissory Note
+### Military Support
