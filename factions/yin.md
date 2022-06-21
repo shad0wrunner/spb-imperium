@@ -3,6 +3,7 @@
 ## Faction Abilities
 ### Indoctrination
 At the start of a ground combat, you may spend 2 influence to replace 1 of your opponent's participating infantry with 1 infantry from your reinforcements.
+
 ### Devotion
 After each space battle round, you may destroy 1 of your cruisers or destroyers to produce 1 hit and assign it to 1 of your opponent's ships.
 
@@ -20,7 +21,10 @@ After each space battle round, you may destroy 1 of your cruisers or destroyers 
 
 ## Faction Flagship & Mech
 ### Van Hauge (Flagship)
+When this ship is destroyed, destroy all ships in this system.
+
 ### Moyin's Ashes (Mech)
+DEPLOY: When you use your INDOCTRINATION faction ability, you may spend 1 additional influence to replace your opponent's unit with 1 mech instead of 1 infantry.
 
 ## Faction Technologies
 ### Impulse Core
