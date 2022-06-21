@@ -1,10 +1,7 @@
+# Twilight Imperium First Edition
+
 ![image](https://user-images.githubusercontent.com/88241831/174460267-3ddcee59-ce33-4118-84f3-38e23d739d1f.png)
 
-Technology Progression						
-	1	2	3	4	5	6
-Propulsion	XRD Star Class Transporter	Antimass Deflector	Wexcon Invasion Barges	Type IV Drive	Talkin Deep-Space Evasion Computer	Spatial Jump
-	All your Carriers receive a +1 in movement.	All your space-ships may move through Asteroid Fields, but may never end their turn in an Asteroid Field.	Durin the 'Invasion Combat Segment', you are now allowed to invade two planets in the same system in the same turn.	All your ships move at +1 (in addition to other modifiers).	Your ships may now move through systems containg enemy spaceships.	Before your 'Movement Segment', you may dedicate one fleet to go anywhere in the galaxy. After the jump, remove half of the credit value of the fleet (round up).
-Weapons	Fluxar Cargo Bays	Hylar V Assault Laser	Xlite Mass Drive	Deep Space Cannon	Hylar Bombing Device	X-89 Bacterial Attack Form
-	Your Carriers are now allowed to carry 10 units.	Your Cruisers now fight at a +1.	Your Fighters may now move independently at a movement of 1. A fleet containg only Figthers cannot interdict an enemy fleet.	During your 'Space Combat Segment' each of your P.D.S. may fire once at one enemy fleet in an adjacent system.	Dreadnoughts receive a +1 while bombarding and may bombard even if the target planet contains defending P.D.S.	A bombarding Dreadnought may choose to use this attack, destroying all enemy presence on the target planet. The X-89 bombarding player looses 5 permanent influence points per bombardment.
-General	Industrial Efficiency	Micro-Technology	Sarween Tools	Neural Motivator	Transit Diodes	Master of Production
-	Your Spacedocks are now allowed to produce one extra unit per turn.	You receive 3 extra creduts for each of your Trade Agreements during the 'Receive Trade Income' phase.	Each of your planets receives a +1 in resources.	You may draw an additional action card every turn.	During you 'Movement Segment', you may move up to three Ground Forces from any one of your planets to another.	You are now allowed place your new units directly on the board during the 'Buy New Units' phase.
+# Twilight Imperium Second Edition
+
+![image](https://user-images.githubusercontent.com/88241831/174862924-be251347-39f5-4947-9e89-ac25b62fe47f.png)
