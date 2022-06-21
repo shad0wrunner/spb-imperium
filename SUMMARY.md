@@ -48,6 +48,7 @@
 * [Factions](galaxy/factions.md)
 * [Planets](galaxy/planets.md)
 * [Leaders](galaxy/leaders.md)
+* [Techs](galaxy/techs.md)
 
 ## Links
 
