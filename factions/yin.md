@@ -27,18 +27,28 @@ When this ship is destroyed, destroy all ships in this system.
 DEPLOY: When you use your INDOCTRINATION faction ability, you may spend 1 additional influence to replace your opponent's unit with 1 mech instead of 1 infantry.
 
 ## Faction Technologies
-### Impulse Core
+### Impulse Core (YY)
 At the start of a space combat, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit against your opponent's ships; that his must be assigned by your opponent to 1 of his non-fighter ships if able.			
 
-### Yin Spinner
+### Yin Spinner (GG)
 After 1 or more of your units use PRODUCTION, place 1 infantry from your reinforcements on a planet you control in that system.
 
 ## Faction Leaders
 ### Brother Milor - Faction Agent
+### Brother Milor  Ω - Faction Agent
 ### Brother Omar - Faction Commander
-### Dannel of the Tenth - Faction Hero
+### Brother Omar  Ω - Faction Commander
+### Dannel of the Tenth (Hero) - Spinner Overdrive
+### Dannel of the Tenth  Ω (Hero) - Quantum Dissemination  Ω
 
-## Greyfire Mutagen - Faction Promissory Note
+## Faction Promissory Notes
+
+### Greyfire Mutagen
 * After a system is activated:
 * The Yin player cannot use faction abilities or faction technology during this tactical action.
+* Then, return this card to the Yin player.
+
+### Greyfire Mutagen Ω
+* At the start of a ground combat against 2 or more ground forces that are not controlled by the Yin player:
+* Replace 1 of your opponent's infantry with 1 infantry from your reinforcements.
 * Then, return this card to the Yin player.
