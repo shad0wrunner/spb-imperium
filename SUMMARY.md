@@ -53,6 +53,7 @@
 
 * [Оф.ресурсы](stuff/official.md)
 * [Оф.правила](stuff/rules.md)
+* [Codex](stuff/codex.md)
 * [FAQ's](stuff/faq.md)
 * [Утилиты](stuff/utils.md)
 * [3D-модели](stuff/3dunits.md)
