@@ -22,11 +22,14 @@ You can have any number of action cards in your hand. Game effects cannot preven
 
 ## Faction Flagship & Mech
 ### Y'sia Y'ssrila (Flagship)
-### Blackshade Infiltrator (Mech)
+This ship can move through systems that contain other players' ships.
 
+### Blackshade Infiltrator (Mech)
+DEPLOY: After you use your STALL TACTICS faction ability, you may place 1 mech on a planet you control.
 ## Faction Technologies
 ### Mageon Implants
 ACTION: Exhaust this card to look at another player's hand of action cards. Choose 1 of those cards and add it to your hand.
+
 ### Transparasteel Plating
 During your turn of the action phase, players that have passed cannot play action cards.
 
