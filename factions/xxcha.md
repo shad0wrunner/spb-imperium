@@ -3,6 +3,7 @@
 ## Faction Abilities
 ### Peace Accords
 After you resolve the primary or secondary ability of the "Diplomacy" strategy card, you may gain control of 1 planet other then Mecatol Rex that does not contain any units and is in a system that is adjacent to a planet you control.
+
 ### Quash
 When an agenda is revealed, you may spend 1 token from your strategy pool to discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.
 
@@ -20,18 +21,23 @@ When an agenda is revealed, you may spend 1 token from your strategy pool to dis
 
 ## Faction Flagship & Mech
 ### Loncara Ssodu (Flagship)
+You may use this unit's SPACE CANNON against ships that are in adjacent systems.
+
 ### Indomitus (Mech)
+You may use this unit's SPACE CANNON against ships that are in adjacent systems.
 
 ## Faction Technologies
 ### Instinct Training
 You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.
+
 ### Nullification Field
 After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.
 
 ## Faction Leaders
 ### Ggrucoto Rinn - Faction Agent
 ### Elder Qanoj - Faction Commander
-### Xxekir Grom - Faction Hero
+### Xxekir Grom (Hero) - Political Data Nexus
+### Xxekir Grom (Hero)  Ω - Political Data Nexus  Ω
 
 ## Political Favor - Faction Promissory Note
 * After an agenda is revealed:
