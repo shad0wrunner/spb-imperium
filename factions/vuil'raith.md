@@ -50,3 +50,5 @@ ACTION: Each other player rolls a die for each of his non-fighter ships that are
 Then, purge this card.
 
 ## Faction Promissory Note
+
+### Crucible
