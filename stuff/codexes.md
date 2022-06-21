@@ -12,6 +12,6 @@
 * [Codex Volume 1: Ordinian](https://drive.google.com/drive/folders/1ia_Q12Fs87txyNRpmCp-dq5M7mKRPy0r?usp=sharing) - На английском.
 * [Codex Volume 2: Affinity](https://drive.google.com/drive/folders/1M9HYxuPwK9MjAPVSQNBxwQwPwe2h8VXP?usp=sharing) - На английском.
 * [Codex Volume 3: Vigil](https://drive.google.com/drive/folders/1LUfP9nQKVU88NgErB_YTL5XLyXPFIAM_?usp=sharing) - На английском.
-* [Codex Volume 1 & 2](https://drive.google.com/drive/folders/1Wpv2DZgi8gVEND3kNeuJXDIXJeD4nbdE?usp=sharing) - На русском, перевод https://vk.com/orbisp и https://vk.com/raider.
-* [Codex Volume 3](https://drive.google.com/drive/folders/1BYTm2DYcUXTMqManlWis_NRPjw-OUmfF?usp=sharing) - На русском, перевод https://vk.com/orbisp.
-* [Codex Voluem 1 & 2 & 3](https://drive.google.com/drive/folders/1xCGy4r6gwTtMxGn64CAhs2rtZ-VKDnaf?usp=sharing) - На русском, перевод VikManz.
+* [Codex Volume 1 & 2](https://drive.google.com/drive/folders/1Wpv2DZgi8gVEND3kNeuJXDIXJeD4nbdE?usp=sharing) - На русском, перевод [Антона Конькова](https://vk.com/raider) и [Леонида Снегирева](https://vk.com/orbisp).
+* [Codex Volume 3](https://drive.google.com/drive/folders/1BYTm2DYcUXTMqManlWis_NRPjw-OUmfF?usp=sharing) - На русском, перевод [Леонида Снегирева](https://vk.com/orbisp).
+* [Codex Volume 1 & 2 & 3](https://drive.google.com/drive/folders/1xCGy4r6gwTtMxGn64CAhs2rtZ-VKDnaf?usp=sharing) - На русском, перевод VikManz.
