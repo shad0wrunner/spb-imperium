@@ -4,6 +4,8 @@ description: TI Community (SPb edition)
 
 # Twilight Imperium 4th Edition Stuff Main
 
+Проект находится в стадии WIP. Что-то готово лучше, что-то хуже.
+
 Сборище всякого разного по тематике.
 Пока что в основном - ссылки.
 
