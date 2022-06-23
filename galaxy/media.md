@@ -29,6 +29,12 @@ RPG по вселенной TI на движке Genesys.
 ## [Twilight Inscription](https://boardgamegeek.com/boardgame/361545/twilight-inscription)
 Пока не вышедшая игра в жанре Roll-and-Wtrite.
 # Книги вселенной Twilight Imperium
-### The Fractured Void (by Tim Pratt)
+Трилогия Тима Пратта уже вышла на английском. Было объявлено, что она планируется к официальному переводу, но на данный момент по этому поводу полная тишина.
+### The Fractured Void (by Tim Pratt) 
+Доступна к покупке на английском. Можно найти в тырнете. Существует любительский перевод на руский язык.
 ### The Necropolis Empire (by Tim Pratt)
-### The Stars Beyond (by Tim Pratt)
+Доступна к покупке на английском. Можно найти в тырнете.
+### The Veiled Masters (by Tim Pratt)
+Доступна к покупке на английском. В тырнете пока не найти.
+### The Stars Beyond
+Сборник из шести рассказов (новелл ?), под редакцией Charlotte Llewelyn-Wells. В продажу пока не поступал.
