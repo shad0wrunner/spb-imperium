@@ -42,7 +42,7 @@ RPG по вселенной TI на движке Genesys.
 Пока не вышедшая игра в жанре Roll-and-Wtrite.
 # Книги вселенной Twilight Imperium
 ## Трилогия Тима Пратта
-<image src="https://user-images.githubusercontent.com/88241831/175357227-36b96f40-b95e-4f24-9d46-3f8bd5509aa5.jpg" height=200)
+<image src="https://user-images.githubusercontent.com/88241831/175357227-36b96f40-b95e-4f24-9d46-3f8bd5509aa5.jpg" height="200">
 
 Вышла на английском. Было объявлено, что она планируется к официальному переводу, но на данный момент по этому поводу полная тишина.
 ### The Fractured Void (by Tim Pratt) 
