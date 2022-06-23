@@ -12,7 +12,7 @@
 ### [Twilight Imperium: The Outer Rim (1998)](https://boardgamegeek.com/boardgameexpansion/6188/twilight-imperium-outer-rim)
 Добавили две фракции (Л1з1кс и Наалу.
 ## [Twilight Imperium: Second Edition (2000)](https://boardgamegeek.com/boardgame/26055/twilight-imperium-second-edition)
-У второй редакции существовал русская локализация, которую и сейчас иногда можно увидеть в продаже на "Авито".  
+У второй редакции существовала русская локализация, которую и сейчас иногда можно увидеть в продаже на "Авито".  
 Шесть фракций.
 ### [Twilight Imperium: Second Edition – Hope's End (2001)](https://boardgamegeek.com/boardgameexpansion/4338/twilight-imperium-second-edition-hopes-end)
 Добавили две фракции (Ментак и Иссарил).
