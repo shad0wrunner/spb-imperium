@@ -1,7 +1,7 @@
 # Игры вселенной Twilight Imperium
 ## [Twilight Imperium (1997)](https://boardgamegeek.com/boardgame/24/twilight-imperium)
 Самая первая игра по вселенной Twilight Imperium и одновременно первая игра Fantasy Flight Games.
-Разработчки: [Кристиан Т. Петерсен](https://boardgamegeek.com/boardgamedesigner/21/christian-t-petersen)
+Разработчик: [Кристиан Т. Петерсен](https://boardgamegeek.com/boardgamedesigner/21/christian-t-petersen)
 ### [Twilight Imperium: Borderlands (1997)](https://boardgamegeek.com/boardgameexpansion/6190/twilight-imperium-borderlands)
 ### [Twilight Imperium: Distant Suns (1998)](https://boardgamegeek.com/boardgameexpansion/6181/twilight-imperium-distant-suns)
 ### [Twilight Imperium: Twilight Armada (1998)](https://boardgamegeek.com/boardgameaccessory/6189/twilight-imperium-twilight-armada)
