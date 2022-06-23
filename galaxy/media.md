@@ -10,7 +10,7 @@
 ### [Twilight Imperium: Twilight Armada (1998)](https://boardgamegeek.com/boardgameaccessory/6189/twilight-imperium-twilight-armada)
 Дополнение представляло из себя просто набор пластиковых фигурок для игры.
 ### [Twilight Imperium: The Outer Rim (1998)](https://boardgamegeek.com/boardgameexpansion/6188/twilight-imperium-outer-rim)
-Добавили две фракции (Л1з1кс и Наалу.
+Добавили две фракции (Л1з1кс и Наалу).
 ## [Twilight Imperium: Second Edition (2000)](https://boardgamegeek.com/boardgame/26055/twilight-imperium-second-edition)
 У второй редакции существовала русская локализация, которую и сейчас иногда можно увидеть в продаже на "Авито".  
 Шесть фракций.
