@@ -13,7 +13,7 @@
 
 16.4. 
 - Fighters and ground forces are not assigned to specific ships, except while they are being transported.
----
+***
 ### 18. Combat
 Combat is an attribute of some units that is presented on those units’ faction sheets and technology cards.
 
@@ -22,7 +22,7 @@ Combat is an attribute of some units that is presented on those units’ faction
 
 18.2.
 - If a unit’s combat value contains two or more burst icons, instead of rolling a single die, the player rolls one die for each burst icon when making that unit’s combat rolls.
----
+***
 ### 26. Cost
 Cost is an attribute of some units that is presented on those units’ faction sheets and technology cards. A unit’s cost determines the number of resources a player must spend to produce that unit.
 
@@ -35,7 +35,7 @@ Cost is an attribute of some units that is presented on those units’ faction s
 26.3.
 - If a unit does not have a cost, it cannot be produced.
 - Structures do not have costs and are usually placed by resolving the “Construction” strategy card.
----
+***
 ### 57. Move
 Move is an attribute of some units that is presented on those units’ faction sheets and technology cards.
 
