@@ -10,6 +10,12 @@ At the end of the strategy phase, place the Naalu "0" token on your strategy car
 After another player moves ships into a system that contains 1 or more of your ships, you may place 1 token from your strategy pool in a adjacent system that does not contain another player's ships; move your ships from the active system into that system.
 
 ### Hybrid Crystal Fighter I (Fighter)
+<img src="https://github.com/shad0wrunner/spb-imperium/blob/master/images/Naalu%20FA%20-%20Hybrid%20Crystal%20Fighter%20I.png" width="200">
+
+Cost: 1 (x2)  
+Combat: 8
+
+Upgrage: Hybrid Crystal Fighter II (GB)
 
 ## Faction Start
 ### Faction Home
