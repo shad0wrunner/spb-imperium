@@ -52,16 +52,21 @@
 
 ## Links
 
-* [Оф.ресурсы](stuff/official.md)
-* [Оф.правила](stuff/rules.md)
-* [Codex](stuff/codexes.md)
-* [FAQ's](stuff/faq.md)
-* [Утилиты](stuff/utils.md)
-* [3D-модели](stuff/3dunits.md)
-* [Стафф](stuff/stuff.md)
-* [TI Online](stuff/online.md)
-* [Хоумрулы](stuff/homerules.md)
-* [Неразобранное](stuff/links.md)
+* [Оф.ресурсы](links/official.md)
+* [Оф.правила](links/rules.md)
+* [Codex](links/codexes.md)
+* [FAQ's](links/faq.md)
+* [Утилиты](links/utils.md)
+* [TI Online](links/online.md)
+* [Хоумрулы](links/homerules.md)
+* [Неразобранное](links/links.md)
+
+## Stuff
+
+* [3D Units](stuff/3dunits.md)
+* [Organizers](stuff/organizers.md)
+* [Playmats](stuff/playmats.md)
+* [Other](stuff/stuff/md)
 
 ## Вспомогательные вещи
 
