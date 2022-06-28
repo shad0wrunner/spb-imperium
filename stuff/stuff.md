@@ -13,6 +13,7 @@ Thingiverse - ресурс с подборкой файлов для 3D-печа
 * [Фиксаторы для краёв игрового поля: Вариант 2](https://www.thingiverse.com/thing:3005106/)
 * [Fleet Stand](https://www.thingiverse.com/thing:2196283) - подставки для флота (совместимы с Eclipse, непрозрачные).
 * [Держатели для жетонов](https://www.thingiverse.com/thing:2844269/) - для большей сохранности.
+* [Маркеры технологий](https://www.thingiverse.com/thing:5395832) - для наглядности.
 
 [Kelsam Tabletop](https://tabletop.kelsam.net/) - разработчики разных вкусностей для TI и других игр, есть в свободном доступе пара файлов для печати матов, цветных акрилов жетонов
 * [Раздел по Twilight Imperium 4rd](https://tabletop.kelsam.net/game/twilight-imperium-fourth-edition/)
