@@ -19,7 +19,7 @@
 * модели сделаны только для базы, для дополнения нет.
 * копию одной папкой можно взять на [Я.Диске](https://disk.yandex.ru/d/PBT29Ec_xZFDHg)
 
-### [Gibea]
+### Gibea
 * модели только для базы [здесь](https://disk.yandex.ru/d/wWQWqaEsqjp9bw)
 
 ### [Saunick](https://www.cgtrader.com/saunick)
