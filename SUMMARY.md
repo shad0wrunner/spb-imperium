@@ -59,7 +59,7 @@
 * [Утилиты](links/utils.md)
 * [TI Online](links/online.md)
 * [Хоумрулы](links/homerules.md)
-* [Неразобранное](links/links.md)
+* [Неразобранное](links/unsorted.md)
 * [Shops](links/shops.md)
 
 ## Stuff
