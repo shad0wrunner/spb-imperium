@@ -60,6 +60,7 @@
 * [TI Online](links/online.md)
 * [Хоумрулы](links/homerules.md)
 * [Неразобранное](links/links.md)
+* [Shops](links/shops.md)
 
 ## Stuff
 
