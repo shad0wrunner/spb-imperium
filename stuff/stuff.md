@@ -2,7 +2,7 @@
 description: Various Stuff
 ---
 
-# Various Stuff
+## Various Stuff
 
 * [Информация о размерах и количестве протекторов для Twilight Imperium](https://boardgamegeek.com/geeklist/164572?itemid=5562442#item5562442)
 
@@ -23,5 +23,7 @@ Thingiverse - ресурс с подборкой файлов для 3D-печа
 
 [Etsy](https://etsy.com) - онлайн площадка, где продаётся много разных приятных вещей по тематике Twilight Imperium, в том числе хорошие печатные версии Кодексов. К сожалению, в данный момент доступ на неё из России закрыт.
 
-### Playmats
+---
+
+## Playmats
 * Небольшая подборка плейматов здесь - [Я.Диск](https://disk.yandex.ru/d/4VaPDFcR3Sohig) или [Google.Disk](https://drive.google.com/drive/folders/1eAlZd6JOpqdaY2WzX3WVRz7upsLVIeSo?usp=sharing)
