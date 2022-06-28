@@ -12,8 +12,8 @@
 #### [IVAN](https://www.patreon.com/_IVAN_)
 * модельки Креуссов бесплатные, остальное по подписке.
 * модели Креуссов можно поглядеть [здесь](https://disk.yandex.ru/d/VgjGbge29R-GmA)
-* [пример](https://www.myminifactory.com/prints/3d-print-flagship-for-ghost-of-creuss-from-twilight-imperium-4-37005) печати флагмана Креуссов
 * он же на [MyMiniFactory](https://www.myminifactory.com/users/_IVAN_)
+* [пример](https://www.myminifactory.com/prints/3d-print-flagship-for-ghost-of-creuss-from-twilight-imperium-4-37005) печати флагмана Креуссов
 
 ### [Wastewolf](https://www.thingiverse.com/wastewolf/designs)
 * модели сделаны только для базы, для дополнения нет.
