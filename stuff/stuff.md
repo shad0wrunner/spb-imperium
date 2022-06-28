@@ -27,11 +27,11 @@ Thingiverse - ресурс с подборкой файлов для 3D-печа
 
 ## Playmats
 * Небольшая подборка плейматов здесь - [Я.Диск](https://disk.yandex.ru/d/4VaPDFcR3Sohig) или [Google.Disk](https://drive.google.com/drive/folders/1eAlZd6JOpqdaY2WzX3WVRz7upsLVIeSo?usp=sharing)
-* Информацию о том, где можно заказать печать плейматов вы можете найти на странице [Shops](https://github.com/shad0wrunner/spb-imperium/blob/master/links/shops.md)
+* Информацию о том, где можно заказать печать плейматов вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
 
 ## Fleet Stands
 * Небольшая подборка моделей для печати подставок здесь - [Я.Диск](https://disk.yandex.ru/d/8n_yw4AvoalWlg) или [Google.Disk](https://drive.google.com/drive/folders/1VcBxZm35XofBdbA5eXrvW5z3XlIOE2MC?usp=sharing)
-* Информацию о том, где можно заказать печать подставок для флота вы можете найти на странице [Shops](https://github.com/shad0wrunner/spb-imperium/blob/master/links/shops.md)
+* Информацию о том, где можно заказать печать подставок для флота вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
 
 ## Tokens
 * Небольшая подборка моделей различных жетонов здесь - [Я.Диск](https://disk.yandex.ru/d/VLVqtXCxKGeIQw) или [Google.Disk](https://drive.google.com/drive/folders/1s0iOqe-i8IDPjKL2Yj5XbRgdXvEG0Xty?usp=sharing)
