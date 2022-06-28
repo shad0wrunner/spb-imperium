@@ -28,7 +28,7 @@
 ### [NSiemens4387](https://www.cgtrader.com/nsiemens4387) 
 * только на продажу, на любителя.
 
-Имеется также несколько отдельных изысков, к примеру, на тему флагмана Ззча. fgd
+Имеется также несколько отдельных изысков, к примеру, на тему флагмана Ззча.
 * свободные модели собраны [здесь](https://disk.yandex.ru/d/VCU-hWJ8j7A3hQ)
 * [флот Winnu](https://www.cgtrader.com/3d-model-collections/winnu-fleet)
 * подборка из нескольких флагманов [здесь](https://disk.yandex.ru/d/TEgERQ8ggkfQug)
