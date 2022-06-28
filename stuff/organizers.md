@@ -1,4 +1,4 @@
-На странице Shops вы можете найти ссылки, где можно заказать органайзеры для TI4.
+На странице [Shops](https://github.com/shad0wrunner/spb-imperium/blob/master/links/shops.md) вы можете найти ссылки, где можно заказать органайзеры для TI4.
 
 * [Google.Disk](https://drive.google.com/drive/folders/1HrlQC7sxfN1L2GVeTbyBK8hWjqdrBkdt?usp=sharing) - Подборка схем разных органайзеров на Гугл.Диске.
 * [Yandex.Disk](https://disk.yandex.ru/d/wcgmG3SNN4_cxQ) - Она же на Я.Диске
