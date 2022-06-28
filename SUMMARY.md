@@ -63,10 +63,9 @@
 
 ## Stuff
 
+* [Main](stuff/stuff.md)
 * [3D Units](stuff/3dunits.md)
 * [Organizers](stuff/organizers.md)
-* [Playmats](stuff/playmats.md)
-* [Other](stuff/stuff/md)
 
 ## Вспомогательные вещи
 
