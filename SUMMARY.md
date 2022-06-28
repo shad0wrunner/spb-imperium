@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Twilight Imperium Stuff Main](README.md)
+* [Twilight Imperium Main](README.md)
 
 ## Wiki
 
