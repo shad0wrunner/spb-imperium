@@ -2,7 +2,7 @@
 description: TI Community (SPb edition)
 ---
 
-# Twilight Imperium 4th Edition Stuff Main
+# Twilight Imperium 4th Edition Main
 
 Проект находится в стадии WIP. Что-то готово лучше, что-то хуже.
 
