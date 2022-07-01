@@ -9,8 +9,12 @@ description: Useful Links
 * [Генератор игрового поля](https://ti4-map-generator.derekpeterson.ca/) - пока что без поддержки PoK.
 * [Генератор игрового поля](https://conclave.mistake-not.net/) - красиво, но без дополнительных настроек.
 * [TI4 Map String Generator](https://migpalser.github.io/TI4MapStringGenerator/)
+
+## Map Database
+
 * [BGG Map Database](https://boardgamegeek.com/thread/2609062/bgg-map-database) - небольшая подборка пресетов на BGG.
 * [Balanced, Fun PoK Maps (6p, 5p and 4p)](https://boardgamegeek.com/thread/2780413/balanced-fun-pok-maps-6p-5p-and-4p) - ещё одна подборка пресетов на BGG.
+* [By matenason](https://imgur.com/user/matenason/posts) - подборка карт для PoK.
 
 ## Battle Calculator's
 
