@@ -14,6 +14,7 @@ description: Useful Links
 
 * [BGG Map Database](https://boardgamegeek.com/thread/2609062/bgg-map-database) - небольшая подборка пресетов на BGG.
 * [Balanced, Fun PoK Maps (6p, 5p and 4p)](https://boardgamegeek.com/thread/2780413/balanced-fun-pok-maps-6p-5p-and-4p) - ещё одна подборка пресетов на BGG.
+* [Database: Preset maps](https://boardgamegeek.com/thread/2688681/article/38044265) - третья подборка пресетов на BGG.
 * [By matenason](https://imgur.com/user/matenason/posts) - подборка карт для PoK.
 
 ## Battle Calculator's
