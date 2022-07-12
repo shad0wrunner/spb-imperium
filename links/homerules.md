@@ -58,19 +58,23 @@ description: Homerules
 * [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
 
 ## The TI AI
-* [Тема на BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
+* [BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
 
 ## Alternate Flagships: A Mini-Expansion (Base + PoK)
-* [Тема на BGG](https://www.boardgamegeek.com/thread/2514810/alternate-flagships-mini-expansion)
-* [PDF на Google.Disk](https://drive.google.com/file/d/1gF9ytNLo9-I1b-AcPMO3jNnUQauRkcpG/view)
+* [BGG](https://www.boardgamegeek.com/thread/2514810/alternate-flagships-mini-expansion)
+* [Google.Disk](https://drive.google.com/file/d/1gF9ytNLo9-I1b-AcPMO3jNnUQauRkcpG/view)
 
 ## Rebalance Faction Promissory Notes by Travis Caldeira (Base Game)
-* [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/erm0a3/homebrew_rebalance_faction_promissory_notes/)
-* [PDF на Google.Disk](https://drive.google.com/file/d/1ZEStEqyrmMGJJubFjMz6M6MOnYAbn2Xz/view)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/erm0a3/homebrew_rebalance_faction_promissory_notes/)
+* [Google.Disk](https://drive.google.com/file/d/1ZEStEqyrmMGJJubFjMz6M6MOnYAbn2Xz/view)
 
 ## Keleres Tribunii+ Expansion
 * Desc: Additional heroes for Keleres faction
-* [Файлы на Google.Disk](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
+* [Google.Disk](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
 
 ## Integrated Facilites by Tom Dullemond
-* [Файлы на Google.Disk](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
+* [Google.Disk](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
+
+## Mercenaries V2
+* Desc: New type of leaders. Originally by @IrishCyborg
+* [Google.Disk](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
