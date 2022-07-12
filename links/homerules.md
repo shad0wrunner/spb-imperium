@@ -44,7 +44,8 @@ description: Homerules
 ## Franken Draft (Base Game)
 * [Файлы на Google.Disk](https://drive.google.com/drive/folders/1TTtT24d8-gAqAnlpNf2KVRtNpJJReWeT)
 
-## Discordant Stars (24 Community Homebrew Factions)
+## Discordant Stars
+* Desc: 24 Community Homebrew Factions
 * [Тема на BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
 * [Файлы на Google.Disk](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
 
