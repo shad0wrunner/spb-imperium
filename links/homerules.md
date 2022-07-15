@@ -57,6 +57,10 @@ description: Homerules
 * [TI4 2 Player Princess Variant на BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
 * [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
 
+## Hive Wars - 2-Playser Co-Op Variant
+* [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
+* [Yandex.Disk](https://disk.yandex.ru/d/BqAuHazKkfFeeA)
+
 ## The TI AI
 * [BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
 
