@@ -28,6 +28,7 @@ description: TI Community (SPb edition)
 * [Factions](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/factions.md) - Появление фракций в игре и их бэк с листов фракций.
 * [Planets](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/planets.md) - Появление различных планет в игре и художественный текст с карточек.
 * [Leaders](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/leaders.md) - Появление различных лидеров в игре.
+* [Techs](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/techs.md) - Дерево технологий в разных редакциях.
 
 Раздел "Stuff" содержит коллекцию ссылок на различные улучшения для "TI" - органайзеры, модели, прочее.
 * Main - Основной раздел
