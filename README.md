@@ -22,12 +22,12 @@ description: TI Community (SPb edition)
 * Неразобранное - Всякое разное
 
 Раздел "TI Galaxy" содержит информацию о вселенной игры. Говоря на языке настольщиков - лор.
-* [Вселенная](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/media.md) - Все игры и прочие продукты из вселенной TI
-* Таймлайн - Предположительный таймлайн
-* Lore - Подборка текстов из официальных ресурсов
-* Factions - Появление различный фракций в игре
-* Planets - Появление различных планет в игре
-* Leaders - Появление различных лидеров в игре
+* [Вселенная](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/media.md) - Все игры и прочие продукты из вселенной TI.
+* [Таймлайн](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/timeline.md) - Предположительный таймлайн.
+* [Lore](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/lore.md) - Подборка текстов из официальных рулбуков.
+* [Factions](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/factions.md) - Появление фракций в игре и их бэк с листов фракций.
+* [Planets](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/planets.md) - Появление различных планет в игре и художественный текст с карточек.
+* [Leaders](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/leaders.md) - Появление различных лидеров в игре.
 
 Раздел "Stuff" содержит коллекцию ссылок на различные улучшения для "TI" - органайзеры, модели, прочее.
 * Main - Основной раздел
