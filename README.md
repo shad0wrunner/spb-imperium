@@ -21,6 +21,13 @@ description: TI Community (SPb edition)
 * Онлайн - TI онлайн
 * Неразобранное - Всякое разное
 
+Раздел "Stuff" содержит коллекцию ссылок на различные улучшения для "TI" - органайзеры, модели, прочее.
+* Main - Основной раздел
+* [Protect](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/protect.md) - Информация о протекторах для карт и защите прочих компонентов игры.
+* [Shops](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/shops.md) - Подборка онлайн-магазинов, где можно купить различный стафф для TI.
+* [3D Units](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/3dunits.md) - 3D модели юнитов.
+* [Organizers](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/organizers.md) - Схемы и модели органайзеров для TI (3D/foam/print).
+
 Раздел "TI Galaxy" содержит информацию о вселенной игры. Говоря на языке настольщиков - лор.
 * [Вселенная](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/media.md) - Все игры и прочие продукты из вселенной TI.
 * [Таймлайн](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/timeline.md) - Предположительный таймлайн.
@@ -30,7 +37,4 @@ description: TI Community (SPb edition)
 * [Leaders](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/leaders.md) - Появление различных лидеров в игре.
 * [Techs](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/techs.md) - Дерево технологий в разных редакциях.
 
-Раздел "Stuff" содержит коллекцию ссылок на различные улучшения для "TI" - органайзеры, модели, прочее.
-* Main - Основной раздел
-* 3D Units - 3D модели юнитов
-* Organizers - 3D/foam/print
+
