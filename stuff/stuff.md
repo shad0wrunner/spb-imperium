@@ -6,8 +6,6 @@ description: Various Stuff
 
 * Большинство упоминаемых вещей вы можете найти на [Я.Диске](https://disk.yandex.ru/d/zE86YdNWxzH1Lw) или [Google.Drive](https://drive.google.com/drive/folders/1aPOfffYSGemelRfKIB-PHAtkGiKJM9oD?usp=sharing)
 
----
-
 ## Various Stuff
 
 * [Информация о размерах и количестве протекторов для Twilight Imperium](https://boardgamegeek.com/geeklist/164572?itemid=5562442#item5562442)
