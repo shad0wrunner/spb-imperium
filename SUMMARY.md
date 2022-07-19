@@ -65,6 +65,7 @@
 ## Stuff
 
 * [Main](stuff/stuff.md)
+* [Protect](stuff/protect.md)
 * [3D Units](stuff/3dunits.md)
 * [Organizers](stuff/organizers.md)
 
