@@ -53,9 +53,8 @@
 ## Links
 
 * [Оф.ресурсы](links/official.md)
-* [Оф.правила](links/rules.md)
+* [Rules + FAQs](links/rules.md)
 * [Codex](links/codexes.md)
-* [FAQ's](links/faq.md)
 * [Утилиты](links/utils.md)
 * [TI Online](links/online.md)
 * [Хоумрулы](links/homerules.md)
