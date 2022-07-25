@@ -11,6 +11,7 @@
 * [\[1.1\] Справочник: база](https://hobbygames.ru/download/rules/Sumerki_imperii_Chetvertoe_izdanie_-_spravochnik.pdf)
 * [Правила: база плюс дополнение](https://hobbygames.ru/download/rules/TI10_Rulebook_v3_web.pdf)
 * [Исправления в компонентах первого русского тиража](https://hobbygames.ru/download/rules/Symerki_imperii_prorochestvo_korolei_ispravl.pdf)
+* [\[1.3\] Справочник: база + доп](https://hobbygames.ru/download/rules/TI07_Rules_Reference_RU_2021_web-min.pdf)
 
 ## FAQ
 
