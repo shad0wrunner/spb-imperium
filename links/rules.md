@@ -13,7 +13,7 @@
 * [Исправления в компонентах первого русского тиража](https://hobbygames.ru/download/rules/Symerki_imperii_prorochestvo_korolei_ispravl.pdf)
 * [\[1.3\] Справочник: база + доп](https://hobbygames.ru/download/rules/TI07_Rules_Reference_RU_2021_web-min.pdf)
 
-## FAQ
+## FAQs
 
 * [Официальный FAQ&Errata от Dane Beltrami v 2.1 (EN)](https://docs.google.com/document/d/1_93kw7KkzvAXoQAxRioxo7iAt-Ar6BMIxdNf4Lv25rI/edit)
 * [Неофициальная компиляция ответов от Dane Beltrami (базовая игра) (EN)](https://docs.google.com/document/d/1Bgl9OpP-162sifCcratI9RtbOSTNXtFGnKEU_-89rZI/edit)
