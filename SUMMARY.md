@@ -40,16 +40,6 @@
 * [Exploration / Разведка](rules/exploration.md)
 * [Anomalies / Аномалии](wiki/anomalies.md)
 
-## TI Galaxy
-
-* [Вселенная TI](galaxy/media.md)
-* [Таймлайн TI](galaxy/timeline.md)
-* [Lore](galaxy/lore.md)
-* [Factions](galaxy/factions.md)
-* [Planets](galaxy/planets.md)
-* [Leaders](galaxy/leaders.md)
-* [Techs](galaxy/techs.md)
-
 ## Links
 
 * [Оф.ресурсы](links/official.md)
@@ -67,6 +57,16 @@
 * [Protect](stuff/protect.md)
 * [3D Units](stuff/3dunits.md)
 * [Organizers](stuff/organizers.md)
+
+## TI Galaxy
+
+* [Вселенная TI](galaxy/media.md)
+* [Таймлайн TI](galaxy/timeline.md)
+* [Lore](galaxy/lore.md)
+* [Factions](galaxy/factions.md)
+* [Planets](galaxy/planets.md)
+* [Leaders](galaxy/leaders.md)
+* [Techs](galaxy/techs.md)
 
 ## Вспомогательные вещи
 
