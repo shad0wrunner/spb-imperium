@@ -22,7 +22,7 @@ description: TI Community (SPb edition)
 * [Unsorted](https://github.com/shad0wrunner/spb-imperium/blob/master/links/unsorted.md) - Всякое разное неразобранное или непонятное.
 
 Раздел "Stuff" содержит коллекцию ссылок на различные улучшения для "TI" - органайзеры, модели, прочее.
-* Main - Основной раздел
+* [Main](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/stuff.md) - Общая информация.
 * [Protect](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/protect.md) - Информация о протекторах для карт и защите прочих компонентов игры.
 * [Shops](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/shops.md) - Подборка онлайн-магазинов, где можно купить различный стафф для TI.
 * [3D Units](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/3dunits.md) - 3D модели юнитов.
