@@ -13,13 +13,13 @@ description: TI Community (SPb edition)
 
 Раздел "Links" содержит многочисленную подборку ссылок на полезные ресурсы: правила, подсказки, генераторы карт, сообщества.  
 Если вы знаете, что что-то существует, но не знаете где - вам сюда.
-* Оф.ресурсы - Формализм
+* [Official](https://github.com/shad0wrunner/spb-imperium/blob/master/links/official.md) - Оф.ресурсы (FFG, Hobby Games) и каталоги (BBG, Тесера).
 * [Rules + FAQ](https://github.com/shad0wrunner/spb-imperium/blob/master/links/rules.md) - Правила игры и подборки FAQ.
-* FAQ - Подсказки по правилам
-* Утилиты - Генераторы карт, симуляторы боёв
-* Хоумрулы - Подборка хоумрулов
-* Онлайн - TI онлайн
-* Неразобранное - Всякое разное
+* [Codex](https://github.com/shad0wrunner/spb-imperium/blob/master/links/codexes.md) - Файлы "Кодексов" для печати (английские и русские).
+* [Utils](https://github.com/shad0wrunner/spb-imperium/blob/master/links/utils.md) - Генераторы карт, Милти, симуляторы боёв.
+* [Homerules](https://github.com/shad0wrunner/spb-imperium/blob/master/links/homerules.md) - Подборка хоумрулов, в том числе правила игры для 2-х, Discordant Suns и т.д.
+* [TI Online](https://github.com/shad0wrunner/spb-imperium/blob/master/links/online.md) - ссылки на сообщества по игре в TI, в том числе игре в онлайн (TTS/TTPG).
+* [Unsorted](https://github.com/shad0wrunner/spb-imperium/blob/master/links/unsorted.md) - Всякое разное неразобранное или непонятное.
 
 Раздел "Stuff" содержит коллекцию ссылок на различные улучшения для "TI" - органайзеры, модели, прочее.
 * Main - Основной раздел
