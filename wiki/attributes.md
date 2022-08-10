@@ -1,4 +1,4 @@
-### 16. Capacity
+## 16. Capacity
 16.1. 
 - A unit’s capacity value indicates the maximum combined number of fighters and ground forces that it can transport.
 
@@ -19,7 +19,7 @@
 
 
 ***
-### 18. Combat
+## 18. Combat
 Combat is an attribute of some units that is presented on those units’ faction sheets and technology cards.
 
 18.1.
@@ -28,7 +28,7 @@ Combat is an attribute of some units that is presented on those units’ faction
 18.2.
 - If a unit’s combat value contains two or more burst icons, instead of rolling a single die, the player rolls one die for each burst icon when making that unit’s combat rolls.
 ***
-### 26. Cost
+## 26. Cost
 Cost is an attribute of some units that is presented on those units’ faction sheets and technology cards. A unit’s cost determines the number of resources a player must spend to produce that unit.
 
 26.1. 
@@ -41,7 +41,7 @@ Cost is an attribute of some units that is presented on those units’ faction s
 - If a unit does not have a cost, it cannot be produced.
 - Structures do not have costs and are usually placed by resolving the “Construction” strategy card.
 ***
-### 57. Move
+## 57. Move
 Move is an attribute of some units that is presented on those units’ faction sheets and technology cards.
 
 57.1.
