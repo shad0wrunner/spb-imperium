@@ -28,6 +28,7 @@
 Разработкой в основном занимался [Дейн Белтрами](https://boardgamegeek.com/boardgamedesigner/96049/dane-beltrami).  
 Семнадцать фракций. Шесть игроков.
 ### [Twilight Imperium: Fourth Edition – Prophecy of Kings (2020)](https://boardgamegeek.com/boardgameexpansion/315895/twilight-imperium-fourth-edition-prophecy-kings)
+Разработчки - [Дейн Белтрами](https://boardgamegeek.com/boardgamedesigner/96049/dane-beltrami). Добавлено 7 новых фракций, опция игры на 8 игроков.
 ## [Twilight Imperium: Armada (2001)](https://boardgamegeek.com/boardgame/2902/twilight-imperium-armada)
 В TI:A использовалась механика а-ля Discwars.
 ### [Twilight Imperium: Armada – Stellar Matter (2001)](https://boardgamegeek.com/boardgameexpansion/15021/twilight-imperium-armada-stellar-matter)
