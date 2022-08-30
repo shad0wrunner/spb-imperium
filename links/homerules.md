@@ -48,22 +48,10 @@ description: Homerules
 ### Franken Draft (Base Game)
 * [Google.Disk](https://drive.google.com/drive/folders/1TTtT24d8-gAqAnlpNf2KVRtNpJJReWeT)
 
-### Discordant Stars
-* Desc: 24 Community Homebrew Factions
-* [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
-* [Google.Disk](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
-
 ### Milty Draft
 * [Milty Draft Tool Online](https://miltydraft.com/)
 
-### 2-Player Variants
-* [“Trade Wars” 2-Player Variant на BGG](https://www.boardgamegeek.com/thread/2114639/trade-wars-2-player-variant)
-* [TI4 2 Player Princess Variant на BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
-* [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
 
-### Hive Wars - 2-Playser Co-Op Variant
-* [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
-* [Yandex.Disk](https://disk.yandex.ru/d/BqAuHazKkfFeeA)
 
 ### The TI AI
 * [BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
@@ -89,8 +77,23 @@ description: Homerules
 
 # Homebrew Factions
 
+### Discordant Stars
+* Desc: 24 Community Homebrew Factions
+* [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
+* [Google.Drive](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
+
 ### Warhammer 40k Faction Pack
 * Desc: 8 Factions from the 40K universe
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
 * [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
 
+# 2 Player Variants
+
+### Hive Wars - 2-Playser Co-Op Variant
+* [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
+* [Yandex.Disk](https://disk.yandex.ru/d/BqAuHazKkfFeeA)
+
+### Other 2-Player Variants
+* [“Trade Wars” 2-Player Variant на BGG](https://www.boardgamegeek.com/thread/2114639/trade-wars-2-player-variant)
+* [TI4 2 Player Princess Variant на BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
+* [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
