@@ -78,11 +78,19 @@ description: Homerules
 
 ### Keleres Tribunii+ Expansion
 * Desc: Additional heroes for Keleres faction
-* [Google.Disk](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
+* [Google.Drive](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
 
 ### Integrated Facilites by Tom Dullemond
-* [Google.Disk](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
+* [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
 
 ### Mercenaries V2
 * Desc: New type of leaders. Originally by @IrishCyborg
-* [Google.Disk](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
+* [Google.Drive](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
+
+# Homebrew Factions
+
+### Warhammer 40k Faction Pack
+* Desc: 8 Factions from the 40K universe
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
+* [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
+
