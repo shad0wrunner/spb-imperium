@@ -77,6 +77,10 @@ description: Homerules
 
 # Homebrew Factions
 
+### Основной архив
+* [Google.Drive](https://drive.google.com/drive/folders/1KpeE7SYeTGMF-HtfqbwkRmNXlv_RLLO9?usp=sharing)
+* [Yandex.Disk](https://disk.yandex.ru/d/7WPIb-kBCXmiQw)
+
 ### Discordant Stars
 * Desc: 24 Community Homebrew Factions
 * [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
