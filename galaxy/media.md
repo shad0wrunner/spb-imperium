@@ -56,3 +56,11 @@ RPG по вселенной TI на движке Genesys.
 ## Прочее
 ### The Stars Beyond
 Сборник из шести рассказов (новелл ?), под редакцией Charlotte Llewelyn-Wells. В продажу пока не поступал.
+
+# Комиксы вселенной Twilight Imperium
+### Twilight Imperium: Corrupted Space Graphic Novel
+Coming soon.
+Авторы: Ron Marz и Andy Lanning.
+Pencils/characters and ships design by Netho Diaz.
+Inks - Jagdish Kumar.
+Colors - Nikos.
