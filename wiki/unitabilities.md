@@ -1,4 +1,4 @@
-### 10. Anti-Fighter Barrage (Unit Ability)
+## 10. Anti-Fighter Barrage (Unit Ability)
 
 A unit with the “Anti-Fighter Barrage” ability may be able to destroy an opponent’s fighters at the onset of a battle. During the “Anti-Fighter Barrage” step of the first round of space combat, players perform the following steps:
 
@@ -11,9 +11,9 @@ A unit with the “Anti-Fighter Barrage” ability may be able to destroy an opp
 10.2. STEP 2 — Each player must choose and destroy one of their fighters in the active system for each hit their opponent’s antifighter barrage roll produced.
 * If a player has to assign more hits than they have fighters in the active system, the excess hits have no effect.
 
----
+***
 
-### 15. Bombardment
+## 15. Bombardment (Unit Ability)
 A unit with the “Bombardment” ability may be able to destroy another player’s ground forces during an invasion. During the “Bombardment” step of an invasion, players perform the following steps:
 
 15.1. STEP 1 — The active player chooses which planet each of their units that has a “Bombardment” ability will bombard. Then, that player rolls dice for each of those units; this is called a bombardment roll. A hit is produced for each die roll that is equal to or greater than the unit’s “Bombardment” value.
@@ -27,9 +27,9 @@ A unit with the “Bombardment” ability may be able to destroy another player�
 15.2. STEP 2 — The player who controls the planet that is being bombarded chooses and destroys one of their ground forces on that planet for each hit result the bombardment roll produced.
 * If a player has to assign more hits than that player has ground forces, the excess hits have no effect.
 
----
+***
 
-### 30. Deploy
+## 30. Deploy
 Some units have deploy abilities. Deploy abilities are indicated by the “Deploy” header and provide the means to place specific units on the game board without producing them as normal.
 
 30.1. A player can use a unit’s deploy ability when the ability’s conditions are met to place that unit on the game board.
@@ -40,9 +40,9 @@ Some units have deploy abilities. Deploy abilities are indicated by the “Deplo
 
 30.3. A unit’s deploy ability can be resolved only once per timing window.
 
----
+***
 
-### 65. Planetary Shield
+## 65. Planetary Shield (Unit Ability)
 Units cannot use the “Bombardment” ability against a planet that contains a unit that has the “Planetary Shield” ability.
 
 65.1. The “Planetary Shield” ability does not prevent a planet from being affected by the “X-89 Bacterial Weapon” technology.
@@ -53,9 +53,9 @@ Units cannot use the “Bombardment” ability against a planet that contains a 
 * Units treated as if they do not have a “Planetary Shield” ability cannot use the “Magen Defense Grid” technology.
 * A war sun can use its “Bombardment” ability against planets that contain units that have the “Planetary Shield” ability.
 
----
+***
 
-### 68. Production
+## 68. Production (Unit Ability)
 During the “Production” step of a tactical action, the active player can resolve the “Production” ability of each of their units that are in the active system to produce units.
 
 68.1. A unit’s “Production” ability on its faction sheet is always followed by a value. This value is the maximum number of units that this unit can produce.
@@ -71,9 +71,9 @@ During the “Production” step of a tactical action, the active player can res
 68.4. If a player uses the “Production” ability of a unit in a space area of a system to produce ground forces, those ground forces may either be placed on a planet the player controls in that system or in the space area of that system.
 * If a player places a ground force in the space area of a system, it cannot exceed that player’s capacity in that system.
 
----
+***
 
-### 77. Space Cannon
+## 77. Space Cannon (Unit Ability)
 A unit that has the “Space Cannon” ability can use it during two different steps of a player’s tactical action: after the “Move Ships” substep (Space Cannon Offense) and during an invasion (Space Cannon Defense).
 
 77.1. A player is not required to be the active player to use their “Space Cannon” ability of their units.
@@ -105,9 +105,9 @@ During the invasion step of a tactical action, after ground forces have been com
 77.8 STEP 2 — ASSIGN HITS: The active player must choose and destroy one of their ground forces on the planet for each hit the space cannon roll produced.
 * Hits can only be assigned to units that were committed to the same planet as the units using the “Space Cannon” ability.
 
----
+***
 
-### 87. Sustain Damage
+## 87. Sustain Damage (Unit Ability)
 Some units have the “Sustain Damage” ability. Immediately before a player assigns hits to their units, that player can use the “Sustain Damage” ability of any of their units in the active system.
 
 87.1. For each “Sustain Damage” ability that a player uses, one hit produced by another player’s units is canceled. Then, each unit using this ability is placed on its side to indicate that it is damaged.
