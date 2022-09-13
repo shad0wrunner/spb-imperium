@@ -18,7 +18,7 @@ description: TI Community (SPb edition)
 * [Codex](https://github.com/shad0wrunner/spb-imperium/blob/master/links/codexes.md) - Файлы "Кодексов" для печати (английские и русские).
 * [Utils](https://github.com/shad0wrunner/spb-imperium/blob/master/links/utils.md) - Генераторы карт, Милти, симуляторы боёв.
 * [Homerules](https://github.com/shad0wrunner/spb-imperium/blob/master/links/homerules.md) - Подборка хоумрулов, в том числе правила игры для 2-х, Discordant Suns и т.д.
-* [TI Online](https://github.com/shad0wrunner/spb-imperium/blob/master/links/online.md) - ссылки на сообщества по игре в TI, в том числе игре в онлайн (TTS/TTPG).
+* [TI Online](https://github.com/shad0wrunner/spb-imperium/blob/master/links/online.md) - Ссылки на сообщества по игре в TI, в том числе игре в онлайн (TTS/TTPG).
 * [Unsorted](https://github.com/shad0wrunner/spb-imperium/blob/master/links/unsorted.md) - Всякое разное неразобранное или непонятное.
 
 Раздел "Stuff" содержит коллекцию ссылок на различные улучшения для "TI" - органайзеры, модели, прочее.
@@ -36,5 +36,3 @@ description: TI Community (SPb edition)
 * [Planets](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/planets.md) - Появление различных планет в игре и художественный текст с карточек.
 * [Leaders](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/leaders.md) - Появление различных лидеров в игре.
 * [Techs](https://github.com/shad0wrunner/spb-imperium/blob/master/galaxy/techs.md) - Дерево технологий в разных редакциях.
-
-
