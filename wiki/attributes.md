@@ -1,3 +1,5 @@
+![Naalu FS - Matriarch](https://user-images.githubusercontent.com/88241831/189884704-41c328ba-9711-47c4-86c4-9471d2467388.png)
+
 ## 16. Capacity (Attribute)
 
 Capacity is an attribute of some units that is presented on faction sheets and unit upgrade technology cards.
@@ -15,7 +17,6 @@ c) A player’s fighters and ground forces do not count against capacity during 
 
 > 1) If a ship with capacity is destroyed during the "Space Cannon Offense" step, capacity limits must be met before space combat starts.
 > 2) Capacity is checked after the winner of a space combat is determined. As such, it is possible to win a space combat with only fighters remaining, before removing those fighters due to lack of capacity.
-
 
 ***
 
