@@ -4,11 +4,11 @@ description: Useful Links
 
 ## Map Generators's
 
-* [TI4 Map Lab](https://joepinion.github.io/ti4-map-lab/) - один из 2 лучших генераторов карт.
-* [Генератор игрового поля](https://keeganw.github.io/ti4/) - второй лучший генератор карт.
-* [Генератор игрового поля](https://ti4-map-generator.derekpeterson.ca/) - пока что без поддержки PoK.
-* [Генератор игрового поля](https://conclave.mistake-not.net/) - красиво, но без дополнительных настроек.
-* [TI4 Map String Generator](https://migpalser.github.io/TI4MapStringGenerator/)
+* [TI4 Map Lab](https://joepinion.github.io/ti4-map-lab/) - Один из 2 лучших генераторов карт.
+* [Keegan's Map Generator](https://keeganw.github.io/ti4/) - Второй лучший генератор карт.
+* [Derek Peterson Map Generator](https://ti4-map-generator.derekpeterson.ca/) - Без поддержки PoK.
+* [Генератор игрового поля](https://conclave.mistake-not.net/) - Красиво, но без дополнительных настроек.
+* [TI4 Map String Generator](https://migpalser.github.io/TI4MapStringGenerator/) - Генерирует строками.
 
 ## Map Database
 
