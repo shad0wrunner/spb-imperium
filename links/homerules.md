@@ -20,7 +20,7 @@ description: Homerules
 * [Тема на BGG](https://boardgamegeek.com/thread/2698748/fallen-empires-mini-expansion-early-departing-playn)
 * [Файлы на Google.Disk](https://drive.google.com/drive/folders/1ecCGWKsd3sX1JwfeIjitmTnRdB50l0qo)
 
-### Facilities by Tom Dullemond (for early departing players)
+### Facilities by Tom Dullemond
 * [Тема на BGG](https://boardgamegeek.com/thread/2591023/facilities-10)
 * [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/l8njos/facilities_10/)
 * [PDF c правилами на Google.Disk](https://drive.google.com/file/d/1UK8oU1jc23FCUvQw87zU7poYQSL8Zlp7/view)
@@ -31,8 +31,6 @@ description: Homerules
 
 ### Milty Draft
 * [Milty Draft Tool Online](https://miltydraft.com/)
-
-
 
 ### The TI AI
 * [BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
