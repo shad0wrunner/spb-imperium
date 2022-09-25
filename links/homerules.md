@@ -72,7 +72,7 @@ description: Homerules
 ### Lost Tokens of Ixth by Fulvio
 * Desc: A tiny fan-made expansion with additional tokens and gaming aid material
 * [BGG](https://boardgamegeek.com/thread/2675534/lost-tokens-ixth-tiny-fan-made-expansion-additiona)
-* [Google.Drive(https://drive.google.com/drive/folders/1-z-nrhvDnD-POI-baRiufOMgWgVAeCOF)
+* [Google.Drive](https://drive.google.com/drive/folders/1-z-nrhvDnD-POI-baRiufOMgWgVAeCOF)
 
 ### Lost Star Charts of Ixth by Fulvio
 * Desc: A tiny fan-made expansion with additional tiles
