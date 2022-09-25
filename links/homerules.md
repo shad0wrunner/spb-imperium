@@ -36,7 +36,7 @@ description: Homerules
 * Desc: New type of leaders. Originally by @IrishCyborg
 * [Google.Drive](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
 
-# Additional Stuff by Tom Dullemond/Cacotopos
+# Stuff by Tom Dullemond/Cacotopos
 
 ### Integrated Facilites by Tom Dullemond
 * [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
@@ -62,7 +62,7 @@ description: Homerules
 * [PDF c правилами на Google.Disk](https://drive.google.com/file/d/1UK8oU1jc23FCUvQw87zU7poYQSL8Zlp7/view)
 * [Архив для печати карт на Google.Disk](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
 
-# Additional Stuff by Fulvio
+# Stuff by Fulvio
 
 ### Lost Relics of Ixth by Fulvio
 * Desc: A tiny fan-made expansion with additional frontier and relic-related content
