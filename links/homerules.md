@@ -11,21 +11,6 @@ description: Homerules
 * [Карточки на Google.Disk](https://drive.google.com/file/d/1JqbTtcYUUodh6L_IgWJ_B0Rrg4dT3m8N/view)
 * [STL на Google.Disk](https://drive.google.com/file/d/11tiXSu-L-SOw6kqBX9P5S7m_kTEYRO70/view)
 
-### Monuments+ by Tom Dullemond (улучшенная версия Monuments)
-* [Тема на BGG](https://boardgamegeek.com/thread/2702550/monuments-mini-expansion)
-* [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion/)
-* [Файлы на Google.Disk](https://drive.google.com/drive/folders/1kqtY943syNMRsM1ijmHfymCxVVWxYUJq)
-
-### Fallen Empires by Tom Dullemond (for early departing players)
-* [Тема на BGG](https://boardgamegeek.com/thread/2698748/fallen-empires-mini-expansion-early-departing-playn)
-* [Файлы на Google.Disk](https://drive.google.com/drive/folders/1ecCGWKsd3sX1JwfeIjitmTnRdB50l0qo)
-
-### Facilities by Tom Dullemond
-* [Тема на BGG](https://boardgamegeek.com/thread/2591023/facilities-10)
-* [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/l8njos/facilities_10/)
-* [PDF c правилами на Google.Disk](https://drive.google.com/file/d/1UK8oU1jc23FCUvQw87zU7poYQSL8Zlp7/view)
-* [Архив для печати карт на Google.Disk](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
-
 ### Franken Draft (Base Game)
 * [Google.Disk](https://drive.google.com/drive/folders/1TTtT24d8-gAqAnlpNf2KVRtNpJJReWeT)
 
@@ -47,12 +32,35 @@ description: Homerules
 * Desc: Additional heroes for Keleres faction
 * [Google.Drive](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
 
-### Integrated Facilites by Tom Dullemond
-* [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
-
 ### Mercenaries V2
 * Desc: New type of leaders. Originally by @IrishCyborg
 * [Google.Drive](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
+
+# Additional Stuff by Tom Dullemond/Cacotopos
+
+### Integrated Facilites by Tom Dullemond
+* [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
+
+### Monuments+ v.2.0 by Tom Dullemond
+* Decs: Variation Monuments from Blarkbob. New Version.
+* [BGG](https://boardgamegeek.com/thread/2702550/monuments-mini-expansion)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion/)
+* [Google.Drive](https://drive.google.com/drive/folders/1kqtY943syNMRsM1ijmHfymCxVVWxYUJq?usp=sharing)
+
+### Monuments+ v.1.1 by Tom Dullemond
+* Desc: Variation Monuments from Blarkbob. Old Version, depricated.
+* [Yandex.Disk](https://disk.yandex.ru/d/kSc1qvelayYkIg)
+
+### Fallen Empires by Tom Dullemond (for early departing players)
+* Desc: For Early Departing Players
+* [BGG](https://boardgamegeek.com/thread/2698748/fallen-empires-mini-expansion-early-departing-playn)
+* [Google.Drive](https://drive.google.com/drive/folders/1ecCGWKsd3sX1JwfeIjitmTnRdB50l0qo)
+
+### Facilities by Tom Dullemond
+* [BGG](https://boardgamegeek.com/thread/2591023/facilities-10)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/l8njos/facilities_10/)
+* [PDF c правилами на Google.Disk](https://drive.google.com/file/d/1UK8oU1jc23FCUvQw87zU7poYQSL8Zlp7/view)
+* [Архив для печати карт на Google.Disk](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
 
 # Additional Stuff by Fulvio
 
