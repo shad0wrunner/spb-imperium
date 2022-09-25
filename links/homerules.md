@@ -51,7 +51,7 @@ description: Homerules
 * Desc: Variation Monuments from Blarkbob. Old Version, depricated.
 * [Yandex.Disk](https://disk.yandex.ru/d/kSc1qvelayYkIg)
 
-### Fallen Empires by Tom Dullemond (for early departing players)
+### Fallen Empires by Tom Dullemond
 * Desc: For Early Departing Players
 * [BGG](https://boardgamegeek.com/thread/2698748/fallen-empires-mini-expansion-early-departing-playn)
 * [Google.Drive](https://drive.google.com/drive/folders/1ecCGWKsd3sX1JwfeIjitmTnRdB50l0qo)
