@@ -25,7 +25,8 @@ description: Useful Links
 
 ## Milty Draft
 
-* [Milty Draft Tool](https://miltydraft.com/)
+* [Milty Draft Tool](https://miltydraft.com/) - оригинальная утилита для Milty Draft'а.
+* [Milty by Shenigns](https://milty.shenanigans.be/) - улучшенный Milty Draft, в том числе с возможностью онлайн-драфта.
 
 ## Others
 
