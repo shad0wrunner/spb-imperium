@@ -33,5 +33,5 @@ description: Useful Links
 * [TI4 Scoreboard and Tracker](https://drive.google.com/file/d/1pVOLPtlq-5R1CHV3wNzYMkBRJf3VaBZO/view?usp=sharing) - Прекрасный трекер в виде PDF. Для использования открывайте в чём-то вроде Foxit/Movavi PDF Editor.
 * [Twilight Imperium 4 Systems Dealer](http://dah.me.uk/ti4/)
 * [Создание кастомных игровых карт](http://ti4-card-images.appspot.com/static/card.html) - раздолье для хоумрульщиков.
-* [Ассистент для игры](http://extraboard.net/extracomputer) - только база.
+* [Ассистент для игры](http://extraboard.net/extracomputer) - Обновлён до 3-го Кодекса включительно.
 * [Interactive Faction Summary](https://sreletron.github.io/ti4/) - сведение фракций на лету.
