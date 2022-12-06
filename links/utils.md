@@ -21,7 +21,7 @@ description: Useful Links
 ## Battle Calculator's
 
 * [Battle Calculator](http://alphamou.se/ti4calc/) - только для базы, рассчитывает вероятности.
-* [Battle Calculator](https://ti4odds.herokuapp.com/) - частично встроен PoK, симуляция.
+* [Battle Calculator](https://ti4odds.herokuapp.com/) - Currently Not Worked. Частично встроен PoK, симуляция.
 * [Batlle Calculator](https://ti4battle.com/) - частично встроен PoK.
 
 ## Milty Draft
