@@ -78,11 +78,11 @@ RPG по вселенной TI на движке Genesys.
   Доступны для предзаказа на сайте CMON - https://cmon-comics.backerkit.com/hosted_preorders/486071
  
 ### Firmanent
-  Автор: Dan Abnett
+  Автор: Dan Abnett  
   Illustrator: Osvaldo “Montos” Montpeller
   
 ### Corrupted Space4
-  Авторы: Ron Marz и Andy Lanning.
+  Авторы: Ron Marz и Andy Lanning  
   Illustrator: Netho Diaz.
 
 
