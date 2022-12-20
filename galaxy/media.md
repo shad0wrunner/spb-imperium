@@ -40,22 +40,33 @@ RPG по вселенной TI на движке Genesys.
 Приключение [Ashes of Power](https://disk.yandex.ru/i/hwlD-YIhg19h2A) уже доступно.  
 Во втором квартале 2022 ожидаются ещё.
 ## [Twilight Inscription](https://boardgamegeek.com/boardgame/361545/twilight-inscription)
-Пока не вышедшая игра в жанре Roll-and-Wtrite.
+<image src="https://user-images.githubusercontent.com/88241831/208702158-419b4951-35ea-4c83-9be0-18ec8668b289.jpg" height="200">
+
+Игра во вселенной Twilight Imperium в жанре Roll-and-Wtrite.
+
 # Книги вселенной Twilight Imperium
 ## Трилогия Тима Пратта
 <image src="https://user-images.githubusercontent.com/88241831/175357227-36b96f40-b95e-4f24-9d46-3f8bd5509aa5.jpg" height="200">
 
-Вышла на английском. Было объявлено, что она планируется к официальному переводу, но на данный момент по этому поводу полная тишина.
-### The Fractured Void (by Tim Pratt) 
-Доступна к покупке на английском. Можно найти в тырнете. Существует любительский перевод на руский язык.
-На CrowdRepublic была проведена кампания по выпуску перевода.
-### The Necropolis Empire (by Tim Pratt)
-Доступна к покупке на английском. Можно найти в тырнете.
-### The Veiled Masters (by Tim Pratt)
+Вышли на английском. На данный момент официально на русский переведан первая книга.
+### [The Fractured Void by Tim Pratt](https://www.amazon.com/Fractured-Void-Twilight-Imperium-Novel/dp/1839080469)
+Доступна к покупке на английском. Можно найти в тырнете. Существует любительский перевод на русский язык.
+Недавно вышел официальный перевод на CrowdRepublic от Hobby World.
+### [The Necropolis Empire by Tim Pratt](https://www.amazon.com/Necropolis-Empire-Twilight-Imperium-Novel/dp/1839080760)
+Доступна к покупке на английском. Можно найти в тырнете. Существует любительский перевод на русский язык.
+### [The Veiled Masters by Tim Pratt](https://www.amazon.com/Veiled-Masters-Twilight-Imperium-Novel/dp/1839081368)
 Доступна к покупке на английском. В тырнете пока не найти.
 ## Прочее
-### The Stars Beyond
-Сборник из шести рассказов (новелл ?), под редакцией Charlotte Llewelyn-Wells. В продажу пока не поступал.
+### [The Stars Beyond: A Twilight Imperium Anthology](https://www.amazon.com/Stars-Beyond-Twilight-Imperium-Anthology/dp/1839081805)
+Сборник из шести рассказов, под редакцией Charlotte Llewelyn-Wells. 
+
+Содержимое:  
+  A Ghost of a Chance, by M Darusha Wehm.  
+  The Fifth Stage, by Alex Acks.  
+  Shield of the Reef, by Robbie MacNiven.  
+  First Impressions, by Sarah Cawkwell.  
+  Contact, by Danie Ware.  
+  Defiler’s Reef, by Tim Pratt
 
 # Комиксы вселенной Twilight Imperium
 ### Twilight Imperium: Corrupted Space Graphic Novel
