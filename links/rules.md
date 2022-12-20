@@ -15,7 +15,7 @@
 
 ## FAQs
 
-* [Официальный FAQ&Errata от Dane Beltrami v 2.1 (EN)](https://docs.google.com/document/d/1_93kw7KkzvAXoQAxRioxo7iAt-Ar6BMIxdNf4Lv25rI/edit)
+* [Официальный FAQ&Errata от Dane Beltrami v 3.1 (EN)](https://docs.google.com/document/d/1_93kw7KkzvAXoQAxRioxo7iAt-Ar6BMIxdNf4Lv25rI/edit)
 * [Неофициальная компиляция ответов от Dane Beltrami (базовая игра) (EN)](https://docs.google.com/document/d/1Bgl9OpP-162sifCcratI9RtbOSTNXtFGnKEU_-89rZI/edit)
 * [Неофициальный FAQ по третьему Кодексу](https://docs.google.com/document/d/1XzZ6eIM5Bx4-7Rb5OIuxHwlWloObFOiEdu7wYqDw4fM/edit?usp=sharing)
 * [TI Rules](https://www.tirules.com/) - Хороший сайт с FAQ и упорядоченной структурой (EN)
