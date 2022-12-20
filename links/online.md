@@ -7,3 +7,4 @@
 * [Сообщество поддержки TI:SA](http://www.astralvault.net/games/SA/)
 * [Steam: Tabletop Playground](https://store.steampowered.com/app/838410/Tabletop_Playground/)
 * [Steam: TTPG: Twilight Imperium 4 Mode](https://tabletopplayground.mod.io/ti4)
+* [Twilight Wars](https://www.twilightwars.com) - Асинхронная версия для игры в TI4. Есть небольшие неточности в правилах.
