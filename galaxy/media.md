@@ -73,6 +73,7 @@ RPG по вселенной TI на движке Genesys.
 # Комиксы вселенной Twilight Imperium
 ## Twilight Imperium: Firmament & Corrupted Space
 <img src="https://user-images.githubusercontent.com/88241831/208711539-5af40a89-59e0-4bfd-91e8-1248349a9be1.jpg" width="300">
+
 Два комикса по вселенной Twilight Imperium, выпущенные совместно FFG и CMON в рамках CMON Comics Vol.2.  
   Доступны для предзаказа на сайте CMON - https://cmon-comics.backerkit.com/hosted_preorders/486071
  
