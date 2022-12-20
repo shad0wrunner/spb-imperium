@@ -71,14 +71,18 @@ RPG по вселенной TI на движке Genesys.
   Defiler’s Reef, by Tim Pratt
 
 # Комиксы вселенной Twilight Imperium
-### Twilight Imperium: Firmament & Corrupted Space
+## Twilight Imperium: Firmament & Corrupted Space
 <img src="https://user-images.githubusercontent.com/88241831/208711539-5af40a89-59e0-4bfd-91e8-1248349a9be1.jpg" width="300">
-Два комикса по вселенной Twilight Imperium, выпущенные совместно FFG и CMON в рамках CMON Comics Vol.2.
+Два комикса по вселенной Twilight Imperium, выпущенные совместно FFG и CMON в рамках CMON Comics Vol.2.  
+  Доступны для предзаказа на сайте [CMON](https://cmon-comics.backerkit.com/hosted_preorders/486071)
+ 
+### Firmanent
+  Автор: Dan Abnett
+  Illustrator: Osvaldo “Montos” Montpeller
   
+### Corrupted Space4
   Авторы: Ron Marz и Andy Lanning.
-Pencils/characters and ships design by Netho Diaz.
-Inks - Jagdish Kumar.
-Colors - Nikos.
-  
-Доступно для предзаказа на сайте хCMON](https://cmon-comics.backerkit.com/hosted_preorders/486071)
+  Illustrator: Netho Diaz.
+
+
 
