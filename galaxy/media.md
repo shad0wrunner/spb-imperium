@@ -17,6 +17,8 @@
 ### [Twilight Imperium: Second Edition – Hope's End (2001)](https://boardgamegeek.com/boardgameexpansion/4338/twilight-imperium-second-edition-hopes-end)
 Добавили две фракции (Ментак и Иссарил).
 ## [Twilight Imperium: Third Edition (2005)](https://boardgamegeek.com/boardgame/12493/twilight-imperium-third-edition)
+<img src="https://user-images.githubusercontent.com/88241831/208710242-7c538ba5-f6cf-4cc1-acf9-762c4de2149e.png" height="200">
+
 10 фракций. Шесть игроков.
 ### [Twilight Imperium: Third Edition – Shattered Empire (2006)](https://boardgamegeek.com/boardgameexpansion/22821/twilight-imperium-third-edition-shattered-empire)
 Разработкой дополнений к третьей редакции Twilight Imperium в основном занимался [Кори Конеска](https://boardgamegeek.com/boardgamedesigner/6651/corey-konieczka).  
@@ -69,9 +71,14 @@ RPG по вселенной TI на движке Genesys.
   Defiler’s Reef, by Tim Pratt
 
 # Комиксы вселенной Twilight Imperium
-### Twilight Imperium: Corrupted Space Graphic Novel
-Coming soon.
-Авторы: Ron Marz и Andy Lanning.
+### Twilight Imperium: Firmament & Corrupted Space
+<img src="https://user-images.githubusercontent.com/88241831/208711539-5af40a89-59e0-4bfd-91e8-1248349a9be1.jpg" width="300">
+Два комикса по вселенной Twilight Imperium, выпущенные совместно FFG и CMON в рамках CMON Comics Vol.2.
+  
+  Авторы: Ron Marz и Andy Lanning.
 Pencils/characters and ships design by Netho Diaz.
 Inks - Jagdish Kumar.
 Colors - Nikos.
+  
+Доступно для предзаказа на сайте хCMON](https://cmon-comics.backerkit.com/hosted_preorders/486071)
+
