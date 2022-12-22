@@ -11,3 +11,4 @@
 * [TI на Reddit](https://www.reddit.com/r/twilightimperium/)
 * [PapaNurgle84](https://www.reddit.com/user/Papa_Nurgle_84/posts/) - Подборка аналитических статей на Reddit.
 * [TI4 DB by MitrandirGM (только база)](https://docs.google.com/spreadsheets/d/1tlaUvsF2OiBCPbQFyCiyDiorixmXFXVWGVCJsSK_zAo/edit#gid=201186600)
+* [Telegram - Рязань](https://t.me/twilight_imperium_62)
