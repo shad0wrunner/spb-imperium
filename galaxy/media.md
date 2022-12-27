@@ -1,5 +1,7 @@
 # Игры вселенной Twilight Imperium
 ## [Twilight Imperium (1997)](https://boardgamegeek.com/boardgame/24/twilight-imperium)
+<img src="https://user-images.githubusercontent.com/88241831/209714500-5c64722c-4f0d-4910-89b0-fb7fd319de65.png" width="600">
+
 Самая первая игра по вселенной Twilight Imperium и одновременно первая игра Fantasy Flight Games.  
 Разработчик: [Кристиан Т. Петерсен](https://boardgamegeek.com/boardgamedesigner/21/christian-t-petersen).  
 Шесть фракций (Жол-Нар, Летнев, Хакан, Ззча, Н'орр, Сол), от 2 до 6 игроков.  
