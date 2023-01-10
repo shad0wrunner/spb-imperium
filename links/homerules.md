@@ -36,7 +36,7 @@ description: Homerules
 * Desc: New type of leaders. Originally by @IrishCyborg
 * [Google.Drive](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
 
-### Flagship II & Mech II Concepts by [u/Marinealver] https://www.reddit.com/user/Marinealver)
+### Flagship II & Mech II Concepts by [u/Marinealver](https://www.reddit.com/user/Marinealver)
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/nq3qix/flagship_ii_concepts/) - Flagship II Concept.
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/nvk2zj/mech_ii_concepts/) - Mech II Concept.
 
