@@ -47,7 +47,7 @@
 * [Codex](links/codexes.md)
 * [Утилиты](links/utils.md)
 * [TI Online](links/online.md)
-* [Хоумрулы](links/homerules.md)
+* [Homerules](links/homerules.md)
 * [Неразобранное](links/unsorted.md)
 * [Shops](links/shops.md)
 
