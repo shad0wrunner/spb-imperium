@@ -36,10 +36,19 @@ description: Homerules
 * Desc: New type of leaders. Originally by @IrishCyborg
 * [Google.Drive](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
 
+### Flagship II & Mech II Concepts by [u/Marinealver] https://www.reddit.com/user/Marinealver)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/nq3qix/flagship_ii_concepts/) - Flagship II Concept.
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/nvk2zj/mech_ii_concepts/) - Mech II Concept.
+
+### Integrated Facilites by u/Commandervndr
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/olihqf/ti4_integrated_facilities_ti4_aether/)
+* [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
+
 # Stuff by Tom Dullemond/Cacotopos
 
-### Integrated Facilites by Tom Dullemond
-* [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
+### Общий линк
+* [Yandex.Disk](https://disk.yandex.ru/d/2QBiWLkWYJrI9A)
+* [Google.Drive](https://drive.google.com/drive/folders/1Y3Sj1jJtVGGXwICaiXF-hEj1UHA2eqfj?usp=share_link)
 
 ### Monuments+ v.2.0 by Tom Dullemond
 * Decs: Variation Monuments from Blarkbob. New Version.
@@ -64,6 +73,10 @@ description: Homerules
 
 # Stuff by Fulvio
 
+### Общий линк
+* [Yandex.Disk](https://disk.yandex.ru/d/hnsbkyrAJthj9Q)
+* [Google.Drive](https://drive.google.com/drive/folders/1JTy-1J_hgAEE1qkABeCAOzqAtZjT7-Op?usp=share_link)
+
 ### Lost Relics of Ixth by Fulvio
 * Desc: A tiny fan-made expansion with additional frontier and relic-related content
 * [BGG](https://boardgamegeek.com/thread/2657750/lost-relics-ixth-tiny-fan-made-expansion-additiona)
@@ -78,10 +91,10 @@ description: Homerules
 * Desc: A tiny fan-made expansion with additional tiles
 * [Google.Drive](https://drive.google.com/drive/folders/1HinrGQ1i8gugvjVTouipRisr7hYYM5n-?usp=sharing)
 
-### Outposts by Fulvio
-* [Тема на BGG](https://www.boardgamegeek.com/thread/2726680/article/38475508#38475508)
-* [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/pp9dq0/announcing_outposts_a_miniexpansion_for_twilight/)
-* [Файлы на Google.Disk](https://drive.google.com/drive/u/0/folders/1JbNq3iDLjh2BqUHy5cErXuMkUkD2Oy8A?ths=true)
+### Outposts 2 by Fulvio
+* [BGG](https://www.boardgamegeek.com/thread/2726680/article/38475508#38475508)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/pp9dq0/announcing_outposts_a_miniexpansion_for_twilight/)
+* [Google.Drive](https://drive.google.com/drive/u/0/folders/1JbNq3iDLjh2BqUHy5cErXuMkUkD2Oy8A?ths=true)
 
 # Homebrew Factions
 
