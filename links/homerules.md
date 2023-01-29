@@ -4,7 +4,7 @@ description: Homerules
 
 ### Общий архив
 * [Яндекс.Диск](https://disk.yandex.ru/d/_V0fdXKesP4xIA)
-* [Google.Disk](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
+* [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
 
 ### Monuments
 * [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/bpdkmt/monuments_mini_expansion/)
