@@ -45,7 +45,8 @@ description: Homerules
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/olihqf/ti4_integrated_facilities_ti4_aether/)
 * [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
 
-# Stuff by Tom Dullemond/Cacotopos
+# Stuff by Cacotopos
+aka Tom Dullemond
 
 ### Общий линк
 * [Yandex.Disk](https://disk.yandex.ru/d/2QBiWLkWYJrI9A)
@@ -73,6 +74,7 @@ description: Homerules
 * [Архив для печати карт на Google.Disk](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
 
 # Stuff by Fulvio
+aka Unfulvio, aka Сумрачный итало-тайваньский гений
 
 ### Общий линк
 * [Yandex.Disk](https://disk.yandex.ru/d/hnsbkyrAJthj9Q)
@@ -96,6 +98,15 @@ description: Homerules
 * [BGG](https://www.boardgamegeek.com/thread/2726680/article/38475508#38475508)
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/pp9dq0/announcing_outposts_a_miniexpansion_for_twilight/)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1JbNq3iDLjh2BqUHy5cErXuMkUkD2Oy8A?ths=true)
+
+
+# Stuff by Oktober13
+aka John L, aka Hangman (?)
+
+### Общий линк
+* [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
+* [Google.Drive](https://drive.google.com/drive/folders/1JTy-1J_hgAEE1qkABeCAOzqAtZjT7-Op?usp=share_link)
+* [Source](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
 
 # Homebrew Factions
 
