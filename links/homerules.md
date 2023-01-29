@@ -105,7 +105,7 @@ aka John L, aka Hangman (?)
 
 ### Общий линк
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
-* [Google.Drive](https://drive.google.com/drive/folders/1JTy-1J_hgAEE1qkABeCAOzqAtZjT7-Op?usp=share_link)
+* [Google.Drive](https://drive.google.com/drive/folders/1otsf8Q97nlmoCTSeNh6CsasDu-Pl-lpR?usp=share_link)
 * [Source](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
 
 # Homebrew Factions
