@@ -28,10 +28,6 @@ description: Homerules
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/erm0a3/homebrew_rebalance_faction_promissory_notes/)
 * [Google.Disk](https://drive.google.com/file/d/1ZEStEqyrmMGJJubFjMz6M6MOnYAbn2Xz/view)
 
-### Keleres Tribunii+ Expansion
-* Desc: Additional heroes for Keleres faction
-* [Google.Drive](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
-
 ### Mercenaries V2
 * Desc: New type of leaders. Originally by @IrishCyborg
 * [Google.Drive](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
@@ -59,7 +55,7 @@ aka Tom Dullemond
 * [Yandex.Disk](https://disk.yandex.ru/d/2QBiWLkWYJrI9A)
 * [Google.Drive](https://drive.google.com/drive/folders/1Y3Sj1jJtVGGXwICaiXF-hEj1UHA2eqfj?usp=share_link)
 
-### Monuments+ v.2.0 by Tom Dullemond
+### Monuments+ v.2.01 by Tom Dullemond
 * Decs: Variation Monuments from Blarkbob. New Version.
 * [BGG](https://boardgamegeek.com/thread/2702550/monuments-mini-expansion)
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion/)
@@ -82,6 +78,10 @@ aka Tom Dullemond
 
 ### Agenda Reminder Tokens
 * [Google.Drive](https://drive.google.com/drive/folders/1-Y46UmcVxNUBcMT5F5wdHKq0YcSYRWbA?usp=share_link)
+
+### Keleres Tribunii+ Expansion
+* Desc: Additional heroes for Keleres faction
+* [Google.Drive](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
 
 # Stuff by Fulvio
 aka Unfulvio, aka Сумрачный итало-тайваньский гений
