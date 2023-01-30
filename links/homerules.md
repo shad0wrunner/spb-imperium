@@ -109,7 +109,6 @@ aka Unfulvio, aka Сумрачный итало-тайваньский гени�
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/pp9dq0/announcing_outposts_a_miniexpansion_for_twilight/)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1JbNq3iDLjh2BqUHy5cErXuMkUkD2Oy8A?ths=true)
 
-
 # Stuff by Oktober13
 aka John L, aka Hangman (?)
 
@@ -117,6 +116,13 @@ aka John L, aka Hangman (?)
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
 * [Google.Drive](https://drive.google.com/drive/folders/1otsf8Q97nlmoCTSeNh6CsasDu-Pl-lpR?usp=share_link)
 * [Source](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
+
+# Stuff by will
+aka ColonelWilly
+
+### Общий линк
+* [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
+* [Google.Drive](https://drive.google.com/drive/folders/1Q-zl2hQvKrmacjwXYrbD5vlThe3nKKMH?usp=share_link)
 
 # Homebrew Factions
 
