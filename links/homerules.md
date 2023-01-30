@@ -45,6 +45,13 @@ description: Homerules
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/olihqf/ti4_integrated_facilities_ti4_aether/)
 * [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
 
+# Stuff by Absols
+aka Absol197
+
+### Общий линк
+* [Yandex.Disk](https://disk.yandex.ru/d/tvtaoJktz4xjVA)
+* [Google.Drive](https://drive.google.com/drive/folders/1e8BEKy8qHOtbUL69GUHwbASZzURTDPdF?usp=share_link)
+
 # Stuff by Cacotopos
 aka Tom Dullemond
 
@@ -72,6 +79,9 @@ aka Tom Dullemond
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/l8njos/facilities_10/)
 * [PDF c правилами на Google.Disk](https://drive.google.com/file/d/1UK8oU1jc23FCUvQw87zU7poYQSL8Zlp7/view)
 * [Архив для печати карт на Google.Disk](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
+
+### Agenda Reminder Tokens
+* [Google.Drive](https://drive.google.com/drive/folders/1-Y46UmcVxNUBcMT5F5wdHKq0YcSYRWbA?usp=share_link)
 
 # Stuff by Fulvio
 aka Unfulvio, aka Сумрачный итало-тайваньский гений
