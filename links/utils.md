@@ -20,9 +20,9 @@ description: Useful Links
 
 ## Battle Calculator's
 
-* [Battle Calculator](http://alphamou.se/ti4calc/) - только для базы, рассчитывает вероятности.
+* [Battle Calculator by Ivan Bachtin](http://alphamou.se/ti4calc/) - Только база. Рассчитывает вероятности. Есть [Github](https://github.com/alpha-mouse/ti4calc).
 * [Battle Calculator](https://ti4odds.herokuapp.com/) - Currently Not Worked. Частично встроен PoK, симуляция.
-* [Batlle Calculator](https://ti4battle.com/) - частично встроен PoK.
+* [Batlle Calculator by Per Sandstrom](https://ti4battle.com/) - Встроен PoK и Кодексы. Есть небольшие недоработки (список можно посмотреть внизу). Симуляция. Есть [Github](https://github.com/pgsandstrom/ti4calc)
 
 ## Milty Draft
 
