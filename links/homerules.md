@@ -159,3 +159,9 @@ aka ColonelWilly
 * [“Trade Wars” 2-Player Variant на BGG](https://www.boardgamegeek.com/thread/2114639/trade-wars-2-player-variant)
 * [TI4 2 Player Princess Variant на BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
 * [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
+
+# Other Projects
+
+### Pax Legitima by GeneralPith
+* Desc: Expands and overhauls agenda phase.
+* [Google.Drive](https://drive.google.com/drive/folders/1-SdtcsRWh6wM9sYPeDMsONng7Of1OJXw?usp=share_link)
