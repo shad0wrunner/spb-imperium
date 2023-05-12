@@ -51,7 +51,7 @@ aka Absol197
 # Stuff by Cacotopos
 aka Tom Dullemond
 
-### Общий линк
+### General Folder / Общий лин
 * [Yandex.Disk](https://disk.yandex.ru/d/2QBiWLkWYJrI9A)
 * [Google.Drive](https://drive.google.com/drive/folders/1Y3Sj1jJtVGGXwICaiXF-hEj1UHA2eqfj?usp=share_link)
 
@@ -77,11 +77,20 @@ aka Tom Dullemond
 * [Архив для печати карт на Google.Disk](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
 
 ### Agenda Reminder Tokens
+* Desc: Various Reminder Tokens for Laws in Play
 * [Google.Drive](https://drive.google.com/drive/folders/1-Y46UmcVxNUBcMT5F5wdHKq0YcSYRWbA?usp=share_link)
 
 ### Keleres Tribunii+ Expansion
-* Desc: Additional heroes for Keleres faction
+* Desc: Additional Heroes for Keleres Faction
 * [Google.Drive](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
+
+### DS Monuments
+* Desc: Monuments Expansion for Discordant Suns
+* Link: See in General Folder
+
+### Large Objectives
+* Desc: Objective Cards in Increased Size.
+* [Google.Drive](https://drive.google.com/drive/folders/1ImaK0lP9ULQksPydbE1jeUkvCUSOxjRM?usp=share_link)
 
 # Stuff by Fulvio
 aka Unfulvio, aka Сумрачный итало-тайваньский гений
