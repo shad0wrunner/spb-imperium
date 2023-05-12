@@ -165,3 +165,7 @@ aka ColonelWilly
 ### Pax Legitima by GeneralPith
 * Desc: Expands and overhauls agenda phase.
 * [Google.Drive](https://drive.google.com/drive/folders/1-SdtcsRWh6wM9sYPeDMsONng7Of1OJXw?usp=share_link)
+
+### Dawning Empires by Hangman
+* Desc: New factions, mercenaries add-on and new tiles.
+* [Google.Drive](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
