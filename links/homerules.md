@@ -15,7 +15,8 @@ description: Homerules
 * [Google.Disk](https://drive.google.com/drive/folders/1TTtT24d8-gAqAnlpNf2KVRtNpJJReWeT)
 
 ### Milty Draft
-* [Milty Draft Tool Online](https://miltydraft.com/)
+* [Milty Draft Tool Online](https://miltydraft.com/) - Old Version.
+* [Milty Draft Tool Online](https://milty.shenanigans.be/) - New Version.
 
 ### The TI AI
 * [BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
