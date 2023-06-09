@@ -52,7 +52,7 @@ aka Absol197
 # Stuff by Cacotopos
 aka Tom Dullemond
 
-### General Folder / Общий лин
+### General Folder / Общий линк
 * [Yandex.Disk](https://disk.yandex.ru/d/2QBiWLkWYJrI9A)
 * [Google.Drive](https://drive.google.com/drive/folders/1Y3Sj1jJtVGGXwICaiXF-hEj1UHA2eqfj?usp=share_link)
 
@@ -141,7 +141,7 @@ aka ColonelWilly
 * [Yandex.Disk](https://disk.yandex.ru/d/7WPIb-kBCXmiQw)
 
 ### Discordant Stars
-* Desc: 34 (35?) Community Homebrew Factions
+* Desc: 34 Community Homebrew Factions Pack
 * [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
 
