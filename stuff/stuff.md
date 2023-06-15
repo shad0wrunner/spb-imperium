@@ -30,13 +30,15 @@ Thingiverse - ресурс с подборкой файлов для 3D-печа
 
 ---
 
-## Playmats
+## Fleet Stands / Подставки для кораблей
+* Небольшая подборка моделей для печати подставок здесь - [Я.Диск](https://disk.yandex.ru/d/8n_yw4AvoalWlg) или [Google.Disk](https://drive.google.com/drive/folders/1VcBxZm35XofBdbA5eXrvW5z3XlIOE2MC?usp=sharing)
+* Информацию о том, где можно заказать печать подставок для флота вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
+
+## Playmats / Игровые маты
 * Небольшая подборка плейматов здесь - [Я.Диск](https://disk.yandex.ru/d/4VaPDFcR3Sohig) или [Google.Disk](https://drive.google.com/drive/folders/1eAlZd6JOpqdaY2WzX3WVRz7upsLVIeSo?usp=sharing)
 * Информацию о том, где можно заказать печать плейматов вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
 
-## Fleet Stands
-* Небольшая подборка моделей для печати подставок здесь - [Я.Диск](https://disk.yandex.ru/d/8n_yw4AvoalWlg) или [Google.Disk](https://drive.google.com/drive/folders/1VcBxZm35XofBdbA5eXrvW5z3XlIOE2MC?usp=sharing)
-* Информацию о том, где можно заказать печать подставок для флота вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
+## Strategy Card Stands / Подлставки для карт стратегий
 
 ## Tokens
 * Небольшая подборка моделей различных жетонов здесь - [Я.Диск](https://disk.yandex.ru/d/VLVqtXCxKGeIQw) или [Google.Disk](https://drive.google.com/drive/folders/1s0iOqe-i8IDPjKL2Yj5XbRgdXvEG0Xty?usp=sharing)
