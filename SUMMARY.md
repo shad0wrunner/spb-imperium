@@ -56,6 +56,7 @@
 * [Main](stuff/stuff.md)
 * [Protect](stuff/protect.md)
 * [Shops](stuff/shops.md)
+* [Templates](stuff/templates.md)
 * [3D Units](stuff/3dunits.md)
 * [Organizers](stuff/organizers.md)
 
