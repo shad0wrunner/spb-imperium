@@ -6,6 +6,18 @@ description: Templates
 * [Яндекс.Диск](https://disk.yandex.ru/d/W4LHTQ5Prxpq-Q) - наиболее полный архив.
 * [Google.Drive](https://drive.google.com/drive/folders/1CgzL438mHQizuw04mhIJEZ8ccF6e00sT?usp=drive_link) - менее полный архив, содержит только базовые шаблоны, т.к. место на Гугле ограничено 15 гигами.
 
+# Наборы шаблонов
+
+### TI4 PoK JaHeit Templates
+* [Яндекс.Диск](https://disk.yandex.ru/d/KqD9DmNZsSQ8qg)
+* Формат: В основном GIMP (.xcf), немного Photoshop'а (.psd)
+* Включает: Лист фракций, жетоны, тайлы, карты лидеров, мехов, планет, обещаний, технологий.
+
+### Planets by And Cat
+* [Яндекс.Диск](https://disk.yandex.ru/d/HqmKVZ3DNtuQqA)
+* Формат: Photoshop (.psd)
+* Включает: Тайлы систем и аномалий, карты планет, карты способностей легендарных планет, инструкцию по генерации изображений планет в Midjourney.
+
 # Standart Components: Cards / Стандартные компоненты: карты
 
 ### Action Cards / Карты действий
@@ -54,6 +66,10 @@ description: Templates
 
 # Standart Components: Strategy Cards, Tiles & Tokens / Стандартные компоненты: карты стратегий, тайлы и жетоны
 
+### Rulebook / Книга правил
+* [Яндекс.Диск](https://disk.yandex.ru/d/ZVb3kO8J3LLBng)
+* Формат: GIMP (.xcf)
+
 ### Strategy Cards / Карты стратегий
 * [Яндекс.Диск](https://disk.yandex.ru/d/4tFiQCbDce37vA)
 * Формат: GIMP (.xcf)/PNG
@@ -66,9 +82,3 @@ description: Templates
 * [Яндекс.Диск](https://disk.yandex.ru/d/8BtcLGSOBMc3qA)
 * Формат: GIMP (.xcf)/Photoshop (.psd)/Paint.NET (.pdn)
 
-# Наборы шаблонов
-
-### TI4 PoK JaHeit Templates
-* [Яндекс.Диск](https://disk.yandex.ru/d/KqD9DmNZsSQ8qg)
-* Формат: В основном GIMP (.xcf), немного Photoshop'а (.psd)
-* Включает: Лист фракций, жетоны, тайлы, карты лидеров, мехов, планет, обещаний, технологий.
