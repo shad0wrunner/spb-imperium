@@ -22,23 +22,17 @@ Thingiverse - ресурс с подборкой файлов для 3D-печа
 [Kelsam Tabletop](https://tabletop.kelsam.net/) - разработчики разных вкусностей для TI и других игр, есть в свободном доступе пара файлов для печати матов, цветных акрилов жетонов
 * [Раздел по Twilight Imperium 4rd](https://tabletop.kelsam.net/game/twilight-imperium-fourth-edition/)
 
-
-[Litko](https://litko.net/) - так же делают разные фишки игр, в наличии интересные цветные акриловые жетоны (если потеряли свои), подставки для флота, акриловые наборы товаров и т.д.
-* [Тык-с](https://litko.net/search?q=twilight%20imperium/)
-
-[Etsy](https://etsy.com) - онлайн площадка, где продаётся много разных приятных вещей по тематике Twilight Imperium, в том числе хорошие печатные версии Кодексов. К сожалению, в данный момент доступ на неё из России закрыт.
-
 ---
 
-## Fleet Stands / Подставки для кораблей
+### Fleet Stands / Подставки для кораблей
 * Небольшая подборка моделей для печати подставок здесь - [Я.Диск](https://disk.yandex.ru/d/8n_yw4AvoalWlg) или [Google.Disk](https://drive.google.com/drive/folders/1VcBxZm35XofBdbA5eXrvW5z3XlIOE2MC?usp=sharing)
 * Информацию о том, где можно заказать печать подставок для флота вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
 
-## Playmats / Игровые маты
+### Playmats / Игровые маты
 * Небольшая подборка плейматов здесь - [Я.Диск](https://disk.yandex.ru/d/4VaPDFcR3Sohig) или [Google.Disk](https://drive.google.com/drive/folders/1eAlZd6JOpqdaY2WzX3WVRz7upsLVIeSo?usp=sharing)
 * Информацию о том, где можно заказать печать плейматов вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
 
-## Strategy Card Stands / Подлставки для карт стратегий
+### Strategy Card Stands / Подлставки для карт стратегий
 
-## Tokens
+### Tokens
 * Небольшая подборка моделей различных жетонов здесь - [Я.Диск](https://disk.yandex.ru/d/VLVqtXCxKGeIQw) или [Google.Disk](https://drive.google.com/drive/folders/1s0iOqe-i8IDPjKL2Yj5XbRgdXvEG0Xty?usp=sharing)
