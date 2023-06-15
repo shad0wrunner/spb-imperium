@@ -12,9 +12,9 @@ description: Various Stuff
 
 # Free Stuff
 ### [Thingverse](https://www.thingiverse.com) - Ресурс с подборкой файлов для 3D-печати, на котором можно найти много различного для Twilight Imperium (и для 3-й, и для 4-й редакций).
----
--*-*-*-
-***
+
+--- div ---
+
 Примеры работ с Thingverse:
 * [Общий поиск по Thingverse \(ссылка\)](https://www.thingiverse.com/search?q=Twilight+Imperium&page=1&type=things&sort=newest)
 * [Фиксаторы для игрового поля: Вариант 1](https://www.thingiverse.com/thing:2224531)
