@@ -6,6 +6,8 @@ description: Homerules
 * [Яндекс.Диск](https://disk.yandex.ru/d/_V0fdXKesP4xIA)
 * [Google.Drive](https://drive.google.com/drive/folders/181H4iiMn-yWq5IZ1zBdYHA5BqpCPqsd1?usp=share_link)
 
+# Отдельные проекты
+
 ### Monuments
 * [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/bpdkmt/monuments_mini_expansion/)
 * [Карточки на Google.Disk](https://drive.google.com/file/d/1JqbTtcYUUodh6L_IgWJ_B0Rrg4dT3m8N/view)
