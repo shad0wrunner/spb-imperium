@@ -33,15 +33,23 @@ description: Various Stuff
 
 ---
 
+### Board Game & Tiles Frames / Фиксаторы поля и тайлов
+* [Yandex.Disk](https://disk.yandex.ru/d/YyE_hpETvNhIBA)
+* [Google.Drive](https://drive.google.com/drive/folders/1QUMgOlkoj0z-GLjfvwiHKCbMAu7uME7Y?usp=drive_link)
+
 ### Fleet Stands / Подставки для кораблей
-* Небольшая подборка моделей для печати подставок здесь - [Я.Диск](https://disk.yandex.ru/d/8n_yw4AvoalWlg) или [Google.Disk](https://drive.google.com/drive/folders/1VcBxZm35XofBdbA5eXrvW5z3XlIOE2MC?usp=sharing)
-* Информацию о том, где можно заказать печать подставок для флота вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
+* [Yandex.Disk](https://disk.yandex.ru/d/8n_yw4AvoalWlg)
+* [Google.Drive](https://drive.google.com/drive/folders/1VcBxZm35XofBdbA5eXrvW5z3XlIOE2MC?usp=sharing)
+* Информацию о том, где можно заказать подставки для кораблей вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
 
 ### Playmats / Игровые маты
-* Небольшая подборка плейматов здесь - [Я.Диск](https://disk.yandex.ru/d/4VaPDFcR3Sohig) или [Google.Disk](https://drive.google.com/drive/folders/1eAlZd6JOpqdaY2WzX3WVRz7upsLVIeSo?usp=sharing)
+* [Yandex.Disk](https://disk.yandex.ru/d/4VaPDFcR3Sohig)
+* [Google.Drive](https://drive.google.com/drive/folders/1eAlZd6JOpqdaY2WzX3WVRz7upsLVIeSo?usp=sharing)
 * Информацию о том, где можно заказать печать плейматов вы можете найти на странице [Shops](https://ti.sr2k.info/links/shops)
 
 ### Strategy Card Stands / Подставки для карт стратегий
+* [Yandex.Disk](https://disk.yandex.ru/d/lfMPC6-wqe0uCA)
+* [Google.Drive](https://drive.google.com/drive/folders/1HEzdVZ1t3OyFJxhx7xzGJCdvzY--2SVq?usp=drive_link)
 
 ### Tokens
 * Небольшая подборка моделей различных жетонов здесь - [Я.Диск](https://disk.yandex.ru/d/VLVqtXCxKGeIQw) или [Google.Disk](https://drive.google.com/drive/folders/1s0iOqe-i8IDPjKL2Yj5XbRgdXvEG0Xty?usp=sharing)
