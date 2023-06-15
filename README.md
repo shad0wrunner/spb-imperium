@@ -25,6 +25,7 @@ description: TI Community (SPb edition)
 * [Main](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/stuff.md) - Общая информация.
 * [Protect](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/protect.md) - Информация о протекторах для карт и защите прочих компонентов игры.
 * [Shops](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/shops.md) - Подборка онлайн-магазинов, где можно купить различный стафф для TI.
+* [Templates](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/templates.md) - Подборка шаблонов для создания новых компонентов для TI.
 * [3D Units](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/3dunits.md) - 3D модели юнитов.
 * [Organizers](https://github.com/shad0wrunner/spb-imperium/blob/master/stuff/organizers.md) - Схемы и модели органайзеров для TI (3D/foam/print).
 
