@@ -69,11 +69,11 @@
 
 ## Перевод LRR 2.0
 * Оглавление
-  * 3 [Аномалии](rules/anomalies.md)
-  * 13 [Гравитационный разлом](rules/gravityrift.md)
-  * 62 [Поле астероидов](rules/asteroidfield.md)
-  * 79 [Сверхновая](rules/supernova.md)
-  * 91 [Туманность](rules/nebula.md)
+  * [3 Аномалии](rules/anomalies.md)
+  * [13 Гравитационный разлом](rules/gravityrift.md)
+  * [62 Поле астероидов](rules/asteroidfield.md)
+  * [79 Сверхновая](rules/supernova.md)
+  * [91 Туманность](rules/nebula.md)
 
 * [Strategy Cards / Карты стратегий](wiki/strategycards.md)
 * [Exploration / Разведка](rules/exploration.md)
