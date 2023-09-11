@@ -71,6 +71,7 @@ aka Tom Dullemond
 ### Fallen Empires by Tom Dullemond
 * Desc: For Early Departing Players
 * [BGG](https://boardgamegeek.com/thread/2698748/fallen-empires-mini-expansion-early-departing-playn)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/orvt4j/fallen_empires_miniexpansion_for_irl_games_with)
 * [Google.Drive](https://drive.google.com/drive/folders/1ecCGWKsd3sX1JwfeIjitmTnRdB50l0qo)
 
 ### Facilities by Tom Dullemond
