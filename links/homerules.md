@@ -147,6 +147,7 @@ aka ColonelWilly
 * Desc: 34 Community Homebrew Factions Pack
 * [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
+* [PnP Version](https://drive.google.com/drive/folders/1OV4zr3wcbXQROkv6cOvnO6H_8AvpIL8H?usp=drive_link)
 
 ### Warhammer 40k Faction Pack
 * Desc: 8 Factions from the 40K universe
