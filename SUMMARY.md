@@ -76,6 +76,8 @@
   * [27 Исследования (Карта стратегии)](rules/technology_sc.md)
   * [41 Лидерство (Карта стратегии)](rules/leadership_sc.md)
   * [43 Мекатол-Рекс](rules/mecatol_rex.md)
+  * [47 Наземные войска](rules/ground_forces.md)
+  * [50 Отряды](rules/units.md)
   * [62 Поле астероидов](rules/asteroidfield.md)
   * [64 Политика (Карта стратегии)](rules/politics_sc.md)
   * [79 Сверхновая](rules/supernova.md)
