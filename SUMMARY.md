@@ -71,8 +71,13 @@
 * Оглавление
   * [3 Аномалии](rules/anomalies.md)
   * [13 Гравитационный разлом](rules/gravityrift.md)
+  * [14 Дипломатия (Карта стратегии)](rules/diplomacy_sc.md)
+  * [41 Лидерство (Карта стратегии)](rules/leadership_sc.md)
   * [62 Поле астероидов](rules/asteroidfield.md)
+  * [64 Политика (Карта стратегии)](rules/politics_sc.md)
   * [79 Сверхновая](rules/supernova.md)
+  * [87 Строительство (Карта стратегии)](rules/construction_sc.md)
+  * [90 Торговля (Карта стратегии)](rules/trade_sc.md)
   * [91 Туманность](rules/nebula.md)
 
 * [Strategy Cards / Карты стратегий](wiki/strategycards.md)
