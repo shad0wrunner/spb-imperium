@@ -70,9 +70,12 @@
 ## Перевод LRR 2.0
 * Оглавление
   * [3 Аномалии](rules/anomalies.md)
+  * [10 Война (Карта стратегии)](rules/warfare_sc.md)
   * [13 Гравитационный разлом](rules/gravityrift.md)
   * [14 Дипломатия (Карта стратегии)](rules/diplomacy_sc.md)
+  * [27 Исследования (Карта стратегии)](rules/technology_sc.md)
   * [41 Лидерство (Карта стратегии)](rules/leadership_sc.md)
+  * [43 Мекатол-Рекс](rules/mecatol_rex.md)
   * [62 Поле астероидов](rules/asteroidfield.md)
   * [64 Политика (Карта стратегии)](rules/politics_sc.md)
   * [79 Сверхновая](rules/supernova.md)
