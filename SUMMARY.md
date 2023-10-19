@@ -79,6 +79,7 @@
   * [87 Строительство (Карта стратегии)](rules/construction_sc.md)
   * [90 Торговля (Карта стратегии)](rules/trade_sc.md)
   * [91 Туманность](rules/nebula.md)
+  * [100 Экспания (Карта стратегии)](rules/imperial_sc.md)
 
 * [Strategy Cards / Карты стратегий](wiki/strategycards.md)
 * [Exploration / Разведка](rules/exploration.md)
