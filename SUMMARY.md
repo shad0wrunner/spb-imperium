@@ -74,6 +74,7 @@
   * [13 Гравитационный разлом](rules/gravityrift.md)
   * [14 Дипломатия (Карта стратегии)](rules/diplomacy_sc.md)
   * [27 Исследования (Карта стратегии)](rules/technology_sc.md)
+  * [37 Корабли](rules/ships.md)
   * [41 Лидерство (Карта стратегии)](rules/leadership_sc.md)
   * [43 Мекатол-Рекс](rules/mecatol_rex.md)
   * [47 Наземные войска](rules/ground_forces.md)
