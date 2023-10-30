@@ -76,6 +76,7 @@
   * [17 Жетоны истребителей](rules/fighter_tokens.md)
   * [18 Жетоны пехоты](rules/infantry_tokens.md)
   * [27 Исследования (Карта стратегии)](rules/technology_sc.md)
+  * [28 Карты действий](rules/action_cards.md)
   * [37 Корабли](rules/ships.md)
   * [41 Лидерство (Карта стратегии)](rules/leadership_sc.md)
   * [43 Мекатол-Рекс](rules/mecatol_rex.md)
