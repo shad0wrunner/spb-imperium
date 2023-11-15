@@ -69,12 +69,15 @@
 
 ## Перевод LRR 2.0
 * Оглавление
+  * [1 Активная система](rules/active_system.md)
+  * [2 Активный игрок](rules/active_player.md)
   * [3 Аномалии](rules/anomalies.md)
   * [10 Война (Карта стратегии)](rules/warfare_sc.md)
   * [13 Гравитационный разлом](rules/gravityrift.md)
   * [14 Дипломатия (Карта стратегии)](rules/diplomacy_sc.md)
   * [17 Жетоны истребителей](rules/fighter_tokens.md)
   * [18 Жетоны пехоты](rules/infantry_tokens.md)
+  * [21 Заградительный огонь (Способность)](rules/anti-fighter_barrage.md)
   * [27 Исследования (Карта стратегии)](rules/technology_sc.md)
   * [28 Карты действий](rules/action_cards.md)
   * [37 Корабли](rules/ships.md)
