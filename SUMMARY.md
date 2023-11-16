@@ -78,7 +78,7 @@
   * [7 Бой (Характеристика)](rules/combat_attr.md)
   * [9 Влияние](rules/influence.md)
   * [10 Война (Карта стратегии)](rules/warfare_sc.md)
-  * [12 Гиперлинии](rules/hyperlines.md)4
+  * [12 Гиперлинии](rules/hyperlines.md)
   * [13 Гравитационный разлом](rules/gravity_rift.md)
   * [14 Дипломатия (Карта стратегии)](rules/diplomacy_sc.md)
   * [17 Жетоны истребителей](rules/fighter_tokens.md)
