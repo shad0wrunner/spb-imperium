@@ -76,6 +76,7 @@
   * [5 База](rules/space_dock.md)
   * [6 Блокада](rules/blockaded.md)
   * [7 Бой (Характеристика)](rules/combat_attr.md)
+  * [8 Бомбардировка (Способность)](rules/bombardment.md)
   * [9 Влияние](rules/influence.md)
   * [10 Война (Карта стратегии)](rules/warfare_sc.md)
   * [12 Гиперлинии](rules/hyperlines.md)
