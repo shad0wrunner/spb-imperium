@@ -1,7 +1,7 @@
 Meeple House
 ---
-https://shop.meeplehouse.ru/catalog/uts_system/organayzery_dlya_nastolnykh_igr_gotovye_nabory/organayzer_dlya_igry_sumerki_imperii/13701 - готовый сетап органайзера для базы TI.
-https://shop.meeplehouse.ru/catalog/uts_system/organayzery_dlya_nastolnykh_igr_gotovye_nabory/organayzer_dlya_igry_sumerki_imperii_prorochestvo_koroley/14038 - готовый сетап органайзера для базы и допа TI.
+[https://shop.meeplehouse.ru/catalog/uts_system/organayzery_dlya_nastolnykh_igr_gotovye_nabory/organayzer_dlya_igry_sumerki_imperii/13701](Готовый сетап органайзера для базы TI.)
+[https://shop.meeplehouse.ru/catalog/uts_system/organayzery_dlya_nastolnykh_igr_gotovye_nabory/organayzer_dlya_igry_sumerki_imperii_prorochestvo_koroley/14038](Готовый сетап органайзера для базы и допа TI.)
 
 
 На странице [Shops](https://github.com/shad0wrunner/spb-imperium/blob/master/links/shops.md) вы можете найти ссылки, где можно заказать органайзеры для TI4.
