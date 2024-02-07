@@ -4,11 +4,14 @@
 MDF, под вырезку. Схем особо нет, можно приобрести готовые. Из плюсов - красивые, но достаточно тяжёлые. Есть в наличии у GameFit, Maify, O_Workshop.  
 Foam/пена. Можно сделать самому, вес даже меньше, чем у пластика, но визуально менее красивые.  
 Картон/бумага. Аналогично foam/пена.  
+Есть Довольно дешёвый и лёгкий вариант органайзеров из стандартных компонентов у Meeple House (ссылки см.ниже). Из минусов - не очень удобная компоновка и, возможно, ориентированы на простые протекторы для карт, что не самый лучший выбор для их защиты. Из плюсов - можно подобрать свой вариант компоновки (но не факт, что тогда влезет в одну коробку).
 
 Meeple House
 ---
 * [Готовый сетап органайзера для базы TI.](https://shop.meeplehouse.ru/catalog/uts_system/organayzery_dlya_nastolnykh_igr_gotovye_nabory/organayzer_dlya_igry_sumerki_imperii/13701)
 * [Готовый сетап органайзера для базы и допа TI.](https://shop.meeplehouse.ru/catalog/uts_system/organayzery_dlya_nastolnykh_igr_gotovye_nabory/organayzer_dlya_igry_sumerki_imperii_prorochestvo_koroley/14038)
+
+
 
 
 На странице [Shops](https://github.com/shad0wrunner/spb-imperium/blob/master/links/shops.md) вы можете найти ссылки, где можно заказать органайзеры для TI4.
