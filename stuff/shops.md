@@ -3,7 +3,7 @@
 * [ВК: Ortiz](https://vk.com/o_workshop) - Органайзер. Подставки для флота. Подставки для карт стратегий. Бывает печать игровых полей.
 * [ВК: Майфи](https://vk.com/maifygroup) - Органайзер. Бывает печать игровых полей.
 * [Meeple House](https://shop.meeplehouse.ru) - Сборные органайзеры.
-* [Gamefit](https://gamefit.shop/ru/store?search_query=Twilight%20Imperium) - Органайзеры для TI4/TI3. Подставки для кораблей. Фиксаторы поля.
+* [GameFit](https://gamefit.shop/ru/store?search_query=Twilight%20Imperium) - Органайзеры для TI4/TI3. Подставки для кораблей. Фиксаторы поля.
 
 ### En
 * [Etsy](https://www.etsy.com) - Онлайн площадка, где продаётся много разных приятных вещей по тематике Twilight Imperium, в том числе хорошие печатные версии Кодексов. К сожалению, в данный момент доступ на неё из России закрыт.
