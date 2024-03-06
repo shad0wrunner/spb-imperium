@@ -13,14 +13,6 @@ description: Various Stuff
 # Free Stuff
 ### [Thingverse](https://www.thingiverse.com) - Ресурс с подборкой файлов для 3D-печати, на котором можно найти много различного для Twilight Imperium (и для 3-й, и для 4-й редакций).
 
-Примеры работ с Thingverse:
-* [Общий поиск по Thingverse \(ссылка\)](https://www.thingiverse.com/search?q=Twilight+Imperium&page=1&type=things&sort=newest)
-* [Фиксаторы для игрового поля: Вариант 1](https://www.thingiverse.com/thing:2224531)
-* [Фиксаторы для игрового поля: Вариант 2](https://www.thingiverse.com/thing:3005106)
-* [Fleet Stands](https://www.thingiverse.com/thing:2196283) - Подставки для флота (совместимы с Eclipse, непрозрачные).
-* [Держатели для жетонов](https://www.thingiverse.com/thing:2844269)
-* [Маркеры технологий](https://www.thingiverse.com/thing:5395832)
-
 ---
 ### [Printables by Josef Prusa](https://www.printables.com) - Ещё один ресурс с подборкой файлов для 3D-печати. Многое идентично с Thingverse, но есть и отличающиеся вещи.
 
