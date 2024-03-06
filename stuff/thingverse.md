@@ -1,7 +1,7 @@
 Thingverse
 ---
 
-Подборка разных вкусностей с Thingverse
+!Обратите внимание: разные вкусности с Thingverse рассчитаны на английскую версию игру, а некоторые её компоненты отличаются по размеру от русскоязычной версии, поэтому для неё требуется подгонка.
 
 * [Общий поиск по Thingverse \(ссылка\)](https://www.thingiverse.com/search?q=Twilight+Imperium&page=1&type=things&sort=newest)
 * [Фиксаторы для игрового поля: Вариант 1](https://www.thingiverse.com/thing:2224531)
