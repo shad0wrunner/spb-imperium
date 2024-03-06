@@ -13,6 +13,8 @@ description: Various Stuff
 # Free Stuff
 ### [Thingverse](https://www.thingiverse.com) - Ресурс с подборкой файлов для 3D-печати, на котором можно найти много различного для Twilight Imperium (и для 3-й, и для 4-й редакций).
 
+* [Подборка разных вкусностей с Thingverse](thingverse.md)
+
 ---
 ### [Printables by Josef Prusa](https://www.printables.com) - Ещё один ресурс с подборкой файлов для 3D-печати. Многое идентично с Thingverse, но есть и отличающиеся вещи.
 
