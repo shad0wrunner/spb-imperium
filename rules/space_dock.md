@@ -11,7 +11,7 @@
 КОММЕНТАРИИ
 --- 
 1) База является одновременно и отрядом, и структурой.
-2) Истребители, которые перевозят во время передвижения кораблей остаются на борту перевозящего их корабля до окончания передвижения. Они не считаются поддерживаемыми базой до окончания передвижения.
+2) Истребители, которые перевозят во время передвижения кораблей остаются на борту перевозящего их корабля до окончания передвижения. Они не считаются поддерживаемыми базой до окончания передвижения.  
    а) If a player moves one of their units with capacity into a system, transporting fighters, they cannot pick up ground forces from a planet in that system with that ship by transferring those fighters to a space dock in that system to free up capacity.
 
 См.также: Блокада, [Отряды](units.md), [Планеты](planets.md), Производство отрядов, [Сооружения](structures.md), [Строительство (карта стратегии)](construction_sc.md).
