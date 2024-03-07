@@ -13,4 +13,4 @@
 КОММЕНТАРИИ
 ---
 
-См.также: [Аномалии](anomalies.md), [Гиперлинии](hyperlines.md), [Корабли](ships.md), [Наземные войска](ground_forces.md), [Планеты](planets.md), [Смежные системы](adjacency.md), [Сооружения](structures.md), Червоточины.
+См.также: [Аномалии](anomalies.md), [Гиперлинии](hyperlines.md), [Корабли](ships.md), [Наземные войска](ground_forces.md), [Планеты](planets.md), [Смежные системы](adjacency.md), [Сооружения](structures.md), [Червоточины](wormholes.md).
