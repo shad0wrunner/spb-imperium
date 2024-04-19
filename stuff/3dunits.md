@@ -3,8 +3,8 @@
 Все доступные для скачивания 3D-модели вы можете найти на [Я.Диске](https://disk.yandex.ru/d/luDvT9M7JNbd9w)
 
 Стандартные модели (за авторством Saunick'а) можно найти на:
-1) [Thingverse](https://www.thingiverse.com/thing:4191414) - отсутствует модель меха.
-2) [Я.Диск](https://disk.yandex.ru/d/_yFFq-p-_xjCIA) - с моделью меха.
+1) [Thingverse](https://www.thingiverse.com/thing:4191414) - исходники, с инструкцией по печати.
+2) [Я.Диск](https://disk.yandex.ru/d/_yFFq-p-_xjCIA) - архивная копия.
 
 ---
 
