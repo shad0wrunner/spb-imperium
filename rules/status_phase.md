@@ -22,4 +22,4 @@
 3) If there are few cards remaining in the action card deck, they will be dealt out first to the players lowest in initiative order. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.
 4) (устарело) Все повреждённые отряд должны быть отмеронтированы, даже если отряды не обладают больше способностью **«Поглощение урона»** вследствии игрового эффекта. 
 
-См.также: Жетон хранителей, Жетоны приказов, Игровой раунд, Карты стратегий, Карты действий, Карты целей, Поглощение урона (способность), Подготовленная карта, Фаза политики, Фаза стратегии.
+См.также: [Жетон хранителей](custodians_token.md), Жетоны приказов, [Игровой раунд](game_round.md), [Карты стратегий](strategy_cards.md), [Карты действий](action_cards.md), Карты целей, [Поглощение урона (Способность)](sustain_damage_abil.md), [Победные очки](victory_points.md), [Подготовленная карта](readied.md), Порядок инициативы, Фаза политики, Фаза стратегии.
