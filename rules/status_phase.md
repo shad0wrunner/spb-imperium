@@ -19,6 +19,7 @@
 ---
 1) В LRR 2.0 поправлен пункт 95.7, было убрано ограничени на ремонт только отрядов со спобностью «Поглощение урона».
 2) Игрок не могут выполнять общие цели, если не контролирует все планеты в своей родной системе.
-3) 
+3) If there are few cards remaining in the action card deck, they will be dealt out first to the players lowest in initiative order. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.
+4) (устарело) Все повреждённые отряд должны быть отмеронтированы, даже если отряды не обладают больше способностью **«Поглощение урона»** вследствии игрового эффекта. 
 
 См.также: Жетон хранителей, Жетоны приказов, Игровой раунд, Карты стратегий, Карты действий, Карты целей, Поглощение урона (способность), Подготовленная карта, Фаза политики, Фаза стратегии.
