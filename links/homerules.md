@@ -102,9 +102,11 @@ aka Tom Dullemond
 * Desc: Various Reminder Tokens for Laws in Play.
 * [Google.Drive](https://drive.google.com/drive/folders/1-Y46UmcVxNUBcMT5F5wdHKq0YcSYRWbA?usp=share_link)
 
-### Keleres Tribunii+ Expansion
-* Desc: Additional Heroes for Keleres Faction.
+### Keleres+ And Drahn Expansion
+* Desc: Additional Heroes for Keleres Faction and alternative faction The Drahn Consortium.
+* Desc: Discordant Suns compatible.
 * [Google.Drive](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
+* [Yandex.Disk](https://disk.yandex.ru/d/misQ2DD-jzHupw)
 
 ### DS Monuments
 * Desc: Monuments Expansion for Discordant Suns.
