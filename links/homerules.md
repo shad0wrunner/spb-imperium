@@ -68,6 +68,8 @@ aka Tom Dullemond
 
 ### Monuments+ v.1.1 by Tom Dullemond
 * Desc: Variation Monuments from Blarkbob. Old Version, depricated.
+* [BGG](https://boardgamegeek.com/thread/2702550/monuments-mini-expansion)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion/)
 * [Yandex.Disk](https://disk.yandex.ru/d/kSc1qvelayYkIg)
 
 ### Fallen Empires by Tom Dullemond
