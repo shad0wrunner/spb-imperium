@@ -58,11 +58,13 @@ aka Tom Dullemond
 * [Yandex.Disk](https://disk.yandex.ru/d/2QBiWLkWYJrI9A)
 * [Google.Drive](https://drive.google.com/drive/folders/1Y3Sj1jJtVGGXwICaiXF-hEj1UHA2eqfj?usp=share_link)
 
-### Monuments+ v.2.01 by Tom Dullemond
-* Decs: Variation Monuments from Blarkbob. New Version.
+### Monuments+ v.2.15 by Tom Dullemond
+* Desс: Variation of "Monuments" from Blarkbob. New Version.
+* Desc: Include Monuments for Base Game, PoK, DS, Drahn+ and additional content.
 * [BGG](https://boardgamegeek.com/thread/2702550/monuments-mini-expansion)
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion/)
 * [Google.Drive](https://drive.google.com/drive/folders/1kqtY943syNMRsM1ijmHfymCxVVWxYUJq?usp=sharing)
+* [Yandex.Disk](https://disk.yandex.ru/d/I4UpDvCSFjXrNQ)
 
 ### Monuments+ v.1.1 by Tom Dullemond
 * Desc: Variation Monuments from Blarkbob. Old Version, depricated.
@@ -74,23 +76,28 @@ aka Tom Dullemond
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/orvt4j/fallen_empires_miniexpansion_for_irl_games_with)
 * [Google.Drive](https://drive.google.com/drive/folders/1ecCGWKsd3sX1JwfeIjitmTnRdB50l0qo)
 
-### Facilities by Tom Dullemond
+### Facilities v.1 by Tom Dullemond
+* Desc: Depricated.
 * [BGG](https://boardgamegeek.com/thread/2591023/facilities-10)
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/l8njos/facilities_10/)
 * [PDF c правилами на Google.Disk](https://drive.google.com/file/d/1UK8oU1jc23FCUvQw87zU7poYQSL8Zlp7/view)
 * [Архив для печати карт на Google.Disk](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
+* [Yandex.Disk](https://disk.yandex.ru/d/OZkb9STfCXtPtg)
+
+### Facilities v.2 by Tom Dullemond
+* [Yandex.Disk](https://disk.yandex.ru/d/Mho88aQAyud-_g)
 
 ### Agenda Reminder Tokens
-* Desc: Various Reminder Tokens for Laws in Play
+* Desc: Various Reminder Tokens for Laws in Play.
 * [Google.Drive](https://drive.google.com/drive/folders/1-Y46UmcVxNUBcMT5F5wdHKq0YcSYRWbA?usp=share_link)
 
 ### Keleres Tribunii+ Expansion
-* Desc: Additional Heroes for Keleres Faction
+* Desc: Additional Heroes for Keleres Faction.
 * [Google.Drive](https://drive.google.com/drive/folders/1gps-MkFMuj28KATT-WZUGonrbkizLPBA)
 
 ### DS Monuments
-* Desc: Monuments Expansion for Discordant Suns
-* Link: See in General Folder
+* Desc: Monuments Expansion for Discordant Suns.
+* Link: See in "Monuments+ v.2.15" Section.
 
 ### Large Objectives
 * Desc: Objective Cards in Increased Size.
