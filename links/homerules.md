@@ -8,6 +8,13 @@ description: Homerules
 
 # Отдельные проекты
 
+### Uncharted Space
+* Desc: New content (24 tiles, 5 legendary planets, 16 exploration cards, 7 relics, 40 action cards).
+* Desc: Compatible with Discordant Stars.
+* [Reference](https://docs.google.com/document/d/10sYWiwVNvdOwDMpvHlbsx4athKwgeTc8usWFMV3Aaas/edit#heading=h.ev3yyi1dexpw)
+* [Assets](https://drive.google.com/drive/folders/1RGFGfT76cvT-bJASW3FUMV6kWbjvxqyD)
+* [Yandex.Disk](https://disk.yandex.ru/d/3vx3sXLrhyL8fQ)
+
 ### Monuments
 * [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/bpdkmt/monuments_mini_expansion/)
 * [Карточки на Google.Disk](https://drive.google.com/file/d/1JqbTtcYUUodh6L_IgWJ_B0Rrg4dT3m8N/view)
@@ -65,11 +72,13 @@ aka Tom Dullemond
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion/)
 * [Google.Drive](https://drive.google.com/drive/folders/1kqtY943syNMRsM1ijmHfymCxVVWxYUJq?usp=sharing)
 * [Yandex.Disk](https://disk.yandex.ru/d/I4UpDvCSFjXrNQ)
+* [Monuments Template (PSD)](https://drive.google.com/file/d/1-Hzv4xoK7zreEgKFKpQ_nOwCMsW62jyu/view?usp=share_link)
 
 ### Monuments+ v.1.1 by Tom Dullemond
 * Desc: Variation Monuments from Blarkbob. Old Version, depricated.
 * [BGG](https://boardgamegeek.com/thread/2702550/monuments-mini-expansion)
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion/)
+* [Old Monuments (Google.Drive)](https://drive.google.com/drive/folders/1Zn8RhoW4KM625QOCF8mVjTzguMEbMLbU?usp=drive_link)
 * [Yandex.Disk](https://disk.yandex.ru/d/kSc1qvelayYkIg)
 
 ### Fallen Empires by Tom Dullemond
