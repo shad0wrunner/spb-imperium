@@ -69,9 +69,10 @@ aka Tom Dullemond
 * Desс: Variation of "Monuments" from Blarkbob. New Version.
 * Desc: Include Monuments for Base Game, PoK, DS, Drahn+ and additional content.
 * [BGG](https://boardgamegeek.com/thread/2702550/monuments-mini-expansion)
-* [Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion/)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/owespi/monuments_miniexpansion)
 * [Google.Drive](https://drive.google.com/drive/folders/1kqtY943syNMRsM1ijmHfymCxVVWxYUJq?usp=sharing)
 * [Yandex.Disk](https://disk.yandex.ru/d/I4UpDvCSFjXrNQ)
+* [Monuments STL](https://drive.google.com/file/d/11tiXSu-L-SOw6kqBX9P5S7m_kTEYRO70/view?usp=sharing)
 * [Monuments Template (PSD)](https://drive.google.com/file/d/1-Hzv4xoK7zreEgKFKpQ_nOwCMsW62jyu/view?usp=share_link)
 
 ### Monuments+ v.1.1 by Tom Dullemond
