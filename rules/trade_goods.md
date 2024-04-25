@@ -17,4 +17,4 @@
 КОММЕНТАРИИ
 ---
 
-См.также: [Влияние](influence.md), Договорённости, Планшет приказов, Продукция, [Ресурсы](resources.md), [Сделки](transactions.md).
+См.также: [Влияние](influence.md), [Договорённости](deals.md), [Планшет приказов](command_sheet.md), [Продукция](commodities.md), [Ресурсы](resources.md), [Сделки](transactions.md).
