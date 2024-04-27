@@ -21,4 +21,4 @@
   ё) Исследования;  
   ж) Экспансия.
 
-См.также: [Карты стратегий](strategy_cards.md), [Фаза действий](action_phase.md), [Фаза статуса](status_phase.md)
+См.также: [Карты стратегий](strategy_cards.md), [Фаза действий](action_phase.md), [Фаза статуса](status_phase.md).
