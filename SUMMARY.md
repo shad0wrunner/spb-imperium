@@ -89,6 +89,7 @@
   * [18 Жетоны пехоты](rules/infantry_tokens.md)
   * [19 Жетоны пограничья](rules/frontier_tokens.md)
   * [21 Заградительный огонь (Способность)](rules/anti-fighter_barrage_abil.md)
+  * [22 Захват](rules/capture.md)
   * [23 Защищающийся](rules/defender.md)
   * [24 Игровое поле](rules/game_board.md)
   * [25 Игровой раунд](rules/game_round.md)
@@ -117,7 +118,7 @@
   * [52 Перевёрнутая карта](rules/exhausted.md)
   * [53 Перевозка](rules/transport.md)
   * [54 Передвижение](rules/movement.md)
-  * [55 Планетарный щит (Способность)](planetary_shield_abil.md)в
+  * [55 Планетарный щит (Способность)](planetary_shield_abil.md)
   * [56 Планеты](rules/planets.md)
   * [57 Планшет лидеров](rules/leader_sheet.md)
   * [58 Планшет приказов](rules/command_sheet.md)
