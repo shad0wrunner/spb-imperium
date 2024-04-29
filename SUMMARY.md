@@ -169,10 +169,6 @@
   * [100 Экспания (Карта стратегии)](rules/imperial_sc.md)
   * [101 Ядро червоточин](rules/wormhole_nexus.md)
 
-* [Strategy Cards / Карты стратегий](wiki/strategycards.md)
-* [Exploration / Разведка](rules/exploration.md)
-
-
 ## Вспомогательные вещи
 
 * [Гайды и сканы по Twilight Imperium 4 \(Я.Диск\)](https://disk.yandex.ru/d/B136lxqFhqi9nA)
