@@ -34,8 +34,6 @@
 * [Mechanics / Механики](wiki/mechanics.md)
 * [Keywords / Ключевые слова](wiki/keywords.md)
 * [Timings / Тайминги](wiki/timings.md)
-* [Attributes / Характеристики](wiki/attributes.md)
-* [Unit Abilities / Способности](wiki/unitabilities.md)
 
 ## Links
 
