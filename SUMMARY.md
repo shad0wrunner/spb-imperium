@@ -65,8 +65,8 @@
 * [Leaders](galaxy/leaders.md)
 * [Techs](galaxy/techs.md)
 
-## Перевод LRR 2.0
-* Оглавление
+## Перевод правил
+* [Оглавление](rules/index.md)
   * [1 Активная система](rules/active_system.md)
   * [2 Активный игрок](rules/active_player.md)
   * [3 Аномалии](rules/anomalies.md)
@@ -168,6 +168,7 @@
   * [99 Червоточины](rules/wormholes.md)
   * [100 Экспания (Карта стратегии)](rules/imperial_sc.md)
   * [101 Ядро червоточин](rules/wormhole_nexus.md)
+* [FAQ 3.1.1](rules/faq.md)
 
 ## Вспомогательные вещи
 
