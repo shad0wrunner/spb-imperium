@@ -200,3 +200,7 @@ aka ColonelWilly
 ### Dawning Empires by Hangman
 * Desc: New factions, mercenaries add-on and new tiles.
 * [Google.Drive](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
+
+### TI: Pathfinder by Lockreed
+* Desc: Ex "Twilight Imperium 4.5".
+* [Yandex.Disc](https://disk.yandex.ru/d/KYC6gJQyllqkjA)
