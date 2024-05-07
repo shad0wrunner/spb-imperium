@@ -203,4 +203,5 @@ aka ColonelWilly
 
 ### TI: Pathfinder by Lockreed
 * Desc: Ex "Twilight Imperium 4.5".
+* [Google.Disc](https://drive.google.com/drive/folders/1Uik9BGeazMm5Ig3qtu6PQMGzYcHVBX9N)
 * [Yandex.Disc](https://disk.yandex.ru/d/KYC6gJQyllqkjA)
