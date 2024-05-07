@@ -20,8 +20,6 @@ description: Homerules
 * [Карточки на Google.Disk](https://drive.google.com/file/d/1JqbTtcYUUodh6L_IgWJ_B0Rrg4dT3m8N/view)
 * [STL на Google.Disk](https://drive.google.com/file/d/11tiXSu-L-SOw6kqBX9P5S7m_kTEYRO70/view)
 
-### Franken Draft (Base Game)
-* [Google.Disk](https://drive.google.com/drive/folders/1TTtT24d8-gAqAnlpNf2KVRtNpJJReWeT)
 
 ### Milty Draft
 * [Milty Draft Tool Online](https://miltydraft.com/) - Old Version.
@@ -50,6 +48,13 @@ description: Homerules
 ### Integrated Facilites by u/Commandervndr
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/olihqf/ti4_integrated_facilities_ti4_aether/)
 * [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
+
+# Franken
+* Desc: Fan-made mode for bag draft.
+* [TI Franker Resources](https://docs.google.com/document/d/15DHbjPnKAFluYILecG6qiqiAvrp8DEhc6Vb5lVfIqVM/edit)
+
+### Franken Draft (Base Game)
+* [Google.Disk](https://drive.google.com/drive/folders/1TTtT24d8-gAqAnlpNf2KVRtNpJJReWeT)
 
 # Stuff by Absols
 aka Absol197
