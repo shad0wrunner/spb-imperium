@@ -33,10 +33,9 @@ description: Useful Links
 * [Extracomputer](http://extraboard.net/extracomputer) - Full game assistant. Обновлён до 3-го Кодекса включительно.
 * [TI Assistant](https://ti-assistant.com) - До 3-го Кодекса включительно.
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/134012z/introducing_the_twilight_imperium_assistant) - Инструкция к ссылке выше.
+* [TI4 Scoreboard and Tracker](https://drive.google.com/file/d/1pVOLPtlq-5R1CHV3wNzYMkBRJf3VaBZO/view?usp=sharing) - Прекрасный трекер в виде PDF. Для использования открывайте в чём-то вроде Foxit/Movavi PDF Editor.
 
 ## Others
-
-* [TI4 Scoreboard and Tracker](https://drive.google.com/file/d/1pVOLPtlq-5R1CHV3wNzYMkBRJf3VaBZO/view?usp=sharing) - Прекрасный трекер в виде PDF. Для использования открывайте в чём-то вроде Foxit/Movavi PDF Editor.
 * [Twilight Imperium 4 Systems Dealer](http://dah.me.uk/ti4/)
 * [Создание кастомных игровых карт](http://ti4-card-images.appspot.com/static/card.html) - Раздолье для хоумрульщиков.
 * [Interactive Faction Summary](https://sreletron.github.io/ti4/) - Сведение фракций на лету.
