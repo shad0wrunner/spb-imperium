@@ -34,6 +34,7 @@ description: Useful Links
 * [TI Assistant](https://ti-assistant.com) - До 3-го Кодекса включительно.
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/134012z/introducing_the_twilight_imperium_assistant) - Инструкция к ссылке выше.
 * [TI4 Scoreboard and Tracker](https://drive.google.com/file/d/1pVOLPtlq-5R1CHV3wNzYMkBRJf3VaBZO/view?usp=sharing) - Прекрасный трекер в виде PDF. Для использования открывайте в чём-то вроде Foxit/Movavi PDF Editor.
+* [https://disk.yandex.ru/d/aXu78SmXrchkVQ] - Коллекция разных ассистентов, в том числе указанного выше на Яндекс.Диске.
 
 ## Others
 * [Twilight Imperium 4 Systems Dealer](http://dah.me.uk/ti4/)
