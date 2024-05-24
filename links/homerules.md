@@ -85,7 +85,7 @@ description: Homerules
 
 # Author's Stuff / Авторский контент
 
-## Stuff by Absols aka Absol197
+## By Absols aka Absol197
 * Desc: Various stuff by Absol, include Action Cards, Techs and other.
 * Описание: различный контент за авторством Абсола. Включает в себя довольно часто используемые в TTS/TTPG карты действия, а так же карты технологий и политики, и немного другого. 
 
@@ -93,24 +93,24 @@ description: Homerules
 * [Yandex.Disk](https://disk.yandex.ru/d/tvtaoJktz4xjVA)
 * [Google.Drive](https://drive.google.com/drive/folders/1e8BEKy8qHOtbUL69GUHwbASZzURTDPdF?usp=share_link)
 
-## Stuff by Andrew Schull
+## By Andrew Schull
 * Desc: Various stuff by Andrew Schull, include Client Factions.
 * Описание: Различный контент, включающий в себя режим Клиентских фракций, набор компонентов для белого игрока (так себе качества).
 
-## Stuff by Berkel
+## By Berkel
 * Desc: Various stuff by Berkel, inspired by TI3: Shattered Ascension. Include Border Anomalies and Tiles.
 * Описание: Различный контент от Беркеля, в основном вдохновлённый модом к TI3 под названием Shattered Ascension. Из заметного: пограничные аномалии и тайлы.
 
 ### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/9EIBTpoV0X_V0Q)
 
-## Stuff by BradleySigma
+## By BradleySigma
 * Desc: Various stuff from BradleySigma. Include Flagshipping and Machinations.
 
 ### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/HH0xyLanK-z6gQ)
 
-## Stuff by Cacotopos aka Tom Dullemond
+## By Cacotopos aka Tom Dullemond
 * Desc: Various great stuff by Cacotopos.
 * Описание: различный контент за авторством одного из лучших авторов в англоязычном сообществе. Включает в себя как некоторые хоумрульные штуки, так и улучшения для стандартной игры, типа увеличенных целей или жетонов-напоминалок.
 
@@ -170,20 +170,20 @@ description: Homerules
 * Desc: Objective Cards in Increased Size.
 * [Google.Drive](https://drive.google.com/drive/folders/1ImaK0lP9ULQksPydbE1jeUkvCUSOxjRM?usp=share_link)
 
-## Stuff by Cryypter
+## By Cryypter
 * Desc: Various stuff from Cryypter. Include Envoys.
 
 ### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/kh4toGpBjc9BuA)
 
-## Stuff by Eronous
+## By Eronous
 * Desc: Various stuff from Eronous. Include many Tiles.
 * Описание: различный контент от Эроноуса. Особенно интересен большим набором фрагментов поля.
 
 ### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/8gfcFatWe7glJQ)
 
-## Stuff by Fulvio aka Unfulvio
+## By Fulvio aka Unfulvio
 * Desc: Verious staff from Fulvio
 * Описание: различный контент от Фулвио, aka Сумрачный итало-тайваньский гений. 
 
@@ -210,16 +210,16 @@ description: Homerules
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/pp9dq0/announcing_outposts_a_miniexpansion_for_twilight/)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1JbNq3iDLjh2BqUHy5cErXuMkUkD2Oy8A?ths=true)
 
-## Stuff by Oktober13 aka John L, aka Hangman (?)
+## By Oktober13 aka John L, aka Hangman (?)
 
-### Общий линк
+### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
 * [Google.Drive](https://drive.google.com/drive/folders/1otsf8Q97nlmoCTSeNh6CsasDu-Pl-lpR?usp=share_link)
 * [Source](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
 
-## Stuff by will aka ColonelWilly
+## By will aka ColonelWilly
 
-### Общий линк
+### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
 * [Google.Drive](https://drive.google.com/drive/folders/1Q-zl2hQvKrmacjwXYrbD5vlThe3nKKMH?usp=share_link)
 
@@ -231,6 +231,17 @@ description: Homerules
 * [Reference](https://docs.google.com/document/d/10sYWiwVNvdOwDMpvHlbsx4athKwgeTc8usWFMV3Aaas/edit#heading=h.ev3yyi1dexpw)
 * [Assets](https://drive.google.com/drive/folders/1RGFGfT76cvT-bJASW3FUMV6kWbjvxqyD)
 * [Yandex.Disk](https://disk.yandex.ru/d/3vx3sXLrhyL8fQ)
+
+### TI: Pathfinder by Lockreed
+* Desc: Ex "Twilight Imperium 4.5".
+* [Google.Disc](https://drive.google.com/drive/folders/1Uik9BGeazMm5Ig3qtu6PQMGzYcHVBX9N)
+* [Yandex.Disk](https://disk.yandex.ru/d/KYC6gJQyllqkjA)
+
+### Galactic Cataclysm by CIVYVORTAC
+* Desc: Great Mod for TI4.
+* Описание: Одна из самых больших модификаций для TI4, затрагивающая большинство аспектов игры.
+* [Google.Disc]
+* [Yandex.Disk](https://disk.yandex.ru/d/QSovZ_rTP_PohA)
 
 ### Monuments
 * [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/bpdkmt/monuments_mini_expansion/)
@@ -265,8 +276,6 @@ description: Homerules
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/olihqf/ti4_integrated_facilities_ti4_aether/)
 * [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
 
-# Other Projects
-
 ### Pax Legitima by GeneralPith
 * Desc: Expands and overhauls agenda phase.
 * [Google.Drive](https://drive.google.com/drive/folders/1-SdtcsRWh6wM9sYPeDMsONng7Of1OJXw?usp=share_link)
@@ -274,8 +283,3 @@ description: Homerules
 ### Dawning Empires by Hangman
 * Desc: New factions, mercenaries add-on and new tiles.
 * [Google.Drive](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
-
-### TI: Pathfinder by Lockreed
-* Desc: Ex "Twilight Imperium 4.5".
-* [Google.Disc](https://drive.google.com/drive/folders/1Uik9BGeazMm5Ig3qtu6PQMGzYcHVBX9N)
-* [Yandex.Disc](https://disk.yandex.ru/d/KYC6gJQyllqkjA)
