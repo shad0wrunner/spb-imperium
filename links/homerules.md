@@ -2,7 +2,7 @@
 description: Homerules
 ---
 
-# Общий архив
+# General Folder / Общий архив
 * [Яндекс.Диск](https://disk.yandex.ru/d/_V0fdXKesP4xIA)
 * [Google.Drive](https://drive.google.com/drive/folders/181H4iiMn-yWq5IZ1zBdYHA5BqpCPqsd1?usp=share_link)
 
@@ -30,11 +30,13 @@ description: Homerules
 ## Solo Variants / Режимы игры одному
 * [Yandex.Disk](https://disk.yandex.ru/d/O3H4rl6repETmQ)
 
-# Homebrew Factions
+# Homebrew Factions / Хоумрульные фракции
+
+## General Folder / Общий архив
 * [Google.Drive](https://drive.google.com/drive/folders/1KpeE7SYeTGMF-HtfqbwkRmNXlv_RLLO9?usp=sharing)
 * [Yandex.Disk](https://disk.yandex.ru/d/7WPIb-kBCXmiQw)
 
-## Discordant Stars
+## Discordant Stars 
 * Desc: 34 Community Homebrew Factions Pack
 * [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
@@ -45,96 +47,61 @@ description: Homerules
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
 * [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
 
-# Alternative Components
+# Alternative Components / Альтернативные компоненты
 
-### Alt. Action Cards
+### Alt. Action Cards / Альтернативные карты действий
 * [Yandex.Disk](https://disk.yandex.ru/d/s5r9_AMEiOQVpw)
 
-### Alt. Agenda Cards
+### Alt. Agenda Cards / Альтернативные карты политики
 * [Yandex.Disk](https://disk.yandex.ru/d/udTQI-ESt2fmpw)
 
-### Alt. Exploration Cards
+### Alt. Exploration Cards / Альтернативные карты разведки
 * [Yandex.Disk](https://disk.yandex.ru/d/uc43Oj7Ejoa7ig)
 
-### Alt. Objective Cards
+### Alt. Objective Cards / Альтернативные карты целей
 * [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w)
 
-### Alt. Promissory Notes
+### Alt. Promissory Notes / Альтернативные карты обещаний
 * [Yandex.Disk](https://disk.yandex.ru/d/UWZCDE09yt-Jhw)
 
-### Alt. Relic Cards
+### Alt. Relic Cards / Альтернативные карты реликвий
 * [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w)
 
-### Alt. Strategy Cards
+### Alt. Strategy Cards / Альтернативные карты стратегий
 * [Yandex.Disk](https://disk.yandex.ru/d/n0952Ef0Zp3qpw)
 
-### Alt. Strategy Cards
-* [Yandex.Disk](https://disk.yandex.ru/d/n0952Ef0Zp3qpw)
-
-### Alt. Technology Cards
+### Alt. Technology Cards / Альтернативные карты технологий
 * [Yandex.Disk](https://disk.yandex.ru/d/0vma6ujon_Umjw)
 
-# Отдельные проекты
-
-### Uncharted Space
-* Desc: New content (24 tiles, 5 legendary planets, 16 exploration cards, 7 relics, 40 action cards).
-* Desc: Compatible with Discordant Stars.
-* [Reference](https://docs.google.com/document/d/10sYWiwVNvdOwDMpvHlbsx4athKwgeTc8usWFMV3Aaas/edit#heading=h.ev3yyi1dexpw)
-* [Assets](https://drive.google.com/drive/folders/1RGFGfT76cvT-bJASW3FUMV6kWbjvxqyD)
-* [Yandex.Disk](https://disk.yandex.ru/d/3vx3sXLrhyL8fQ)
-
-### Monuments
-* [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/bpdkmt/monuments_mini_expansion/)
-* [Карточки на Google.Disk](https://drive.google.com/file/d/1JqbTtcYUUodh6L_IgWJ_B0Rrg4dT3m8N/view)
-* [STL на Google.Disk](https://drive.google.com/file/d/11tiXSu-L-SOw6kqBX9P5S7m_kTEYRO70/view)
-
-
-### Milty Draft
-* [Milty Draft Tool Online](https://miltydraft.com/) - Old Version.
-* [Milty Draft Tool Online](https://milty.shenanigans.be/) - New Version.
-
-### The TI AI
-* [BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
-
-### Alternate Flagships: A Mini-Expansion (Base + PoK)
-* [BGG](https://www.boardgamegeek.com/thread/2514810/alternate-flagships-mini-expansion)
-* [Google.Disk](https://drive.google.com/file/d/1gF9ytNLo9-I1b-AcPMO3jNnUQauRkcpG/view)
-
-### Rebalance Faction Promissory Notes by Travis Caldeira (Base Game)
-* [Reddit](https://www.reddit.com/r/twilightimperium/comments/erm0a3/homebrew_rebalance_faction_promissory_notes/)
-* [Google.Disk](https://drive.google.com/file/d/1ZEStEqyrmMGJJubFjMz6M6MOnYAbn2Xz/view)
-
-### Mercenaries V2
-* Desc: New type of leaders. Originally by @IrishCyborg
-* [Google.Drive](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
-
-### Flagship II & Mech II Concepts by [u/Marinealver](https://www.reddit.com/user/Marinealver)
-* [Reddit](https://www.reddit.com/r/twilightimperium/comments/nq3qix/flagship_ii_concepts/) - Flagship II Concept v.1.
-* [Reddit](https://www.reddit.com/r/twilightimperium/comments/nuwdsv/flagship_ii_take_2/) - Flagship II Concept v.2.
-* [Reddit](https://www.reddit.com/r/twilightimperium/comments/nvk2zj/mech_ii_concepts/) - Mech II Concept.
-
-### Integrated Facilites by u/Commandervndr
-* [Reddit](https://www.reddit.com/r/twilightimperium/comments/olihqf/ti4_integrated_facilities_ti4_aether/)
-* [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
-
-# Franken
+## Franken
 * Desc: Fan-made mode for bag draft.
 * [TI Franker Resources](https://docs.google.com/document/d/15DHbjPnKAFluYILecG6qiqiAvrp8DEhc6Vb5lVfIqVM/edit)
 
 ### Franken Draft (Base Game)
 * [Google.Disk](https://drive.google.com/drive/folders/1TTtT24d8-gAqAnlpNf2KVRtNpJJReWeT)
 
-# Stuff by Absols
-aka Absol197
+# Author's Stuff / Авторский контент
 
-### Общий линк
+## Stuff by Absols aka Absol197
+* Desc: Various stuff by Absol, include Action Cards, Techs and other.
+* Описание: различный контент за авторством Абсола. Включает в себя довольно часто используемые в TTS/TTPG карты действия, а так же карты технологий и политики, и немного другого. 
+
+### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/tvtaoJktz4xjVA)
 * [Google.Drive](https://drive.google.com/drive/folders/1e8BEKy8qHOtbUL69GUHwbASZzURTDPdF?usp=share_link)
 
-# Stuff by Cacotopos
-aka Tom Dullemond
+## Stuff by Berkel
+* Desc: Various stuff by Berkel, inspired by TI3: Shattered Ascension.
+* Описание: Различный контент от Берклея, в основном вдохновлённый модом к TI3 под названием Shattered Ascension.
 
-### General Folder / Общий линк
+### General Folder / Общий архив
+* [Yandex.Disk](https://disk.yandex.ru/d/9EIBTpoV0X_V0Q)
+
+## Stuff by Cacotopos aka Tom Dullemond
+* Desc: Various great stuff by Cacotopos.
+* Описание: различный контент за авторством одного из лучших авторов в англоязычном сообществе. Включает в себя как некоторые хоумрульные штуки, так и улучшения для стандартной игры, типа увеличенных целей или жетонов-напоминалок.
+
+### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/2QBiWLkWYJrI9A)
 * [Google.Drive](https://drive.google.com/drive/folders/1Y3Sj1jJtVGGXwICaiXF-hEj1UHA2eqfj?usp=share_link)
 
@@ -190,10 +157,11 @@ aka Tom Dullemond
 * Desc: Objective Cards in Increased Size.
 * [Google.Drive](https://drive.google.com/drive/folders/1ImaK0lP9ULQksPydbE1jeUkvCUSOxjRM?usp=share_link)
 
-# Stuff by Fulvio
-aka Unfulvio, aka Сумрачный итало-тайваньский гений
+## Stuff by Fulvio aka Unfulvio
+* Desc: Verious staff from Fulvio
+* Описание: различный контент от Фулвио, aka Сумрачный итало-тайваньский гений. 
 
-### Общий линк
+### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/hnsbkyrAJthj9Q)
 * [Google.Drive](https://drive.google.com/drive/folders/1JTy-1J_hgAEE1qkABeCAOzqAtZjT7-Op?usp=share_link)
 
@@ -216,7 +184,7 @@ aka Unfulvio, aka Сумрачный итало-тайваньский гени�
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/pp9dq0/announcing_outposts_a_miniexpansion_for_twilight/)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1JbNq3iDLjh2BqUHy5cErXuMkUkD2Oy8A?ths=true)
 
-# Stuff by Oktober13
+## Stuff by Oktober13
 aka John L, aka Hangman (?)
 
 ### Общий линк
@@ -224,12 +192,54 @@ aka John L, aka Hangman (?)
 * [Google.Drive](https://drive.google.com/drive/folders/1otsf8Q97nlmoCTSeNh6CsasDu-Pl-lpR?usp=share_link)
 * [Source](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
 
-# Stuff by will
+## Stuff by will
 aka ColonelWilly
 
 ### Общий линк
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
 * [Google.Drive](https://drive.google.com/drive/folders/1Q-zl2hQvKrmacjwXYrbD5vlThe3nKKMH?usp=share_link)
+
+# Отдельные проекты
+
+### Uncharted Space
+* Desc: New content (24 tiles, 5 legendary planets, 16 exploration cards, 7 relics, 40 action cards).
+* Desc: Compatible with Discordant Stars.
+* [Reference](https://docs.google.com/document/d/10sYWiwVNvdOwDMpvHlbsx4athKwgeTc8usWFMV3Aaas/edit#heading=h.ev3yyi1dexpw)
+* [Assets](https://drive.google.com/drive/folders/1RGFGfT76cvT-bJASW3FUMV6kWbjvxqyD)
+* [Yandex.Disk](https://disk.yandex.ru/d/3vx3sXLrhyL8fQ)
+
+### Monuments
+* [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/bpdkmt/monuments_mini_expansion/)
+* [Карточки на Google.Disk](https://drive.google.com/file/d/1JqbTtcYUUodh6L_IgWJ_B0Rrg4dT3m8N/view)
+* [STL на Google.Disk](https://drive.google.com/file/d/11tiXSu-L-SOw6kqBX9P5S7m_kTEYRO70/view)
+
+### Milty Draft
+* [Milty Draft Tool Online](https://miltydraft.com/) - Old Version.
+* [Milty Draft Tool Online](https://milty.shenanigans.be/) - New Version.
+
+### The TI AI
+* [BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
+
+### Alternate Flagships: A Mini-Expansion (Base + PoK)
+* [BGG](https://www.boardgamegeek.com/thread/2514810/alternate-flagships-mini-expansion)
+* [Google.Disk](https://drive.google.com/file/d/1gF9ytNLo9-I1b-AcPMO3jNnUQauRkcpG/view)
+
+### Rebalance Faction Promissory Notes by Travis Caldeira (Base Game)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/erm0a3/homebrew_rebalance_faction_promissory_notes/)
+* [Google.Disk](https://drive.google.com/file/d/1ZEStEqyrmMGJJubFjMz6M6MOnYAbn2Xz/view)
+
+### Mercenaries V2
+* Desc: New type of leaders. Originally by @IrishCyborg
+* [Google.Drive](https://drive.google.com/drive/folders/1yLXfFz3i8ktyeY-ZGy2jqDHBuAAdZEOp?usp=sharing)
+
+### Flagship II & Mech II Concepts by [u/Marinealver](https://www.reddit.com/user/Marinealver)
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/nq3qix/flagship_ii_concepts/) - Flagship II Concept v.1.
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/nuwdsv/flagship_ii_take_2/) - Flagship II Concept v.2.
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/nvk2zj/mech_ii_concepts/) - Mech II Concept.
+
+### Integrated Facilites by u/Commandervndr
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/olihqf/ti4_integrated_facilities_ti4_aether/)
+* [Google.Drive](https://drive.google.com/drive/folders/1DLcSeNil7YGKdjk2j9r32sxY-JGWBSwA)
 
 # Other Projects
 
