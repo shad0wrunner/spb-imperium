@@ -6,6 +6,25 @@ description: Homerules
 * [Яндекс.Диск](https://disk.yandex.ru/d/_V0fdXKesP4xIA)
 * [Google.Drive](https://drive.google.com/drive/folders/181H4iiMn-yWq5IZ1zBdYHA5BqpCPqsd1?usp=share_link)
 
+# Режимы игры
+
+## 2 Player Variants
+* [Yandex.Disc](https://disk.yandex.ru/d/IVbU0A7XkW9aEg) - Общий архив.
+
+### Hive Wars - 2-Players Co-Op Variant
+* [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
+* [Yandex.Disk](https://disk.yandex.ru/d/BqAuHazKkfFeeA)
+
+### Trade Wars
+* [BGG](https://www.boardgamegeek.com/thread/2114639/trade-wars-2-player-variant)
+* [Yandex.Disk](https://disk.yandex.ru/d/LPzFcGKOHPaNxQ)
+
+### Other 2-Player Variants
+* ["Another 2-Player Variant" on BGG](https://boardgamegeek.com/thread/119002/another-2-player-variant) - Only Base Game.
+* [TI4 2 Player Princess Variant на BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
+* [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
+
+
 # Отдельные проекты
 
 ### Uncharted Space
@@ -180,19 +199,7 @@ aka ColonelWilly
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
 * [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
 
-# Режимы игры
 
-## 2 Player Variants
-* [Yandex.Disc](https://disk.yandex.ru/d/IVbU0A7XkW9aEg) - Общий архив
-
-### Hive Wars - 2-Playser Co-Op Variant
-* [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
-* [Yandex.Disk](https://disk.yandex.ru/d/BqAuHazKkfFeeA)
-
-### Other 2-Player Variants
-* [“Trade Wars” 2-Player Variant на BGG](https://www.boardgamegeek.com/thread/2114639/trade-wars-2-player-variant)
-* [TI4 2 Player Princess Variant на BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
-* [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
 
 # Other Projects
 
