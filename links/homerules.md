@@ -6,10 +6,10 @@ description: Homerules
 * [Яндекс.Диск](https://disk.yandex.ru/d/_V0fdXKesP4xIA)
 * [Google.Drive](https://drive.google.com/drive/folders/181H4iiMn-yWq5IZ1zBdYHA5BqpCPqsd1?usp=share_link)
 
-# Режимы игры
+# Game Modes / Режимы игры
 
-## 2 Player Variants
-* [Yandex.Disc](https://disk.yandex.ru/d/IVbU0A7XkW9aEg) - Общий архив.
+## 2 Player Variants / Варианты игры на 2 игрока
+* [Yandex.Disk](https://disk.yandex.ru/d/IVbU0A7XkW9aEg) - Общий архив.
 
 ### Hive Wars - 2-Players Co-Op Variant
 * [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
@@ -21,9 +21,58 @@ description: Homerules
 
 ### Other 2-Player Variants
 * ["Another 2-Player Variant" on BGG](https://boardgamegeek.com/thread/119002/another-2-player-variant) - Only Base Game.
-* [TI4 2 Player Princess Variant на BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
+* [TI4 2 Player Princess Variant on BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
 * [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
 
+## Alliance Variants / Режимы игры в альянсах
+* [Yandex.Disk](https://disk.yandex.ru/d/H7eY0sLvIoIALA) - Общий архив.
+
+## Solo Variants / Режимы игры одному
+* [Yandex.Disk](https://disk.yandex.ru/d/O3H4rl6repETmQ)
+
+# Homebrew Factions
+* [Google.Drive](https://drive.google.com/drive/folders/1KpeE7SYeTGMF-HtfqbwkRmNXlv_RLLO9?usp=sharing)
+* [Yandex.Disk](https://disk.yandex.ru/d/7WPIb-kBCXmiQw)
+
+## Discordant Stars
+* Desc: 34 Community Homebrew Factions Pack
+* [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
+* [Google.Drive](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
+* [PnP Version](https://drive.google.com/drive/folders/1OV4zr3wcbXQROkv6cOvnO6H_8AvpIL8H?usp=drive_link)
+
+### Warhammer 40k Faction Pack
+* Desc: 8 Factions from the 40K universe
+* [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
+* [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
+
+# Alternative Components
+
+### Alt. Action Cards
+* [Yandex.Disk](https://disk.yandex.ru/d/s5r9_AMEiOQVpw)
+
+### Alt. Agenda Cards
+* [Yandex.Disk](https://disk.yandex.ru/d/udTQI-ESt2fmpw)
+
+### Alt. Exploration Cards
+* [Yandex.Disk](https://disk.yandex.ru/d/uc43Oj7Ejoa7ig)
+
+### Alt. Objective Cards
+* [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w)
+
+### Alt. Promissory Notes
+* [Yandex.Disk](https://disk.yandex.ru/d/UWZCDE09yt-Jhw)
+
+### Alt. Relic Cards
+* [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w)
+
+### Alt. Strategy Cards
+* [Yandex.Disk](https://disk.yandex.ru/d/n0952Ef0Zp3qpw)
+
+### Alt. Strategy Cards
+* [Yandex.Disk](https://disk.yandex.ru/d/n0952Ef0Zp3qpw)
+
+### Alt. Technology Cards
+* [Yandex.Disk](https://disk.yandex.ru/d/0vma6ujon_Umjw)
 
 # Отдельные проекты
 
@@ -181,25 +230,6 @@ aka ColonelWilly
 ### Общий линк
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
 * [Google.Drive](https://drive.google.com/drive/folders/1Q-zl2hQvKrmacjwXYrbD5vlThe3nKKMH?usp=share_link)
-
-# Homebrew Factions
-
-### Основной архив
-* [Google.Drive](https://drive.google.com/drive/folders/1KpeE7SYeTGMF-HtfqbwkRmNXlv_RLLO9?usp=sharing)
-* [Yandex.Disk](https://disk.yandex.ru/d/7WPIb-kBCXmiQw)
-
-### Discordant Stars
-* Desc: 34 Community Homebrew Factions Pack
-* [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
-* [Google.Drive](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
-* [PnP Version](https://drive.google.com/drive/folders/1OV4zr3wcbXQROkv6cOvnO6H_8AvpIL8H?usp=drive_link)
-
-### Warhammer 40k Faction Pack
-* Desc: 8 Factions from the 40K universe
-* [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
-* [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
-
-
 
 # Other Projects
 
