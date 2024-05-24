@@ -180,7 +180,10 @@ aka ColonelWilly
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
 * [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
 
-# 2 Player Variants
+# Режимы игры
+
+## 2 Player Variants
+* [Yandex.Disc](https://disk.yandex.ru/d/IVbU0A7XkW9aEg) - Общий архив
 
 ### Hive Wars - 2-Playser Co-Op Variant
 * [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
