@@ -53,7 +53,9 @@ description: Homerules
 * [Yandex.Disk](https://disk.yandex.ru/d/s5r9_AMEiOQVpw)
 
 ### Alt. Agenda Cards / Альтернативные карты политики
-* [Yandex.Disk](https://disk.yandex.ru/d/udTQI-ESt2fmpw)
+* [Yandex.Disk](https://disk.yandex.ru/d/udTQI-ESt2fmpw) - General Folder / Обший архив.
+* [By @Absol](https://disk.yandex.ru/d/JnsGDmdq7ff80Q) - From Absol.
+* [By @Andrew Schull](https://disk.yandex.ru/d/aWR3FDU08m2u_g) - From Andrew Schull.
 
 ### Alt. Exploration Cards / Альтернативные карты разведки
 * [Yandex.Disk](https://disk.yandex.ru/d/uc43Oj7Ejoa7ig)
@@ -66,6 +68,7 @@ description: Homerules
 
 ### Alt. Relic Cards / Альтернативные карты реликвий
 * [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w)
+* [From Absol](https://disk.yandex.ru/d/8s8l3H6Re6Df6g) - From Absol.
 
 ### Alt. Strategy Cards / Альтернативные карты стратегий
 * [Yandex.Disk](https://disk.yandex.ru/d/n0952Ef0Zp3qpw)
@@ -90,12 +93,22 @@ description: Homerules
 * [Yandex.Disk](https://disk.yandex.ru/d/tvtaoJktz4xjVA)
 * [Google.Drive](https://drive.google.com/drive/folders/1e8BEKy8qHOtbUL69GUHwbASZzURTDPdF?usp=share_link)
 
+## Stuff by Andrew Schull
+* Desc: Various stuff by Andrew Schull, include Client Factions.
+* Описание: Различный контент, включающий в себя режим Клиентских фракций, набор компонентов для белого игрока (так себе качества).
+
 ## Stuff by Berkel
-* Desc: Various stuff by Berkel, inspired by TI3: Shattered Ascension.
-* Описание: Различный контент от Берклея, в основном вдохновлённый модом к TI3 под названием Shattered Ascension.
+* Desc: Various stuff by Berkel, inspired by TI3: Shattered Ascension. Include Border Anomalies and Tiles.
+* Описание: Различный контент от Беркеля, в основном вдохновлённый модом к TI3 под названием Shattered Ascension. Из заметного: пограничные аномалии и тайлы.
 
 ### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/9EIBTpoV0X_V0Q)
+
+## Stuff by BradleySigma
+* Desc: Various stuff from BradleySigma. Include Flagshipping and Machinations.
+
+### General Folder / Общий архив
+* [Yandex.Disk](https://disk.yandex.ru/d/HH0xyLanK-z6gQ)
 
 ## Stuff by Cacotopos aka Tom Dullemond
 * Desc: Various great stuff by Cacotopos.
@@ -157,6 +170,19 @@ description: Homerules
 * Desc: Objective Cards in Increased Size.
 * [Google.Drive](https://drive.google.com/drive/folders/1ImaK0lP9ULQksPydbE1jeUkvCUSOxjRM?usp=share_link)
 
+## Stuff by Cryypter
+* Desc: Various stuff from Cryypter. Include Envoys.
+
+### General Folder / Общий архив
+* [Yandex.Disk](https://disk.yandex.ru/d/kh4toGpBjc9BuA)
+
+## Stuff by Eronous
+* Desc: Various stuff from Eronous. Include many Tiles.
+* Описание: различный контент от Эроноуса. Особенно интересен большим набором фрагментов поля.
+
+### General Folder / Общий архив
+* [Yandex.Disk](https://disk.yandex.ru/d/8gfcFatWe7glJQ)
+
 ## Stuff by Fulvio aka Unfulvio
 * Desc: Verious staff from Fulvio
 * Описание: различный контент от Фулвио, aka Сумрачный итало-тайваньский гений. 
@@ -184,16 +210,14 @@ description: Homerules
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/pp9dq0/announcing_outposts_a_miniexpansion_for_twilight/)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1JbNq3iDLjh2BqUHy5cErXuMkUkD2Oy8A?ths=true)
 
-## Stuff by Oktober13
-aka John L, aka Hangman (?)
+## Stuff by Oktober13 aka John L, aka Hangman (?)
 
 ### Общий линк
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
 * [Google.Drive](https://drive.google.com/drive/folders/1otsf8Q97nlmoCTSeNh6CsasDu-Pl-lpR?usp=share_link)
 * [Source](https://drive.google.com/drive/folders/15rPgwWteYaOyaxaZWq3O4K6iygyu6Vkw?usp=share_link)
 
-## Stuff by will
-aka ColonelWilly
+## Stuff by will aka ColonelWilly
 
 ### Общий линк
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
