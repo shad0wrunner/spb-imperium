@@ -9,8 +9,9 @@ description: TI Community (SPb edition)
 Сборище всякого разного по тематике.
 Пока что в основном - ссылки.
 
-Перевод LRR версии 2.0 на русский: [LRR](https://github.com/shad0wrunner/spb-imperium/blob/master/rules/index.md).  
-Перевод FAQ всех версий на русский (WIP): [FAQ](https://github.com/shad0wrunner/spb-imperium/blob/master/rules/dane_faq.md)
+Перевод правил:
+* [LRR 2.0](https://github.com/shad0wrunner/spb-imperium/blob/master/rules/index.md)
+* [FAQ 1.0-3.1.1](https://github.com/shad0wrunner/spb-imperium/blob/master/rules/dane_faq.md)
 
 Раздел "Links" содержит многочисленную подборку ссылок на полезные ресурсы: правила, подсказки, генераторы карт, сообщества.  
 Если вы знаете, что что-то существует, но не знаете где - вам сюда.
