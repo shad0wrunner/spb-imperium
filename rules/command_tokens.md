@@ -18,4 +18,4 @@
 КОММЕНТАРИИ
 ---
 
-См.также: [Лидерство (Карта стратегии)](leadership_sc.md), [Планшет приказов](command_sheet.md), Резерв флота, [Снабжение](reinforcements.md), [Стратегическое действие](strategic_actiond.md), [Тактическое действие](tactical_action.md).
+См.также: [Лидерство (Карта стратегии)](leadership_sc.md), [Планшет приказов](command_sheet.md), [Резерв флота](fleet_pool.md), [Снабжение](reinforcements.md), [Стратегическое действие](strategic_actiond.md), [Тактическое действие](tactical_action.md).
