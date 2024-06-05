@@ -1,7 +1,3 @@
----
-description: TI Community (SPb edition)
----
-
 # Twilight Imperium Main
 
 Проект находится в стадии WIP. Что-то готово лучше, что-то хуже.
