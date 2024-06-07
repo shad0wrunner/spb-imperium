@@ -34,7 +34,7 @@
 Добавилось два новых типа тайлов: Nebula и Gravity Rift. Через туманность нельзя было пролетать и истребители при сражении в ней не кидали кубики. На вылет из гравитационного колодца игрок кидал кубик и при выпадении 1-6 корабль мог вылететь только в конкретный тайл (или остаться в колодце), а при 7-10 - в любой по выбору игрока.  
 Также в игру добавились два опциональных правила: Shock Troopers и лидеры.  
 Правила Shock Troopers практически не менялись в дальнейшем - получались они из обычных пехотинцев при удачном броске (точнее, двух - сначала попадание на 10, а затем дополнительный бросок при успехе на 9-10), имели combat value равным 5, могли захватывать доки и PDS, но должны были первыми принимать повреждения. Так же нельзя было иметь более 3 отрядов.  
-Правила лидеров так же практически идентичны правилам во второй и третьей редакциях: несколько типов лидеров, выкладывались в начале игры в хоум, транспортировались на корабле, могли захватываться и убиваться, могли освобождаться.
+Правила лидеров так же практически идентичны правилам во второй и третьей редакциях: несколько типов лидеров, выкладывались в начале игры в хоум, транспортировались на кораблях, могли захватываться и убиваться, могли освобождаться.
 
 ## [Twilight Imperium: Second Edition (2000)](https://boardgamegeek.com/boardgame/26055/twilight-imperium-second-edition)
 Разработчик: [Кристиан Т. Петерсен](https://boardgamegeek.com/boardgamedesigner/21/christian-t-petersen).  
@@ -55,10 +55,11 @@ Distant Suns как опциональное правило присутство
 ## [Twilight Imperium: Third Edition (2005)](https://boardgamegeek.com/boardgame/12493/twilight-imperium-third-edition)
 <img src="https://user-images.githubusercontent.com/88241831/208710242-7c538ba5-f6cf-4cc1-acf9-762c4de2149e.png" height="200">
 
+В третьей редакции впервые были использован трек победных очков вместо Progression Chart.  
 10 фракций. Шесть игроков.
 
 ### [Twilight Imperium: Third Edition – Shattered Empire (2006)](https://boardgamegeek.com/boardgameexpansion/22821/twilight-imperium-third-edition-shattered-empire)
-Разработкой дополнений к третьей редакции Twilight Imperium в основном занимался [Кори Конеска](https://boardgamegeek.com/boardgamedesigner/6651/corey-konieczka).  
+Разработкой дополнений к третьей редакции Twilight Imperium в основном занимался [Кори Коничка](https://boardgamegeek.com/boardgamedesigner/6651/corey-konieczka).  
 Добавили четыре фракции (Муаат, Саар, Винну и Инь).
 
 ### [Twilight Imperium: Third Edition – Shards of the Throne (2011)](https://boardgamegeek.com/boardgameexpansion/95802/twilight-imperium-third-edition-shards-throne)
@@ -70,7 +71,10 @@ Distant Suns как опциональное правило присутство
 Семнадцать фракций. Шесть игроков.
 
 ### [Twilight Imperium: Fourth Edition – Prophecy of Kings (2020)](https://boardgamegeek.com/boardgameexpansion/315895/twilight-imperium-fourth-edition-prophecy-kings)
-Разработчки - [Дейн Белтрами](https://boardgamegeek.com/boardgamedesigner/96049/dane-beltrami). Добавлено 7 новых фракций, опция игры на 8 игроков.
+Разработчик - [Дейн Белтрами](https://boardgamegeek.com/boardgamedesigner/96049/dane-beltrami).  
+Добавлено 7 новых фракций, опция игры на 8 игроков. Добавлены лидеры, при этом впервые с первой редакции они оказались существенно переработаны.
+
+### Twilight Imperium: Fourth Edition - Codexes
 
 # Twilight Imperium Additional Games
 
@@ -126,7 +130,7 @@ RPG по вселенной TI на движке Genesys.
 ### [The Necropolis Empire by Tim Pratt](https://www.amazon.com/Necropolis-Empire-Twilight-Imperium-Novel/dp/1839080760)
 Доступна к покупке на английском. Можно найти в тырнете. Существует любительский перевод на русский язык.
 ### [The Veiled Masters by Tim Pratt](https://www.amazon.com/Veiled-Masters-Twilight-Imperium-Novel/dp/1839081368)
-Доступна к покупке на английском. В тырнете пока не найти.
+Доступна к покупке на английском. Можно найти в тырнете.
 
 ## [The Stars Beyond: A Twilight Imperium Anthology](https://www.amazon.com/Stars-Beyond-Twilight-Imperium-Anthology/dp/1839081805)
 Сборник из шести рассказов, под редакцией Charlotte Llewelyn-Wells. 
@@ -142,7 +146,7 @@ RPG по вселенной TI на движке Genesys.
 ## Трилогия Робби МакНивен
 
 Трилогия посвящена Twilight Wars - эпохе падения Лазаксов.  
-На английском вышли первая книга. Вторая выйдет в октябре 2024-го.
+На английском вышла первая книга. Вторая выйдет в октябре 2024-го.
 
 ### [Empire Falling by Robbie MacNiven](https://aconytebooks.com/shop/twlight-wars-empire-falling-by-robbie-macniven/)
 ### [Empire Burning by Robbie MacNiven](https://aconytebooks.com/shop/twilight-wars-empire-burning-by-robbie-macniven/)
