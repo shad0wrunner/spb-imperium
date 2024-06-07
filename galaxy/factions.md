@@ -9,13 +9,15 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## Hacan (TI1)
+# Hacan (TI1-TI2-TI3-TI4)
+
+### Hacan (TI1)
 
   Located In the center of the Quenwari starcluster lies the tri-system of the Hacan. Circling the massive star Kenara are the three desert planets of the Hacan Emirate: Arretze, Kamm, and Hercant. Scorched by the merciless sun, the People of Hacan are nomads, moving their cities on massive on massive dust-sleds to cooler climates in the twilight dawn.  
   
   In their distant past, the Hacan were a poor species, their exploits into space dwarfed by the other great factions of the forgone Lazax Imperium. Then the Hacan discovered the off-Worlders insatiable lust for special products grown under Kenaras blinding light: the intoxicating Gerr-Root, clothes made from the star-flowers that only bloom on Hercants equinox, multiple aphrodisiacs, liquors, and forbidden drugs harvested under Kenaras grace. In a short period of time the Hacan became masters of trade, and the tri-system prospered trade-clans. The desire to protect their wealth was the catalyst behind the formation of the cental Hacan Emirate goverment. The *Quieron*, leader of the Hacan, is chosen by a hierarchy of trade-groups, each possessing their own fleets of trade and war. The Quieron is the high-commander of the united merchant and warfleet, his motive: To lead the Hacan to the imperial throne, solidifying an era of wealth and commerce.
 
-## Hacan (TI2)
+### Hacan (TI2)
 
   In the center of the Quenwari starcluster lies the tri-system of the Hacan. Circling the massive star Kenara are the three desert planets of the Hacan Emirate: Arretze, Kamm, and Hercant. Scorched by the merciless sun, the People of Hacan are nomads, moving their cities on massive on massive dust-sleds to cooler climates in the twilight dawn.
 
@@ -23,7 +25,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   Soon the Hacan became masters of trade, and their system prospered as unfathomable fortunes were made by the increasingly powerful trade-clans. The desire to protect their wealth was the catalyst behind the election of the "Quieron": the leader of the Hacan. This individual is chosen by a hierarchy of trade-groups, each possessing their own fleets of trade and war. The Quieron is the supreme commander of the united Hacan tradefleet and military machine. His task: to lead the Hacan to the imperial throne, solidifying an era of wealth and peaceful commerce.
 
-## Hacan (TI3 & TI4)
+### Hacan (TI3 & TI4)
 
 `"There is no price too great for the Hacan, no silk too fine, and no war too long. My people will perservere." (c) Hacan Carth`
 
@@ -51,13 +53,15 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## Jol-Nar (TI1)
+# Jol-Nar (TI1-TI2-TI3-TI4)
+
+### Jol-Nar (TI1)
 
   Only the oldest of the regents know the complete origin and evolution of the aquatic Hylar. Living in massive submerged floating cities, the water-breathing Jol-Nar is a species whose intense passion for technology is unrivaled anywhere in the Galaxy. Human scholars have speculated that this genetic passion for technology is an evolutionary sign of environmental strain, and that the physically weak Jol-Nar evolved intelligence and ambition to offset the external threat of aggressive off-worlders.
   
   The governing system of the Jol-Nar is that of a vast house of education. The *Head Master* and his *Circle of Regents* are based in the small city of Nhillar in the warm waters of the red ocean on Jol. Part mammal, part fish, the Jol-Nar are capable of breating surface air for extremely long periods of time (some have been measured to several years). The race is most comfortable submerged, however, and their compact build renders them immune to liquid depth pressure. The Jol-Nar are often considered by other races to be impatient and rude. This is surely a reflection of the Jol-Nar culture which is extremely competitive and ambitious. The Circle of Regents believes that the Jol-Nar is a completely superior race and will not tolerate any obstruction in their search of intellectual and technological improvement.
 
-## Jol-Nar (TI2)
+### Jol-Nar (TI2)
 
   Only the oldest of the Regents know the complete origin and evolution of the aquatic Hylar. Living in massive submerged cities, the water breathing Hylar is a species whose intense passion for technology is unrivaled anywhere in the galaxy. Human scholars have speculated that this genetic passion for technology is an evolutionary sign of a harsh environment adapted to a biological physique that is a signfically weak and with limited dexterous use. In other words, the Hylar have found intelligence and ambition sufficient to circumvent their weakness.
   
@@ -67,7 +71,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   The Head Master and the Circle of Regents will not tolerate any obstruction in their search for intellectual and technological advancement.
   
-## Jol-Nar (TI4)
+### Jol-Nar (TI4)
 
 `"We cannot halt progress for the sake of morality. If you have not the stomach for science, then I suggest you depart Wun-Escha immediately" (c) Doctor Sucuban`
 
