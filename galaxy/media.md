@@ -36,10 +36,13 @@
 
 ## [Twilight Imperium: The Role-Playing Game (1999)](https://rpgmuseum.fandom.com/wiki/Twilight_Imperium)
 ### Twilight Imperium: The Role-Playing Game. Mecatol Rex (supplement) (2000)
+Авторы: Тодд Нильсон, Джейсон С. Уильямс, Даррелл Харди.  
 Кратко: не взлетело.
 
+[Source](https://disk.yandex.ru/d/roaHGVL0zkITLg)
+
 ## [Twilight Imperium: Second Edition (2000)](https://boardgamegeek.com/boardgame/26055/twilight-imperium-second-edition)
-Разработчик: [Кристиан Т. Петерсен](https://boardgamegeek.com/boardgamedesigner/21/christian-t-petersen). 
+Разработчик: [Кристиан Т. Петерсен](https://boardgamegeek.com/boardgamedesigner/21/christian-t-petersen).  
 У второй редакции существовала русская локализация, которую и сейчас иногда можно увидеть в продаже на "Авито".  
 По большому счёту, вторая редакция представляла из себя очень сильно приглаженную первую.  
 В базе было так же все те же шесть фракций. Победа так же достигалась продвижение по Progression Chart, только в качестве альтернативы вместо полного уничтожения всех игроков, для победы можно было контролировать все планеты в трёх (4-6 игроков) или всех (2-3 игрока) домашках других игроков.  
