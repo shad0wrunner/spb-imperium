@@ -497,8 +497,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ## Creus (TI3ST-TI4)
 
-### C
-
 ### Creus (TI4)
 
   They're ghost stories. Frightful tales whispered to children by night cycle lamps. Dread accounts told to fellow sailors in the humming darkness of long-haul freighters.
@@ -524,8 +522,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   The Ghosts of Creuss have shown themselves to be perfectly civilized, polite, and masters of many strange sciences and materials. Yet, they're also regarded as exceptionally secretive, ritualistic, and prickly on a wide range of matters. It's generally undecided whether their behavior is one to be expected of a race so recently introduced to the material galaxy, or whether these are signs that something more ominous lurks beneath their brooding metal helmets.
   
 ## Nekro (TI3ST-TI4)
-
-### N
 
 ### Nekro (TI4)
 
@@ -555,8 +551,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   
 ## Argent (TI4PoK)
 
-### A
-
 ### Argent (TI4: PoK)
 
   Few alive today have dealings with the Shikrai. This collection of related avian subspecies lives scattered across a stretch of the galactic rim. Their clutch of worlds are dry, windswept, and poor, lacking in valuable resources or useful materials. Their small and technologically backward populations tend to stay out of galactic affairs. Most rightfully dismiss the Shikrai as just one more group of sentients in a galaxy full of life.
@@ -581,8 +575,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
     
 ## Empyrean (TI4PoK)
 
-### E
-
 ### Empyrean (TI4: PoK)
 
   Since time immemorial, travelers have told tales of the Empyrean, enigmatic beings who live in the depths of space. The oldest Jol-Nar libraries have references to faceless creatures who sailed the void long before the Hylar left their watery cradle. Winnaran custodians still maintain fragmented historical documents that managed to survive the ancient Sol bombardment and suggest that the Empyrean predate the discovery of supraluminal travel, a technology so old that no race has presented credible evidence that they invented it first. If these records are to be believed, the Empyrean have been crossing the vast gulf of space in sublight vessels for tens of thousands of years before the first FTL drives made galactic civilization possible.
@@ -602,8 +594,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   These representatives say they believe the galaxy will soon be engulfed by a storm worse than the Twilight Wars of a millennia ago. They maintain that the struggle for the throne will tear the galaxy to shreds, and that none of the rising powers have the mandate or the moral authority to rule over their fellows. Instead, the Empyrean have come to believe that only a truly neutral arbitrator can hope to rule a galactic Empire; an arbitrator that already knows all other species better than they know themselves.
 
 ## Mahact (TI4PoK)
-
-### M
 
 ### Mahact (TI4: PoK)
 
@@ -635,8 +625,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ## Naaz-Rokha (TI4PoK)
 
-### NRA
-
 ### Naaz-Rokha (TI4: PoK)
 
   The Naaz have had the distinct misfortune of being a species of technological savants who were discovered by other races before they could build their own civilization.  In the chaotic aftermath of the Twilight Wars, their world  of Naazir was happened upon by scouts for a Winnu corporate-collective. The collective promptly set up an industrial colony on Naazir and began exploiting the talents of the Naaz. This continued until the corporate leaders were charged and prosecuted for their crimes against sentients… at which point a small army of Sol deserters invaded and claimed Naazir as their own.
@@ -657,8 +645,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ## Nomad (TI4PoK)
 
-### N
-
 ### Nomad (TI4: PoK)
 
   Shortly before the Creuss Expedition left to plumb the depths of Shaleri Space, a number of sensor nets and observatories began to receive messages broadcast from the very heart of the galaxy. These messages repeated in a multitude of languages, and warned of a dark future to come that must be prevented at all costs. What struck the various scientists as odd was the source—the galactic center being utterly devoid of life—and the means of transmission. The messages were not sent via supraluminal communications, but instead broadcast on ancient radio frequencies. That meant the message had been sent thousands of years before the Lazax first founded their empire on Mecatol Rex.
@@ -676,8 +662,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   Many have since come to realize that the Nomad is the center of a creeping web of influence and blackmail that stretches across the galaxy, and at the same time has also amassed a formidable mercenary army. However, all attempts to covertly eliminate this nascent threat have thus far ended in failure. The Nomad seems to have an almost prescient ability to anticipate threats and defeat them. Whoever the Nomad is, they clearly are enacting a plan of mind-boggling scope and complexity. Now, as their agents infiltrate the Galactic Council and mercenary warships set out from Sumerian’s docks, many suspect that the ultimate goal of that plan is Mecatol Rex.
 
 ## Ul (TI4PoK)
-
-### U
 
 ### Ul (TI4: PoK)
 
@@ -698,8 +682,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   As the ancient prophecies come to pass and war looms, the Ul looks into the skies of Elysium and sees a galaxy in chaos. They know that the only chance that teeming multitudes scattered across countless worlds have for survival is a steady hand guiding them to peace. They know that while some may not realize it, there is a place for everyone in the universe, and everyone must find their place—with the Titans to watch over them all.
 
 ## Vuil'raith (TI4PoK)
-
-### V
 
 ### Vuil'raith (TI4: PoK)
 
@@ -726,8 +708,6 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   Meanwhile, the worlds on the edges of Shaleri space have come under assault from the Vuil’raith. Looming flesh-ships smash system defense fleets from the void, and crackling portals open in the streets to disgorge hordes of ravenous demon-beasts. With the Acheron rift providing an anchor into this reality, the Vuil’raith work tirelessly to build additional gateways to their hellish domain, their only desire to rip open the heart of Mecatol Rex and set a gateway amongst its bones.
 
 ## Keleres (TI4C3)
-
-### K
 
 ### Keleres (TI4: Codex 3)
 
