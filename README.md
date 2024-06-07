@@ -1,14 +1,12 @@
 # Twilight Imperium Main
 
-
-
 Сборище всякого разного по тематике.
 В основном - ссылки.
 Проект находится в стадии WIP. Что-то готово лучше, что-то хуже.
 
 Перевод правил:
 * [LRR 2.0](https://github.com/shad0wrunner/spb-imperium/blob/master/rules/index.md)
-* [FAQ 1.0-3.1.1](https://github.com/shad0wrunner/spb-imperium/blob/master/rules/dane_faq.md)
+* [FAQ 1.0-3.1.1](https://github.com/shad0wrunner/spb-imperium/blob/master/rules/faq.md)
 
 Раздел "Links" содержит многочисленную подборку ссылок на полезные ресурсы: правила, подсказки, генераторы карт, сообщества.  
 Если вы знаете, что что-то существует, но не знаете где - вам сюда.
