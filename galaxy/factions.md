@@ -1,15 +1,11 @@
-## Factions of TI
+# Factions of TI
 
 ![factions](https://user-images.githubusercontent.com/88241831/173678370-c3e1b5eb-796b-462e-bf57-7ed7b5fd1c55.png)
-
-***
 
 NOTE: Описание фракций в TI3 и TI4 практически идентично, за исключением Арборека и одного абзаца Nekro.  
 Небольшие добавления в виде catch phrase на лицевой стороне листа фракции в TI4 и краткого описания в правом верхнем углу оборотной стороны выделены отдельно.
 
-***
-
-# Hacan (TI1-TI2-TI3-TI4)
+## Hacan (TI1-TI2-TI3-TI4)
 
 ### Hacan (TI1)
 
@@ -51,9 +47,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   Soon the Hacan became masters of trade, and their system prospered as unfathomable fortunes were made by the increasingly powerful trading clans, chief among them the Mowshir Emirate of Arretze. The desire to protect their newfound wealth, and a will to peacefully regulate and arbitrate between the clans, moved the Hacan to form a representative gathering and to elect a Quieron - the leader who speaks for all the Hacan. The Quieron leads the entire hierarchy of trade-groups, each possessing its own fleets of commerce and war. His task: to lead his people to the Imperial Throne, establishing an era of wealth and peaceful commerce.
 
-***
-
-# Jol-Nar (TI1-TI2-TI3-TI4)
+## Jol-Nar (TI1-TI2-TI3-TI4)
 
 ### Jol-Nar (TI1)
 
@@ -96,9 +90,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   Despite their physical weakness, the Hylar are a proud people, often to the point of abrasiveness and arrogance. Since the catastrophic Dark Years, the Hylar have started utilizing the natural resources of their own planets, and they now extract metals and medicines from the many algae and coral formations of both Jol and Nar. As a new age nears, the Hylar once more strive for the influence they feel they have earned. The Circle of Regents has secretly decided that the Hylar must take the place of the Lazax in governing and advancing a new united galaxy. Under their mandate, the Headmaster has begun building his forces, and Jol-Nar diplomats and engineers have started appearing among the other civilizations in large numbers, appearing friendly, but with hidden agendas. Soon the Headmaster will make his claim for the empire, and the galaxy will enter an age of technological advancement and intellectual achievement.
 
-***
-
-# Letnev (TI1-TI2-TI3-TI4)
+## Letnev (TI1-TI2-TI3-TI4)
 
 ### Letnev (TI1)
 
@@ -136,9 +128,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   The legendary Letnev troops are only surpassed in brute strength by the Tekklar N’orr elite soldiers of distant Quinarra. With the new awakening of ambitions among the great races, the resurgence of interstellar commerce, and the recent momentum of the Galactic Council, the Baron has secretly been preparing to lead his people to final dominance. Baron Daz Emmiciel Werqan III has only one ambition: to become emperor at any cost.
 
-***
-
-# N'orr (TI1-TI2-TI3-TI4)
+## N'orr (TI1-TI2-TI3-TI4)
 
 ### N'orr (TI1)
 
@@ -170,9 +160,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   The Envoy and the Veiled Brood oversee the rapid expansion of the N'orr military forces and fleets. The Tekklar Elite soldiers are the pride of their people. The Tekklar train exclusively in the southern polar regions, where the weak die and the strong become G'hom: members of the prestigious Tekklar order, treated like knights by the N'orr and feared across the galaxy. As Quinarra slowly turns, as the stars again come into their right constellations, the Veiled Brood knows that the time to swarm is coming again. And this time, the swarm will cover the stars.
 
-***
-
-# Sol (TI1-TI2-TI3-TI4)
+## Sol (TI1-TI2-TI3-TI4)
 
 ### Sol (TI1)
 
@@ -202,9 +190,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   The current High Minister, Juan Salvador Tao, is preparing for a new age that he knows is rapidly evolving before him. He is eager to expand the official colonization of Sol once more, especially to the old colonies of Centauri, Gral, and Quann. He knows that the balance of power is shifting and that the universe will soon once again be governed under one empire. The High Minister will make sure that his Federation will prevail during the coming power struggle and inevitable war. Already the Sol fleet awaits his orders to strike nearby systems. Soon the human destiny will be fulfilled, and the distant suns theirs to command.
 
-***
-
-# Xxcha (TI1-TI2-TI3-TI4)
+## Xxcha (TI1-TI2-TI3-TI4)
 
 ### Xxcha (TI1)
 
@@ -238,9 +224,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   The pale shadow of Archon Tau hangs like a scar in the Xxcha skies. The sight of it is the everlasting sorrow of the Xxcha, and the ever-present reminder of the cost of submission. The Xxcha will never allow such tragedy to befall them again. Ccrysus, the Xxcha King, knows that for the sake of a peaceful galaxy, the Xxcha must seek the Imperial Throne and be wise for all.
 
-***
-
-# Mentak (TI1B-TI2:HE-TI3-TI4)
+## Mentak (TI1B-TI2:HE-TI3-TI4)
 
 ### Mentak (TI1: B)
 
@@ -260,9 +244,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   Although publicly denied by Mentak ambassadors, the Mentak employ a vast pirating fleet which wreaks havoc among merchant shipping lanes and smaller military convoys. Although now an educated culture and civilization in their own right, the Mentak people have never forgotten their roots as rogues and usurpers. Every Mentak feels a historical need for revenge: revenge against a galaxy that shipped their ancestors to torture and rot on Moll Primus centuries ago. The Table of Captains has given their Hand a clear mandate: to scheme, pillage, and conquer until the ruled are rulers and the enslaved are emperors.
 
-***
-
-# Yssaril (TI1B-TI2:HE-TI3-TI4)
+## Yssaril (TI1B-TI2:HE-TI3-TI4)
 
 ### Yssaril (TI1: B)
 
@@ -286,9 +268,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   The proud, fierce Yssaril are slowly starting to look beyond their borders and beyond the income of the Guild. Hidden in the planetary shadow of Shalloq, and kept secret from the rest of the galaxy by the covert means at which the Yssaril excel, a great invasion fleet is being built. Although the rest of the galaxy may shudder at the Yssaril’s unseen eyes and ears, it would be terrified if it knew the ruthless imperial ambitions of the small green people.
 
-***
-
-# L1Z1X (TI1OR-TI3-TI4)
+## L1Z1X (TI1OR-TI3-TI4)
 
 ### L1Z1X (TI1: OR)
 
@@ -324,9 +304,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
   It is rumored that Ibna Vel Syd still leads his people, encased in eldritch technology that keeps his ancient body alive. Whether the L1z1x are guided by the wisdom that saved them or by the insanity that destroyed the famed Hall of Cartography, it is not known. Behind their vacant red eyes lie both a tragic history and a terrible malevolence. It seems certain that the return of the Lazax will wash across the galaxy like a tide of prophecy and steel.
 
-***
-
-# Naalu (TI1OR-TI3-TI4)
+## Naalu (TI1OR-TI3-TI4)
 
 ### Naalu (TI1: OR)
 
@@ -352,9 +330,7 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
   The leader of the Naalu collective is always female, as most Naalu leaders and off-world representatives are female. For the last decade, the tall red-scaled Q’uesh Sish has ruled the collective from her palace in the shining crystal city of Eershin. The beautiful, sleek spaceships of the Naalu patrol Mallac’s outer borders, while Naalu troops train and muster on Druaa’s two moons. With her Nefishh, a rare crystal radium device, Q’uesh sees the minds of the other races. She smiles at the knowledge, and with her, the collective Naalu leaders smile, sensing the knowledge in her mind and relishing the sweet poison of her thoughts. The great plan of the collective is about to take its final shape. Long have the Naalu observed the chaos and ugliness of the other races from a distance. ‘Lhe time nears that the beauty of Druaa will grow beyond the borders of Mallac. The time now nears when the rest of the galaxy will know the tranquility, order, and the true beauty of the Naalu. They will submit to that beauty... or be destroyed.
 
-***
-
-# Muaat (TI3SE-TI4)
+## Muaat (TI3SE-TI4)
 
 ### Muaat (TI4)
 
@@ -384,9 +360,7 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
   Led by the Fire Wardens, the Gashlai are resolved to never be enslaved again. Inside their golden Ember suits they burn with ambition. The Jol-Nar fear what the rest of the galaxy is about to learn: that the Embers of Muaat intend to bring their fire to the furthest reaches of space, burning the unwilling into submission.
 
-***
-
-# Saar (TI3SE-TI4)
+## Saar (TI3SE-TI4)
 
 ### Saar (TI4)
 
@@ -412,9 +386,7 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
   For centuries the unified and passionate Saar people have built a formidable home and civilization in the Jorun asteroid field. The Saar have finally found home, and they have found that they are strong.
 
-***
-
-# Winnu (TI3SE-TI4)
+## Winnu (TI3SE-TI4)
 
 ### Winnu (TI4)
 
@@ -438,9 +410,7 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
   The Winnu population rushed to Faruuq’s support, a sense of righteousness and superiority motivating them to an intense mobilization. Building massive fleets, eerily reminiscent of ancient Lazax designs, and training massive invasion forces, the Winnu are intent on returning true Lazax culture to the galaxy.
 
-***
-
-# Yin (TI3SE-TI4)
+## Yin (TI3SE-TI4)
 
 ### Yin (TI4)
 
@@ -470,9 +440,7 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
   In their flesh, the brothers carry the secret inner fire and rebellious ambition of Darien. The oldest of the Blessed, the Elder Brother, intimately understands the emotions and aspirations of all his brothers. Intent and unified, the Brotherhood now builds a vast fleet with which to bring Darien’s legacy and the light of Yin to the imperial throne itself.
 
-***
-
-# Arborec (TI3ST-TI4)
+## Arborec (TI3ST-TI4)
 
 ### Arborec (TI3)
 
@@ -527,9 +495,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   
   While the Arborec insist that the past knowledge and experiences of Dirzuga bodies do not persist beyond this reanimation, there are some who suspect the Arborec do not tell the entire truth. Such theorists can provide many examples in which the Arborec seem to have come upon information, or intimate understanding of other cultures, that seem inexplicable otherwise.
 
-***
-
-# Creus (TI3ST-TI4)
+## Creus (TI3ST-TI4)
 
 ### C
 
@@ -557,9 +523,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
   The Ghosts of Creuss have shown themselves to be perfectly civilized, polite, and masters of many strange sciences and materials. Yet, they're also regarded as exceptionally secretive, ritualistic, and prickly on a wide range of matters. It's generally undecided whether their behavior is one to be expected of a race so recently introduced to the material galaxy, or whether these are signs that something more ominous lurks beneath their brooding metal helmets.
   
-***
-
-# Nekro (TI3ST-TI4)
+## Nekro (TI3ST-TI4)
 
 ### N
 
@@ -589,9 +553,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
   Some will seek to understand and find common ground with the Nekro, preaching tolerance for the intolerant. But those who have seen the devastated systems absorbed by the resurgent Nekro know that while angels remain a fantasy of the hopeful, out of the darkness have come demons. And in their wake follows blackness and death.
   
-***
-
-# Argent (TI4PoK)
+## Argent (TI4PoK)
 
 ### A
 
@@ -617,9 +579,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
   In the aftermath of the Mahact's awakening, the Argent Flight has begun to gather its forces. The Murmeration is in accord; the time for secrecy is past. Already agents move amongst Shikrai worlds, calling worthy fighters to take the vows of the Flight. In the open-air ship docks of the Atharal Torus, master shipwrights have laid down the keels of sleek, gull-winged destroyers. The Argent Flight knows, now that its ancient nemesis has returned, that it has no choice - it must lead the rest of the galaxy on a holy crusade to finish what the Lazax started so long ago.
     
-***
-
-# Empyrean (TI4PoK)
+## Empyrean (TI4PoK)
 
 ### E
 
@@ -641,9 +601,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
   These representatives say they believe the galaxy will soon be engulfed by a storm worse than the Twilight Wars of a millennia ago. They maintain that the struggle for the throne will tear the galaxy to shreds, and that none of the rising powers have the mandate or the moral authority to rule over their fellows. Instead, the Empyrean have come to believe that only a truly neutral arbitrator can hope to rule a galactic Empire; an arbitrator that already knows all other species better than they know themselves.
 
-***
-
-# Mahact (TI4PoK)
+## Mahact (TI4PoK)
 
 ### M
 
@@ -675,9 +633,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   
   The emissaries returned to their ship and left the city behind. However, many fear that it is only a matter of time before a golden armada returns to the sky above Mecatol Rex. And when it does, the Mahact will return the world to the center of their kingdom.
 
-***
-
-# Naaz-Rokha (TI4PoK)
+## Naaz-Rokha (TI4PoK)
 
 ### NRA
 
@@ -699,9 +655,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   
   As chaos builds around the Mahact return, the Tetrarchy has stood before the Chamber of Congress and announced its intent. The Naaz-Rokha Alliance has already demonstrated that two species can live harmoniously as one. Who better to take control of the ancient seat of the Imperium and bring that harmonious cooperation to the stars?
 
-***
-
-# Nomad (TI4PoK)
+## Nomad (TI4PoK)
 
 ### N
 
@@ -721,9 +675,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
   Many have since come to realize that the Nomad is the center of a creeping web of influence and blackmail that stretches across the galaxy, and at the same time has also amassed a formidable mercenary army. However, all attempts to covertly eliminate this nascent threat have thus far ended in failure. The Nomad seems to have an almost prescient ability to anticipate threats and defeat them. Whoever the Nomad is, they clearly are enacting a plan of mind-boggling scope and complexity. Now, as their agents infiltrate the Galactic Council and mercenary warships set out from Sumerian’s docks, many suspect that the ultimate goal of that plan is Mecatol Rex.
 
-***
-
-# Ul (TI4PoK)
+## Ul (TI4PoK)
 
 ### U
 
@@ -745,9 +697,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
   As the ancient prophecies come to pass and war looms, the Ul looks into the skies of Elysium and sees a galaxy in chaos. They know that the only chance that teeming multitudes scattered across countless worlds have for survival is a steady hand guiding them to peace. They know that while some may not realize it, there is a place for everyone in the universe, and everyone must find their place—with the Titans to watch over them all.
 
-***
-
-# Vuil'raith (TI4PoK)
+## Vuil'raith (TI4PoK)
 
 ### V
 
@@ -775,9 +725,7 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
   Meanwhile, the worlds on the edges of Shaleri space have come under assault from the Vuil’raith. Looming flesh-ships smash system defense fleets from the void, and crackling portals open in the streets to disgorge hordes of ravenous demon-beasts. With the Acheron rift providing an anchor into this reality, the Vuil’raith work tirelessly to build additional gateways to their hellish domain, their only desire to rip open the heart of Mecatol Rex and set a gateway amongst its bones.
 
-***
-
-# Keleres (TI4C3)
+## Keleres (TI4C3)
 
 ### K
 
