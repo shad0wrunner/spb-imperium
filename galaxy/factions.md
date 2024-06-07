@@ -98,7 +98,9 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## Letnev (TI1)
+# Letnev (TI1-TI2-TI3-TI4)
+
+### Letnev (TI1)
 
   In the very blackness of space lies Arc Prime. Here the Baron preside over a vast underground populace. Dwelling in enormous subterranean caverns, great cities are generously heated by the core of the planet. The Letnev exploit their easy access to the immense metallurgic riches of Arc Prime, and their ship-yards are the most impressive in the galaxy. The Baron nurtures and prods an aggressive militant people which he channels into subordination by impressive discipline and the maintenance of a strict military bureaucracy. The pale Letnev people despise excessive light, and will often wear protective eyewear when travelling on planets with normal sunlight.
   
@@ -106,7 +108,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   The Letnev military receives a training so intense and effective it is only surpassed by the *Tekklar Elite* troops on distant Quinarra. The Baron has always had only one flaring ambition: To become Emperor at any cost...
 
-## Letnev (TI2)
+### Letnev (TI2)
 
   In the very blackness of space lies the bleak and tortured world known as Arc Prime. Here the Baron presides over the vast underground populace of the Letnev. Dwelling in enormous subterran cities, generously heated by the planet core, the Letnev exploit the immense metallurgic riches of Arc Prime.
   
@@ -116,7 +118,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   The Letnev military receives a training so intense and effective it is only surpassed by the "Tekklar Elite" troops on distant Quinarra. The Baron himself has only one flaring ambition: To become Emperor at any cost!
 
-## Letnev (TI4)
+### Letnev (TI4)
 
   In the very blackness of space lies cold, hard Arc Prime. Its system has no central star, and Arc Prime’s lack of defined orbit has been a mystery to scientists for millennia. It is a common jest that Arc Prime is simply afloat in space, and that only the Letnev disdain for the rest of the galaxy protects it from a fatal collision. The Letnev’s principal vassal, Wren Terra, shines like a mighty star in the ebon distance, while thorny military ships surround the dark planet like fireflies attracted to a black hole.
 
@@ -136,7 +138,9 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## N'orr (TI1)
+# N'orr (TI1-TI2-TI3-TI4)
+
+### N'orr (TI1)
 
   Gigantic oceanless Quinarra dwell like a sleeping behemoth in the misty depths of space. The surface of the red planet is often terrorized by mighty thunderstorms, sandstorms, and icy hail. On Quinarra, pure water is in constant shortage, its only real on-world source being the precipitation of the immense storms. Though a liquid-efficient species, it is still necessary for the Norr to ferry gigantic mountains of ice to Quinarra from its frozen sister-planet Tren-Lak. 
   
@@ -144,7 +148,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   *The Tekklar Elite*, the most featured band of military elite fighters, are trained from birth in the wastes of Quinarra to fight and give their fanatical loyalty to the Mother and the Speaker alone.
 
-## N'orr (TI2)
+### N'orr (TI2)
 
   Gigantic, oceanless Quinarra dwells like a sleeping behemoth in the misty depths of space. The surface of the red planet is often terrorized by mighty electrical storms, sandstorms, and deadly hail. On Quinarra, pure water is in constant shortage, its only real on-world source being the precipitation of the immense storms. Though a liquid-efficient species, it is still necessary for the N'orr to ferry gigantic mountains of ice to Quinarra from the frozen sister planet of Tren'lak. 
 
@@ -154,7 +158,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   The N'orr "Tekklar Elite" troops are trained from birth in the wastes of Quinarra to fight and give their fanatical loyalty to the Mother and the Speaker alone.
 
-## N'orr (TI4)
+### N'orr (TI4)
 
   Not far past the Unicorn Nebula, the golden Sardakk star shines its ancient, hot light on giant oceanless Quinarra. The massive planet radiates a red glow like a dusty ruby in the night, its massive polar storms clearly visible from space. A great network of orbital space stations and massive complements of fleet units occupy the system in the fashion of the insectile N'orr. Massive whale-like N'orr carriers spew fighters like angry hornets from a disturbed nest. Convoys of ice-mountain transports are always inbound from the planet Tren'lak. Small spider-like robotic ships drill into the sides of the ice, guiding the ice to the orbital liquid-processing plants, after which the derived water and salt is flown to Quinarra by bloated sungliders that, like beetle balloons, slowly descend to the N'orr cities below.
 
@@ -168,13 +172,15 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## Sol (TI1)
+# Sol (TI1-TI2-TI3-TI4)
+
+### Sol (TI1)
 
   Ever-since their discovery of the mass-drive engine, humans have been reaching into space, driven by some inner instinct of exploration and discovery. Coming from the central *Jord* or *Ert*, human fleets of commerce and war are a common sight almost anywhere in the galaxy. More than any of the other Great races, humans have the greatest swings in intelligence and talent: Humans can be found in all levels of the galactic coulture, from common servants, smugglers, thieves, to wealthy traders, to diplomatic consultants and renowned scholars. It is commonly recognized by Galactic Massologists, that it is the diversity of talent that has allowed the human race to resist annihilation or extinction. Since the human race inherently carries no special characteristics in which it especially excels, the theory is considered a sound one.
   
   The Federation is governed by the bi-annually elected *President* and his council of one-thousand in New Moscow (a massive city in the center of a vast urban continent.) For all their prowess in diversification, humans have shown themselves to be as aggressive as any of the other great races. History shows that The federation of Sol, were among the most ardent of aggressors in the early Twilight Wars in the wake of the crumbling Lazax Imperium.
 
-## Sol (TI2)
+### Sol (TI2)
 
   Ever since their discovery of the mass-drive engine, humans have been reaching into space. Driven by some inner instinct of exploration and discovery, no star seems too remote for human curiosity.
   
@@ -184,7 +190,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   For all their prowess in diversification, humans have proven themselves to be one of the most aggressive of the great races. War, nationalism, and hostile expansion have left their mark on human history. Sol was among the most ardent aggressors during the early Twilight Wars.
 
-## Sol (TI4)
+### Sol (TI4)
 
   Nestled in the third orbit of the Sol system lies Jord, the ancestral home of the human race. Few planets can rival Jord’s diversity of climates, seasons, and ecology. Much of this wealth is attributed to its enormous moon, which causes dramatic tidal motions in Jord’s oceans, which is thought to be the impetus of its diverse life and weather patterns. Much of Jord’s orbit, as well as its moon, is crowded with stellar traftic trom the orbital and lunar space stations. Military ships of the line, bearing the distinctive Sol symbol, are often moored to the bulky military platforms in Jord’s orbit, or to the fleet base Churchill Prima that orbits the reddish fourth planet of the system.
 
@@ -198,13 +204,15 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## Xxcha (TI1)
+# Xxcha (TI1-TI2-TI3-TI4)
+
+### Xxcha (TI1)
 
   Bathed in the stong, yet gentle light of the Xxllak star lies the splendid jewel of Archon Ren. A magnificent sylvan planet hosting a vast myriad of living creatures. The Xxcha, a sentient lizard race, are masters of life in Archon Ren and have been considered as one of the Great Galactic Races longer than history itself. The Xxcha people is ruled by the High King and his royals from the mighty city of Kklaj. Here the king oversees a philosophic and peaceful race whose structures and starships are intricately beatuful and an aesthetic joy to the eye. A favorite past time of the elder Xxcha is to contemplate origin and meaning while smoking Gerr-Root from long-stemmed pipes. Tourists find Archon Ren a paradise, and remarkably free of from the annoyance of insects that so often tend to make forest-planets unbearable.
   
   The everlasting sorrow of the gentle Xxcha hover above them in the night sky. Archon Tau, sister planet that once matched Archon Rens beauty and majesty. The ecology of Archon Tau was destroyed in the gruesome bombardment when a Letnev Force invaded and was subsequently defeated by forces from Sol in the early Twilight Years. Once a people with no military, the Xxcha are docile no more. The silent reminder in their night sky keep the Xxcha fleet vigilant and its military determined to never again submit to an invading force.
 
-## Xxcha (TI2)
+### Xxcha (TI2)
 
   Bathed in the stong, yet gentle, light of the Xxllak star lies the splendid jewel of Archon Ren. The planet hosts a magnificient jungle environment and a myriad of living creatures. The Xxcha, a sentient lizard race, are masters of life on Archon Ren. The Xxcha have been considered one of the Great Races longer than history itself. 
   
@@ -214,7 +222,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   Once a people with no military, the Xxcha are docile no longer. The silent reminder above them keeps the Xxcha military and fleet vigilant and determined to never again submit to an invading force.
 
-## Xxcha (TI4)
+### Xxcha (TI4)
 
   Even the oldest annals recognize the ancient kingdom of the reptilian Xxcha as the first of the great interstellar civilizations. Nestled in the middle of a wealthy section of space, the Xxcha twin planets of Archon Ren and Archon Tau lie bathed in the gentle light of the Xxlak star. While the Xxcha still call the two planets “twins,” an outsider will instantly notice that the grayish and shadowy Archon Tau in no way resembles the brilliant, healthy green of Archon Ren.
 
@@ -232,13 +240,15 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## Mentak (TI1: B)
+# Mentak (TI1B-TI2:HE-TI3-TI4)
+
+### Mentak (TI1: B)
 
   Moll Primus, a lonely montainous planet on the very outskirts of known space. Used by the ancient empire as a penal colony once claiming the most impressive punitive institutions for criminals in the galaxy. Early during the Age Twilight, Moll Primus was abandoned by its Lazax wardens, leaving its starving inmate population to centuries of chaos and anarchy. Then, led by Ervan Mentak, the scarce and mixed population united and formed a coalition of rogues. The central administration on Moll Primus is called the *Table of Captains* which is elected by popular vote. *Ervans Hand* is the single most influential title in the Table of Regents and on Moll Primus. The Mentak platform of politics is efficent and desimple: Revenge. Publicity denied by the Table of Captains, yet known to all, the Mentak employ a vast pirating fleet, wrecking systematic and effecient havoc among shipping lanes and unprotected military convoys. Pirating and deep core mining are the two main economic drivers for the Mentaks growing military and political power.
 
   For countless centuries, the mixed races of the Mentak have looked towards the skies, a fierce hatred embedded in their genes. Hatred towards the Great Races who abondened them so long ago!
 
-## Mentak (TI4)
+### Mentak (TI4)
 
   Beyond the Mahact Plateau, part of the borderlands and the old star route known as the Passage of Tears, lies distant Moll Primus with its three tiny moons. The young planet is predominantly covered by extensive plains of the orange meet grass and sprinkled with a million lakes. Sharp youthful mountains pierce the heart of many of its continents, their icy mountain streams giving life to steep lush mountain valleys, where green fruitful trees and flowers grow in colorful contrast to the orange plains.
 
@@ -252,7 +262,9 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## Yssaril (TI1: B)
+# Yssaril (TI1B-TI2:HE-TI3-TI4)
+
+### Yssaril (TI1: B)
 
   Before the first Empire, the unpleasant planet of Retillion was a prime source of the Menn-Root a delicacy among the Lazax. Small Lazax farm colonies on Retillion encountered a significant problem as a strange race of nearly undetectable, chameleon-like creatures began destroying valuable harvestin equipment and killing farmers. Intelligent, yet without technology the creatures were extremely fierce. The Lazax simply deployed armored troops on Retillion, and exported many of the creatures, who callled themselves *Yssaril*, offplanet for hunting leisure and occasional zoological study. During the Age of Dusk The Great Races saw the potential of the near invisible Yssaril as deadly assassin retainers and spies. Over a period of 3000 years, Yssaril were hired and trained by the great races to construe their darker, hidden, schemes.
   
@@ -276,7 +288,9 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## L1Z1X (TI1: OR)
+# L1Z1X (TI1OR-TI3-TI4)
+
+### L1Z1X (TI1: OR)
 
   It has been eight years since the Hacan trader *Zollar* was lost. Two parsecs out from Retillion, the *Zollar's* navigation equipment failed, leaving the ship and its crew stranded in deep space. Weeks later, the drifting merchant freighter was hailed by a great warship of unknown origin. The crew's joy turned to terror as the warship closed, brought its cannons on line and opened fire. The random destruction of the *Zollar* announced the return the Lazax, the first imperial race, to the known galaxy.
   
@@ -288,7 +302,7 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
   
   There are many theories about why and how the Lazax transformed themselves into this cybernetic new race. It is a fact that no one truly knows what secrets and violent ambitions lie behind the vacant red eyes of the L1z1x.
 
-## L1Z1X (TI4)
+### L1Z1X (TI4)
 
   It has been 13 years since the Hacan trader Zollar was lost, its final desperate broadcast intercepted by a Yssaril outpost near the Mahact asteroid fields.
 
@@ -312,7 +326,9 @@ NOTE: Описание фракций в TI3 и TI4 практически ид�
 
 ***
 
-## Naalu (TI1: OR)
+# Naalu (TI1OR-TI3-TI4)
+
+### Naalu (TI1: OR)
 
 Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to join the council. Some other races are disturbed by the Naalu mind-reading ability, fearing that these graceful creatures will turn their telepathy in a weapon of conquest. Other points to the Collective's calm demeanor and passion for beauty - unlikely attributes for an ambitious race.
 
@@ -320,7 +336,7 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
   
   Naalu starships are known for their ornate splendor and elegant design. As powerful as they are beautiful, these mighty ships harbor massive engines and terrible weapons behind their gorgeous facades. With fleets of these ships to enforce their rule, the Naalu feel confident that their time has arrived. Soon the rest of the galaxy will know tranquillity, order and true beauty ...  or be destroyed.
 
-## Naalu (TI4)
+### Naalu (TI4)
 
   It was not until the middle of the Twilight Wars that the Naalu civilization made itself known to the rest of the galaxy. Their system, dominated by the white star Mallac, had remained suspiciously undetected by the empire, despite being surrounded by wealthy systems whose recorded history predates even the Lazax. After a period of sheer astonishment, stellar cartographers and historians began suspecting manipulation by the Naalu themselves. After researching old records, investigators found a remarkably high number of missing ship incidents in that sector and an even more incriminating number of ships found stranded in space, their crews suffering from deep-space memory loss. Some scientists (the most vociferous of whom have died amidst questionable circumstances) have indicated that records exist indicating a great number of Yssaril ships passing into Mallac’s area of space, but no records of any derelict or amnesic Yssaril crews have ever been recorded. The Naalu, it was later discovered to the horror of their neighbors, are highly telepathic and armed with technology and weapons that redirect, manipulate, or damage the neuron impulses guiding the brains of all major known races.
 
@@ -338,7 +354,9 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
 ***
 
-## Muaat (TI4)
+# Muaat (TI3SE-TI4)
+
+### Muaat (TI4)
 
   It was during the early years of the Age of Dusk that Jol-Nar explorers came upon the volcanic planet of Muaat. Scouting for resources beyond the Mahact Plateau, the explorers were amazed by the mineral wealth of their discovery, but they were truly awestruck by the extraordinary qualities of the planet’s fiery inhabitants, the Gashlai.
 
@@ -368,7 +386,9 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
 ***
 
-## Saar (TI4)
+# Saar (TI3SE-TI4)
+
+### Saar (TI4)
 
   Few historians dispute that the Saar were the first of the known races to venture into space, but it remains unknown whether it was need or curiosity that drove the otherwise primitive people into such exploration. Their peaceful ways and dispersed civilization never promulgated them to official Lazax recognition. Some scholars have thus called them “the forgotten race.”
 
@@ -394,7 +414,9 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
 ***
 
-## Winnu (TI4)
+# Winnu (TI3SE-TI4)
+
+### Winnu (TI4)
 
   The Winnu system was the first system to seek annexation into the Lazax Empire. Throughout their history, the Winnarans had suffered countless civil wars, a deteriorating climate, and debilitating disease. They were a race on the brink of extinction when they first came into contact with the Lazax, and only with generous Lazax support did the Winnaran race survive. The Lazax allowed the Winnarans into their empire, and over time healed the scars of Winnu. More importantly, the Winnarans came to embrace the Lazax code of strength and peace, the powerful doctrine which had allowed the first Lazax emperor to defeat the last of the mad Mahact kings and to emerge as a shining beacon of peace and stability in a dark galaxy.
 
@@ -418,7 +440,9 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
 ***
 
-## Yin (TI4)
+# Yin (TI3SE-TI4)
+
+### Yin (TI4)
 
   Lazax law strictly forbade the practice of cloning, the dangerous science that led to the madness, disease, and ultimate downfall of the Mahact kings. The emperors severely punished any regime or independent scientist dabbling in this dangerous field.
 
@@ -448,7 +472,9 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
 ***
 
-## Arborec (TI3)
+# Arborec (TI3ST-TI4)
+
+### Arborec (TI3)
 
   Brightest in the Morgallen Cluster burns the old star Farruban. While sun to no less than 26 satellites, Farruban's only inhabitable planet is the tropical giant of Nestphar, a planet teeming with life so abundant it almost defies description.
 
@@ -482,7 +508,7 @@ Stoic, beautiful and highly telepathic, the Naalu are one of the newest races to
 
   If some memories and knowledge of the dead are absorbed by the Arborec, would emotion and ambition be as well? Is it possible, perhaps even likely, that in digesting the music of such alien lives, the Arborec are in return infecting the Symphony? Is this why the Arborec have come to show keen interest in colonization and expansion? Is this why they have come to exhibit signs of duplicity, or even aggression?
 
-## Arborec (TI4)
+### Arborec (TI4)
 
   On first approach to Nestphar, a first-time visitor may be surprised by the soupy haze that bleeds from the planet’s atmosphere like a dusty cloud. This cloud consists of quadrillions of tiny living spores emitted by Nestphar’s many Flaah, city-sized floating forests in its stratosphere. The short-lived (and therefore continually resupplied) orbital presence of the Flaah spores allows the Arborec denizens in Nestphar's space-stations and shipyards to remain in continuous symbiotic contact with their planet. The Arborec term for this vital connection, shared among all living things on Nestphar, is best translated as "the Symphony."
   
@@ -503,7 +529,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ***
 
-## Creus (TI4)
+# Creus (TI3ST-TI4)
+
+### Creus (TI4)
 
   They're ghost stories. Frightful tales whispered to children by night cycle lamps. Dread accounts told to fellow sailors in the humming darkness of long-haul freighters.
 
@@ -529,7 +557,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   
 ***
 
-## Nekro (TI4)
+# Nekro (TI3ST-TI4)
+
+### Nekro (TI4)
 
   On the eve of the Lazax empire's fall, the legendary councilor Ibna Vel Syd led a small contingent of his people on a secret exodus into unknown space and, in doing so, escaped the massacre of his people that would follow. Only with the help of increasingly extreme technological augmentation did they survive the early years of resettlement. This reliance on technology became the foundation of what would evolve into the vast cybernetic civilization of the L1z1x.
 
@@ -557,7 +587,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
   
 ***
 
-## Argent (TI4: PoK)
+# Argent (TI4PoK)
+
+### Argent (TI4: PoK)
 
   Few alive today have dealings with the Shikrai. This collection of related avian subspecies lives scattered across a stretch of the galactic rim. Their clutch of worlds are dry, windswept, and poor, lacking in valuable resources or useful materials. Their small and technologically backward populations tend to stay out of galactic affairs. Most rightfully dismiss the Shikrai as just one more group of sentients in a galaxy full of life.
 
@@ -581,7 +613,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
     
 ***
 
-## Empyrean (TI4: PoK)
+# Empyrean (TI4PoK)
+
+### Empyrean (TI4: PoK)
 
   Since time immemorial, travelers have told tales of the Empyrean, enigmatic beings who live in the depths of space. The oldest Jol-Nar libraries have references to faceless creatures who sailed the void long before the Hylar left their watery cradle. Winnaran custodians still maintain fragmented historical documents that managed to survive the ancient Sol bombardment and suggest that the Empyrean predate the discovery of supraluminal travel, a technology so old that no race has presented credible evidence that they invented it first. If these records are to be believed, the Empyrean have been crossing the vast gulf of space in sublight vessels for tens of thousands of years before the first FTL drives made galactic civilization possible.
 
@@ -601,7 +635,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ***
 
-## Mahact (TI4: PoK)
+# Mahact (TI4PoK)
+
+### Mahact (TI4: PoK)
 
   Gene-sorcerers. Mad tyrants. Kings. The Mahact are a primal tale from ancient history. In the distant past, the Mahact dynasties terrorized the galaxy with their infighting and gene- sorcery. They could warp the forms of living beings, compel eternal obedience with a gesture, and turn the biospheres of entire worlds into seething, caustic hells. They unleashed their most vile technologies in war or even in debauched sport, and it seemed, even as their houses crumbled, that their fall might bring down all of civilized space.
 
@@ -631,7 +667,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ***
 
-## Naaz-Rokha (TI4: PoK)
+# Naaz-Rokha (TI4PoK)
+
+### Naaz-Rokha (TI4: PoK)
 
   The Naaz have had the distinct misfortune of being a species of technological savants who were discovered by other races before they could build their own civilization.  In the chaotic aftermath of the Twilight Wars, their world  of Naazir was happened upon by scouts for a Winnu corporate-collective. The collective promptly set up an industrial colony on Naazir and began exploiting the talents of the Naaz. This continued until the corporate leaders were charged and prosecuted for their crimes against sentients… at which point a small army of Sol deserters invaded and claimed Naazir as their own.
   
@@ -651,7 +689,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ***
 
-## Nomad (TI4: PoK)
+# Nomad (TI4PoK)
+
+### Nomad (TI4: PoK)
 
   Shortly before the Creuss Expedition left to plumb the depths of Shaleri Space, a number of sensor nets and observatories began to receive messages broadcast from the very heart of the galaxy. These messages repeated in a multitude of languages, and warned of a dark future to come that must be prevented at all costs. What struck the various scientists as odd was the source—the galactic center being utterly devoid of life—and the means of transmission. The messages were not sent via supraluminal communications, but instead broadcast on ancient radio frequencies. That meant the message had been sent thousands of years before the Lazax first founded their empire on Mecatol Rex.
 
@@ -669,7 +709,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ***
 
-## Ul (TI4: PoK)
+# Ul (TI4PoK)
+
+### Ul (TI4: PoK)
 
   Tens of thousands of years ago, Mahact gene-sorcerers crafted one of their most brilliant creations, the Titans. Though they looked like massive machines, beneath their metallic shells each Titan was a living creature of silicates and steel. They combined the best elements of the biological and the mechanical. They could work for days without tiring and were exceedingly durable. They could also heal injuries and, over time, expand their numbers. Most importantly, they were intelligent beings, not mindless automatons—though the Mahact programmed them so that the Titans would never disobey their masters. In all, the gene-sorcerers had created the perfect guardians and laborers for their kingdoms.
 
@@ -689,7 +731,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ***
 
-## Vuil'raith (TI4: PoK)
+# Vuil'raith (TI4PoK)
+
+### Vuil'raith (TI4: PoK)
 
   Philosophers and scientists have long theorized that the galaxy is only one of a host of realities. These other dimensions exist on a different plane, and the physical laws one takes for granted in this space—such as gravity and entropy—may be wildly different or nonexistent. The existence of fabled worlds like Mallice seems to support such conjectures, for the world may exist in one such alternate reality. Some researchers even attempt to predict the nature of these theoretical dimensions. However, even the most deranged scientist could not imagine a universe of seething, fleshy masses floating in a thick, cloying mist, or the ravenous creatures that could thrive in such a place.
 
@@ -715,7 +759,9 @@ The Arborec insist the host bodies of the Dirzuga are devoid of the expired indi
 
 ***
 
-## Keleres (TI4: Codex 3)
+# Keleres (TI4C3)
+
+### Keleres (TI4: Codex 3)
 
   Across the galaxy, planetary governors compete for trade opportunities, the Great Civilizations joust for superiority on the battlefront, and still other, more insidious factions play at shaping galactic history for their own ends. In a galaxy fraught with so many agendas, it’s no surprise that the Galactic Council took it upon itself to assemble a force of its own to manage its affairs. The Keleres of the Council are that force, but they are also something more. They are a ragtag army of bureaucrats, soldiers, and spies, often at odds with themselves and not always appreciated by the galaxy they serve.
 
