@@ -1,15 +1,15 @@
 # The Arborec / Арборек
 
 ## Faction Abilities / Фракционные способности
-#### Mitosis
+#### Mitosis / Митоз
 Your space dock cannot produce infantry. At the start of the status phase, place 1 infantry from your reinforcements on any planet you control.
-#### Letani Warrior I (Infantry) (GG)
+#### Letani Warrior I (Infantry) (GG) / Воин Летани I (Пехота)
 
 <img src="https://user-images.githubusercontent.com/88241831/173884457-b2a67ca5-9a55-4665-904c-a5a16269174f.png" width=300>
 
-Cost: 1x2  
-Combat: 8  
-Other: PRODUCTION 1
+Cost / Цена: 1x2  
+Combat / Бой: 8  
+Abilities / Спообности: PRODUCTION 1
 
 | Home System | Commodities |
 |:---:|:---:|
