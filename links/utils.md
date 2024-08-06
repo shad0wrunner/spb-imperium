@@ -26,9 +26,9 @@ description: Useful Links
 
 ## Draft Tools / Утилиты для драфта
 
+* [TI4 Lab Draft](https://ti4-lab.fly.dev/) - наиболее мощный инструмент для драфта: есть Milty Draft, есть другие варианты, есть возможность перегенерировать конкретные сектора, и многое другое.
 * [Milty Draft Tool](https://miltydraft.com/) - оригинальная утилита для Milty Draft'а.
 * [Milty by Shenigns](https://milty.shenanigans.be/) - улучшенный Milty Draft, в том числе с возможностью онлайн-драфта.
-* [TI4 Lab Draft](https://ti4-lab.fly.dev/) - есть Milty Draft, есть другие варианты.
 
 ## Assistant's / Помощники
 
