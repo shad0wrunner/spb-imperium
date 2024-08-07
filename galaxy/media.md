@@ -50,7 +50,9 @@ Distant Suns как опциональное правило присутство
 [TI 2nd Edition Content](https://disk.yandex.ru/d/oxFkxhM-lJkflA)
 
 ### [Twilight Imperium: Second Edition – Hope's End (2001)](https://boardgamegeek.com/boardgameexpansion/4338/twilight-imperium-second-edition-hopes-end)
-Добавили две фракции (Ментак и Иссарил).
+Добавили две фракции (Ментак и Иссарил), 21 карту политики, карты событий (event cards), 28 карт действий, 4 технологии, 13 новых тайлов, Shock Troopers.  
+Добавили в игру Deed Cards - то, что в данный момент мы знаем как карты планет.  
+Добавили опциональное правило лидеров.
 
 ## [Twilight Imperium: Third Edition (2005)](https://boardgamegeek.com/boardgame/12493/twilight-imperium-third-edition)
 <img src="https://user-images.githubusercontent.com/88241831/208710242-7c538ba5-f6cf-4cc1-acf9-762c4de2149e.png" height="200">
