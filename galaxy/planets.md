@@ -3,7 +3,7 @@
 ### HOME SYSTEM PLANETS
 
 Name | TI1 | TI1: OR | TI2
--- | -- | --
+-- | -- | -- | --
 [0.0.0] | - | 10/0 | -
 Arc Prime | 6/1 | + | +
 Archon Ren | 3/6 | + | +
