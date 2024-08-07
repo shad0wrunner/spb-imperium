@@ -22,6 +22,7 @@ Jord | 6/5 | + | 7/5
 Kamdorn | 1/2 | + | 1/2
 Maaluuk | - | 1/4 | -
 Nar | 2/5 | + | 2/5
+
 Quinarra | 4/3 | + | 5/2
 Retillion | 3/5 | +
 Shallow | 1/3 | +
