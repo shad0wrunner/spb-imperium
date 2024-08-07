@@ -6,7 +6,6 @@ Name | TI1 | TI1: OR
 -- | -- | --
 Arc Prime | 6/1 | +
 Wren Terra | 4/1 | +
--- | -- | --
 Arretze | 2/1 | +
 Hercant | 2/2 | +
 Kamdorn | 1/2 | +
