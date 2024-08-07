@@ -1,7 +1,7 @@
 ## PLANETS
 
 ### MECATOL REX
-
+![mecatol-rex]()
 Name | TI1 | TI1:OR | TI2 | TI2:HE | TI3
 -- | -- | -- | -- | -- | -- 
 Mecatol Rex | 1/9 | + | + | + | 1/6
