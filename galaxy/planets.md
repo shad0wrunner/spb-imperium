@@ -10,8 +10,8 @@ Mecatol Rex | 1/9 | + | + | + | 1/6 | + | +
 
 ### HOME SYSTEM PLANETS
 
-Name | TI1 | TI1:OR | TI2 | TI2:HE | TI3
--- | -- | -- | -- | -- | --
+Name | TI1 | TI1:OR | TI2 | TI2:HE | TI3 | TI3:SE | TI3:SotT
+-- | -- | -- | -- | -- | -- | -- | --
 [0.0.0] | - | 10/0 | - | - | 5/0
 Arc Prime | 6/1 | + | + | + | 4/0
 Archon Ren | 3/6 | + | + | + | 2/3
@@ -33,8 +33,8 @@ Wren Terra | 4/1 | + | + | + | 2/1
 
 ### REGULAR SYSTEMS
 
-Name | TI1 | TI1: OR
--- | -- | --
+Name | TI1 | TI1:OR | TI2 | TI2:HE | TI3 | TI3:SE | TI3:SotT
+-- | -- | -- | -- | -- | -- | -- | --
 Bereg | + | +
 Centauri | + | +
 Fria | + | +
