@@ -4,9 +4,9 @@
 
 ![mecatol_rex](https://github.com/user-attachments/assets/b9741bc7-1016-443c-8dcb-f225c7d60bc9)
 
-Name | TI1 | TI1:OR | TI2 | TI2:HE | TI3
--- | -- | -- | -- | -- | -- 
-Mecatol Rex | 1/9 | + | + | + | 1/6
+Name | TI1 | TI1:OR | TI2 | TI2:HE | TI3 | TI3:SE | TI3:SotT
+-- | -- | -- | -- | -- | -- | -- | --
+Mecatol Rex | 1/9 | + | + | + | 1/6 | + | +
 
 ### HOME SYSTEM PLANETS
 
