@@ -1,18 +1,30 @@
 ## PLANETS
 
-### HOME SYSTEMS
+### HOME SYSTEM PLANETS
 
 Name | TI1 | TI1: OR
 -- | -- | --
+[0.0.0] | - | 10/0
 Arc Prime | 6/1 | +
-Wren Terra | 4/1 | +
+Archon Ren | 3/6 | +
+Archon Tau | 1/4 | +
 Arretze | 2/1 | +
+Druaa | 5/4 | +
 Hercant | 2/2 | +
+Jol | 3/5 | +
+Jord | 6/5 | +
 Kamdorn | 1/2 | +
+Maaluuk | - | 1/4
+Nar | 2/5 | +
+Quinarra | 4/3 | +
+Retillion | 3/5 | +
+Shallow | 1/3 | +
+Tren'lak | 1/1 | +
+Wren Terra | 4/1 | +
 
 ### REGULAR SYSTEMS
 
-Name | TI1 | TI1: OR (?)
+Name | TI1 | TI1: OR
 -- | -- | --
 Bereg | + | +
 Centauri | + | +
