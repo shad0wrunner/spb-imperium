@@ -27,7 +27,7 @@ Quinarra | 4/3 | + | 5/2 | + | 3/1
 Retillion | 3/5 | + | - | + | 2/3
 Shallow | 1/3 | + | - | + | 1/2
 Tren'lak | 1/1 | + | + | + | 1/0
-Wren Terra | 4/1 | + | + | 2/1
+Wren Terra | 4/1 | + | + | + | 2/1
 
 ### REGULAR SYSTEMS
 
