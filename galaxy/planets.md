@@ -2,7 +2,7 @@
 
 ### MECATOL REX
 
-![Mecatol Rex](https://github.com/user-attachments/assets/bdd9a8d1-4da1-4b96-a95c-2a37cc084768)
+![image](https://github.com/user-attachments/assets/b9741bc7-1016-443c-8dcb-f225c7d60bc9)
 
 Name | TI1 | TI1:OR | TI2 | TI2:HE | TI3
 -- | -- | -- | -- | -- | -- 
