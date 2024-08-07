@@ -9,7 +9,7 @@ Mecatol Rex | 1/9 | + | + | 1/6
 ### HOME SYSTEM PLANETS
 
 Name | TI1 | TI1: OR | TI2 | TI3
--- | -- | -- | -- | TI3
+-- | -- | -- | -- | --
 [0.0.0] | - | 10/0 | -
 Arc Prime | 6/1 | + | +
 Archon Ren | 3/6 | + | +
