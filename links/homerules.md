@@ -19,6 +19,11 @@ description: Homerules / Хоумрулы
 * [BGG](https://www.boardgamegeek.com/thread/2114639/trade-wars-2-player-variant)
 * [Yandex.Disk](https://disk.yandex.ru/d/LPzFcGKOHPaNxQ)
 
+### T4 Duel
+* [BGG](https://boardgamegeek.com/thread/3349338/ti4-duel-by-gommbrother)
+* [Google.Drive](https://drive.google.com/drive/folders/10iksSXGfaTu2_q0puG36qjgQQ95VyJvl)
+* [Yandex.Disk](https://disk.yandex.ru/d/vWL0X8UV54zi-g)
+
 ### Other 2-Player Variants / Другие варианты игры на 2 игроков
 * ["Another 2-Player Variant" on BGG](https://boardgamegeek.com/thread/119002/another-2-player-variant) - Only Base Game.
 * [TI4 2 Player Princess Variant on BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
