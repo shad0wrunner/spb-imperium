@@ -8,10 +8,10 @@ description: Homerules / Хоумрулы
 
 # Game Modes / Режимы игры
 
-## 2 Player Variants / Варианты игры на 2 игроков
+## 2-Player Variants / Варианты игры на 2 игроков
 * [Yandex.Disk](https://disk.yandex.ru/d/IVbU0A7XkW9aEg) - Общий архив.
 
-### Hive Wars - 2-Players Co-Op Variant / Войны Ульев - Кооперативный режим для 2 игроков
+### Hive Wars - 2-Player Co-Op Variant / Войны Ульев - Кооперативный режим для 2 игроков
 * [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
 * [Yandex.Disk](https://disk.yandex.ru/d/BqAuHazKkfFeeA)
 
