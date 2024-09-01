@@ -1,5 +1,5 @@
 ---
-description: Homerules
+description: Homerules / Хоумрулы
 ---
 
 # General Folder / Общий архив
@@ -8,18 +8,18 @@ description: Homerules
 
 # Game Modes / Режимы игры
 
-## 2 Player Variants / Варианты игры на 2 игрока
+## 2 Player Variants / Варианты игры на 2 игроков
 * [Yandex.Disk](https://disk.yandex.ru/d/IVbU0A7XkW9aEg) - Общий архив.
 
-### Hive Wars - 2-Players Co-Op Variant
+### Hive Wars - 2-Players Co-Op Variant / Войны Ульев - Кооперативный режим для 2 игроков
 * [BGG](https://boardgamegeek.com/thread/2899846/ti4-hive-wars-two-player-co-op-variant)
 * [Yandex.Disk](https://disk.yandex.ru/d/BqAuHazKkfFeeA)
 
-### Trade Wars
+### Trade Wars / Торговые Войны
 * [BGG](https://www.boardgamegeek.com/thread/2114639/trade-wars-2-player-variant)
 * [Yandex.Disk](https://disk.yandex.ru/d/LPzFcGKOHPaNxQ)
 
-### Other 2-Player Variants
+### Other 2-Player Variants / Другие варианты игры на 2 игроков
 * ["Another 2-Player Variant" on BGG](https://boardgamegeek.com/thread/119002/another-2-player-variant) - Only Base Game.
 * [TI4 2 Player Princess Variant on BGG](https://boardgamegeek.com/thread/1851297/ti4-2-player-princess-variant)
 * [Twilight Duel (Two-Player with Prophecy of Kings)](https://www.boardgamegeek.com/thread/2716434/twilight-duel-two-player-prophecy-kings)
@@ -27,7 +27,7 @@ description: Homerules
 ## Alliance Variants / Режимы игры в альянсах
 * [Yandex.Disk](https://disk.yandex.ru/d/H7eY0sLvIoIALA) - Общий архив.
 
-## Solo Variants / Режимы игры одному
+## Solo Variants / Режимы игры для одного игрока
 * [Yandex.Disk](https://disk.yandex.ru/d/O3H4rl6repETmQ)
 
 # Homebrew Factions / Хоумрульные фракции
@@ -86,16 +86,38 @@ description: Homerules
 # Author's Stuff / Авторский контент
 
 ## By Absols aka Absol197
-* Desc: Various stuff by Absol, include Action Cards, Techs and other.
-* Описание: различный контент за авторством Абсола. Включает в себя довольно часто используемые в TTS/TTPG карты действия, а так же карты технологий и политики, и немного другого. 
+* Desc: Various stuff by Absol, include reworks of Action Cards, Agenda Cards, Relics, Techs and Mechs.
+* Описание: Различный контент за авторством Абсола. Включает в себя довольно часто используемые в TTS/TTPG карты действия, политики, реликвий, технологий и мехов.
 
 ### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/tvtaoJktz4xjVA)
 * [Google.Drive](https://drive.google.com/drive/folders/1e8BEKy8qHOtbUL69GUHwbASZzURTDPdF?usp=share_link)
+* [PnP Version](https://disk.yandex.ru/d/9kp1Jg1Ci8_U_w)
 
-## By Andrew Schull
+## By Andrew Schull aka Andrewnicus90
 * Desc: Various stuff by Andrew Schull, include Client Factions.
 * Описание: Различный контент, включающий в себя режим Клиентских фракций, набор компонентов для белого игрока (так себе качества).
+
+### General Folder / Общий архив
+* [Yandex.Disk](https://disk.yandex.ru/d/4TYNA4Mr9G12EA)
+
+### Alternate Mechs / Альтернативные Мехи
+* Desc: Alternate Mechs for all factions.
+* [Google.Drive](https://drive.google.com/drive/folders/1mUYI_LobihwFLieUne2lqSa5KjUyOHlw?usp=drive_link)
+* [Yandex.Disk](https://disk.yandex.ru/d/9uScYAaGTAmUAg)
+
+### Client Factions
+* Desc: Non-player factions.
+* [Yandex.Disk](https://disk.yandex.ru/d/u5eIfu5MSS_fqg)
+
+### Spoils of Empire
+* Desc:
+* [Google.Drive](https://drive.google.com/drive/folders/1i9mimqPafgFuwlg2UwEqMk0qK2HCrAD-?usp=drive_link)
+* [Yandex.Disk](https://disk.yandex.ru/d/98oAn_GWxm0GbQ)
+
+### Von Neumann Probes
+* Desc: Customize your flagship.
+* [Google.Drive](https://drive.google.com/drive/folders/1FqclyTG2ADYnsEj98d23kHNvjPCwo8iJ?usp=drive_link)
 
 ## By Berkel
 * Desc: Various stuff by Berkel, inspired by TI3: Shattered Ascension. Include Border Anomalies and Tiles.
@@ -183,6 +205,10 @@ description: Homerules
 ### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/8gfcFatWe7glJQ)
 
+### Ascendent Sun
+* Desc: Main Project by Eronous.
+* [Google.Drive](https://drive.google.com/drive/folders/1KrJaSAr-CdTxTCVOo5aeJXB7BmYVnU0x?usp=drive_link)
+
 ## By Fulvio aka Unfulvio
 * Desc: Verious staff from Fulvio
 * Описание: различный контент от Фулвио, aka Сумрачный итало-тайваньский гений. 
@@ -223,7 +249,21 @@ description: Homerules
 * [Yandex.Disk](https://disk.yandex.ru/d/1KUru6kobCImmQ)
 * [Google.Drive](https://drive.google.com/drive/folders/1Q-zl2hQvKrmacjwXYrbD5vlThe3nKKMH?usp=share_link)
 
-# Отдельные проекты
+# Отдельные проекты: Overhauls
+* Desc: Global projects by overhaul TI4.
+
+### Galactic Cataclysm by CIVYVORTAC
+* Desc: Great Mod for TI4.
+* Описание: Одна из самых больших модификаций для TI4, затрагивающая большинство аспектов игры.
+* [Google.Disc]
+* [Yandex.Disk](https://disk.yandex.ru/d/QSovZ_rTP_PohA)
+
+### TI: Pathfinder by Lockreed
+* Desc: Ex "Twilight Imperium 4.5".
+* [Google.Disc](https://drive.google.com/drive/folders/1Uik9BGeazMm5Ig3qtu6PQMGzYcHVBX9N)
+* [Yandex.Disk](https://disk.yandex.ru/d/KYC6gJQyllqkjA)
+
+# Отдельные проект: прочее
 
 ### Uncharted Space
 * Desc: New content (24 tiles, 5 legendary planets, 16 exploration cards, 7 relics, 40 action cards).
@@ -231,17 +271,7 @@ description: Homerules
 * [Reference](https://docs.google.com/document/d/10sYWiwVNvdOwDMpvHlbsx4athKwgeTc8usWFMV3Aaas/edit#heading=h.ev3yyi1dexpw)
 * [Assets](https://drive.google.com/drive/folders/1RGFGfT76cvT-bJASW3FUMV6kWbjvxqyD)
 * [Yandex.Disk](https://disk.yandex.ru/d/3vx3sXLrhyL8fQ)
-
-### TI: Pathfinder by Lockreed
-* Desc: Ex "Twilight Imperium 4.5".
-* [Google.Disc](https://drive.google.com/drive/folders/1Uik9BGeazMm5Ig3qtu6PQMGzYcHVBX9N)
-* [Yandex.Disk](https://disk.yandex.ru/d/KYC6gJQyllqkjA)
-
-### Galactic Cataclysm by CIVYVORTAC
-* Desc: Great Mod for TI4.
-* Описание: Одна из самых больших модификаций для TI4, затрагивающая большинство аспектов игры.
-* [Google.Disc]
-* [Yandex.Disk](https://disk.yandex.ru/d/QSovZ_rTP_PohA)
+* [PnP Version](https://disk.yandex.ru/d/bvuEpFJu9gmWpw)
 
 ### Monuments
 * [Тема на Reddit](https://www.reddit.com/r/twilightimperium/comments/bpdkmt/monuments_mini_expansion/)
