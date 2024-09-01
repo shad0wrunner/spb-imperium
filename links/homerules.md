@@ -55,31 +55,35 @@ description: Homerules / Хоумрулы
 # Alternative Components / Альтернативные компоненты
 
 ### Alt. Action Cards / Альтернативные карты действий
-* [Yandex.Disk](https://disk.yandex.ru/d/s5r9_AMEiOQVpw)
+* [Yandex.Disk](https://disk.yandex.ru/d/s5r9_AMEiOQVpw) - General Folder / Общий архив.
 
 ### Alt. Agenda Cards / Альтернативные карты политики
 * [Yandex.Disk](https://disk.yandex.ru/d/udTQI-ESt2fmpw) - General Folder / Обший архив.
-* [By @Absol](https://disk.yandex.ru/d/JnsGDmdq7ff80Q) - From Absol.
+* [By @Absol](https://disk.yandex.ru/d/tXUhNul5lvDZ-Q) - From Absol.
 * [By @Andrew Schull](https://disk.yandex.ru/d/aWR3FDU08m2u_g) - From Andrew Schull.
+* [By @Paulby](https://disk.yandex.ru/d/1Xsu2kJ4s_kHZg) - From Paulby.
 
 ### Alt. Exploration Cards / Альтернативные карты разведки
-* [Yandex.Disk](https://disk.yandex.ru/d/uc43Oj7Ejoa7ig)
+* [Yandex.Disk](https://disk.yandex.ru/d/uc43Oj7Ejoa7ig) - General Folder / Общий архив.
 
 ### Alt. Objective Cards / Альтернативные карты целей
-* [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w)
+* [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w) - General Folder / Общий архив.
+* [By @DaveBot](https://disk.yandex.ru/d/lpKmAdTNpCuqeg) - From DaveBot.
 
 ### Alt. Promissory Notes / Альтернативные карты обещаний
-* [Yandex.Disk](https://disk.yandex.ru/d/UWZCDE09yt-Jhw)
+* [Yandex.Disk](https://disk.yandex.ru/d/UWZCDE09yt-Jhw) - General Folder / Общий архив.
 
 ### Alt. Relic Cards / Альтернативные карты реликвий
-* [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w)
-* [From Absol](https://disk.yandex.ru/d/8s8l3H6Re6Df6g) - From Absol.
+* [Yandex.Disk](https://disk.yandex.ru/d/-hnjqWLQEIqe3w) - General Folder / Общий архив.
+* [By @Absol](https://disk.yandex.ru/d/8s8l3H6Re6Df6g) - From Absol.
 
 ### Alt. Strategy Cards / Альтернативные карты стратегий
-* [Yandex.Disk](https://disk.yandex.ru/d/n0952Ef0Zp3qpw)
+* [Yandex.Disk](https://disk.yandex.ru/d/n0952Ef0Zp3qpw) - General Folder / Общий архив.
 
 ### Alt. Technology Cards / Альтернативные карты технологий
-* [Yandex.Disk](https://disk.yandex.ru/d/0vma6ujon_Umjw)
+* [Yandex.Disk](https://disk.yandex.ru/d/0vma6ujon_Umjw) - General Folder / Общий архив.
+* [By @Absol](https://disk.yandex.ru/d/R6AWLSi_itp_Ng) - From Absol.
+* [By @DaveBot](https://disk.yandex.ru/d/lSMaKsRGnhmbEg) - From DaveBot.
 
 ## Franken
 * Desc: Fan-made mode for bag draft.
