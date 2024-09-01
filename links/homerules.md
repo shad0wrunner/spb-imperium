@@ -33,7 +33,7 @@ description: Homerules / Хоумрулы
 * [Yandex.Disk](https://disk.yandex.ru/d/H7eY0sLvIoIALA) - Общий архив.
 
 ## Solo Variants / Режимы игры для одного игрока
-* [Yandex.Disk](https://disk.yandex.ru/d/O3H4rl6repETmQ)
+* [Yandex.Disk](https://disk.yandex.ru/d/O3H4rl6repETmQ) - Общий архив.
 
 # Homebrew Factions / Хоумрульные фракции
 
