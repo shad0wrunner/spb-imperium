@@ -103,6 +103,16 @@ description: Homerules / Хоумрулы
 * [Google.Drive](https://drive.google.com/drive/folders/1e8BEKy8qHOtbUL69GUHwbASZzURTDPdF?usp=share_link)
 * [PnP Version](https://disk.yandex.ru/d/9kp1Jg1Ci8_U_w)
 
+## By Andany 
+* Desc: Various stuff by Andany, include stuff for colorblind people.
+* Описание: Разный контент от Андани, включая контент для дальтоников.
+
+* [Yandex.Disk](https://disk.yandex.ru/d/aoFILm_WC8o4wQ)
+* [Yandex.Dik](https://drive.google.com/drive/folders/1ai80ZChIEDbrIE4HCU7Ayj6GmESICfZN?usp=drive_link) - Небольшая переработка карт целей.
+* [Google.Drive](https://drive.google.com/drive/folders/1umkc-Jlb-uJvJcFIA4vQ2YYnhCr2hoeS?usp=sharing) - Карты обещаний для дальтоников.
+* [Google.Drive](https://drive.google.com/drive/folders/1XCttvvb5nYCnsLuv0SuFhQFoIQd6sBUE?usp=sharing) - Переработка карт обещаний (версия для дальтоников).
+* [Yandex.Disk](https://disk.yandex.ru/d/BwasIlOPecgqIg) - Colorblind Voting Cards.
+
 ## By Andrew Schull aka Andrewnicus90
 * Desc: Various stuff by Andrew Schull, include Client Factions.
 * Описание: Различный контент, включающий в себя режим Клиентских фракций, набор компонентов для белого игрока (так себе качества).
