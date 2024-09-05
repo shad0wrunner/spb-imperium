@@ -137,6 +137,12 @@ description: Homerules / Хоумрулы
 ### Von Neumann Probes
 * Desc: Customize your flagship.
 * [Google.Drive](https://drive.google.com/drive/folders/1FqclyTG2ADYnsEj98d23kHNvjPCwo8iJ?usp=drive_link)
+* [Yandex.Disk](https://disk.yandex.ru/d/v--Cx3vFx5h0yQ)
+
+### Faction Techs 3
+* Desc:
+* [Google.Drive](https://drive.google.com/drive/folders/1LHA7SJ3MotorEcwILSMSAXpDbDAcZQlQ?usp=drive_link)
+* [Yandex.Disk](https://disk.yandex.ru/d/9txOGfS7QchlEg)
 
 ## By Berkel
 * Desc: Various stuff by Berkel, inspired by TI3: Shattered Ascension. Include Border Anomalies and Tiles.
@@ -304,9 +310,12 @@ description: Homerules / Хоумрулы
 ### The TI AI
 * [BGG](https://www.boardgamegeek.com/thread/2718807/ti-ai)
 
-### Alternate Flagships: A Mini-Expansion (Base + PoK)
+### Alternate Flagships: A Mini-Expansion by Travis Caldeira (Base + PoK)
 * [BGG](https://www.boardgamegeek.com/thread/2514810/alternate-flagships-mini-expansion)
-* [Google.Disk](https://drive.google.com/file/d/1gF9ytNLo9-I1b-AcPMO3jNnUQauRkcpG/view)
+* [Google.Disk](https://drive.google.com/file/d/1gF9ytNLo9-I1b-AcPMO3jNnUQauRkcpG/view) - Version 1.
+* [Google.Disk](https://drive.google.com/file/d/1Xn7okOmdnogRL1AETJqjff-Hf-FhQ7MW/view) - Version 2.
+* [Google.Disk](https://drive.google.com/drive/folders/1SikpZH4tc8q8MpkLPz2Uvkkm41YiQo46) - Images.
+* [Yandex.Disk](https://disk.yandex.ru/d/La9dKfGVcHQQeQ)
 
 ### Rebalance Faction Promissory Notes by Travis Caldeira (Base Game)
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/erm0a3/homebrew_rebalance_faction_promissory_notes/)
