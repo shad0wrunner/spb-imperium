@@ -261,6 +261,20 @@ description: Homerules / Хоумрулы
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/pp9dq0/announcing_outposts_a_miniexpansion_for_twilight/)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1JbNq3iDLjh2BqUHy5cErXuMkUkD2Oy8A?ths=true)
 
+## By Jadder
+
+### Golden Horizons
+* [Google.Drive](https://drive.google.com/drive/folders/14P3JHaDoUZ7STzNNL3gzyhS2i4RLlejE?usp=drive_link)
+* [Yandex.Disk](https://disk.yandex.ru/d/QsEhY1iFHSNWjw)
+
+### Hidden World
+* [Google.Drive](https://drive.google.com/drive/folders/1ndepmXqUfg32SkYWGmC82qEaq2f3nt2G?usp=drive_link)
+* [Yandex.Disk](https://disk.yandex.ru/d/ecwb4gH4VV5PSw)
+
+### JAD Interface/Twilight Reduction
+* [Google.Drive](https://drive.google.com/drive/folders/1H2fS5fm_gKk23ri-_yACaJPE0BQcEzhn?usp=drive_link)
+* [Yandex.Disk](https://disk.yandex.ru/d/kD0hQMoW0DJ_eg)
+
 ## By Oktober13 aka John L, aka Hangman (?)
 
 ### General Folder / Общий архив
