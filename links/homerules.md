@@ -263,6 +263,9 @@ description: Homerules / Хоумрулы
 
 ## By Jadder
 
+* [General Folder on Google.Drive](https://drive.google.com/drive/folders/1H3bMwtObtgLNYam4bRHNyzxye029SkVC?usp=drive_link)
+* [General Folder on Yandex.Disk](https://disk.yandex.ru/d/66vBlt1YPMgrtQ)
+
 ### Golden Horizons
 * [Google.Drive](https://drive.google.com/drive/folders/14P3JHaDoUZ7STzNNL3gzyhS2i4RLlejE?usp=drive_link)
 * [Yandex.Disk](https://disk.yandex.ru/d/QsEhY1iFHSNWjw)
