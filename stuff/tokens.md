@@ -18,3 +18,8 @@ Colorblind Tokens
 
 * [Yandex.Disk](https://disk.yandex.ru/d/xRiZowGSRRoZww)
 * [Google.Drive](https://drive.google.com/drive/folders/1GhfYgBaLPWRK1cOato9ZAeq1AUbQuG3d?usp=drive_link)
+
+Letnev Armada Tokens / Жетоны Армады Летнева
+
+* [Yandex.Disk](https://disk.yandex.ru/d/BTX-TWcEA61D3Q)
+* [Thingverse](https://www.thingiverse.com/thing:6681228)
