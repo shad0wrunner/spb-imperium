@@ -46,4 +46,4 @@ description: Various Stuff
 * [Google.Drive](https://drive.google.com/drive/folders/1HEzdVZ1t3OyFJxhx7xzGJCdvzY--2SVq?usp=drive_link)
 
 ### Tokens
-* Информацию о разных жетонах можно найти на странице [Tokens](https://ti.sr2k.info/links/tokens)
+* Информацию о разных жетонах можно найти на странице [Tokens](https://ti.sr2k.info/stuff/tokens)
