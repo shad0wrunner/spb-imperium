@@ -23,3 +23,7 @@ Letnev Armada Tokens / Жетоны Армады Летнева
 
 * [Yandex.Disk](https://disk.yandex.ru/d/BTX-TWcEA61D3Q)
 * [Thingverse](https://www.thingiverse.com/thing:6681228)
+
+Titans of Ul Hero Token
+
+* [Yandex.Disk](https://disk.yandex.ru/d/yMo4QQNO-tE62w)
