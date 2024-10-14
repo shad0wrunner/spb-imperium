@@ -46,4 +46,4 @@ description: Various Stuff
 * [Google.Drive](https://drive.google.com/drive/folders/1HEzdVZ1t3OyFJxhx7xzGJCdvzY--2SVq?usp=drive_link)
 
 ### Tokens
-* Небольшая подборка моделей различных жетонов здесь - [Я.Диск](https://disk.yandex.ru/d/VLVqtXCxKGeIQw) или [Google.Disk](https://drive.google.com/drive/folders/1s0iOqe-i8IDPjKL2Yj5XbRgdXvEG0Xty?usp=sharing)
+* Небольшая подборка моделей различных жетонов здесь - [Yandex.Disk](https://disk.yandex.ru/d/VLVqtXCxKGeIQw) или [Google.Drive](https://drive.google.com/drive/folders/1s0iOqe-i8IDPjKL2Yj5XbRgdXvEG0Xty?usp=sharing)
