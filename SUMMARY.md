@@ -53,6 +53,7 @@
 * [Shops](stuff/shops.md)
 * [Templates](stuff/templates.md)
 * [3D Units](stuff/3dunits.md)
+* [Tokens](stuff/tokens.md)
 * [Organizers](stuff/organizers.md)
 
 ## TI Galaxy
