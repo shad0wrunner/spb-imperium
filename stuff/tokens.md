@@ -14,7 +14,7 @@ General Folder / Основной архив
 * [Printables](https://www.printables.com/model/1039085-twilight-imperium-4-prophecy-of-kings-frontier-tok)
 * [Thingverse](https://www.thingiverse.com/thing:6779774)
 
-Colorblind Tokens
+Colorblind Tokens [CC, CT, VP...]
 
 * [Yandex.Disk](https://disk.yandex.ru/d/xRiZowGSRRoZww)
 * [Google.Drive](https://drive.google.com/drive/folders/1GhfYgBaLPWRK1cOato9ZAeq1AUbQuG3d?usp=drive_link)
