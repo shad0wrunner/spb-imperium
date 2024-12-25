@@ -192,12 +192,13 @@ description: Homerules / Хоумрулы
 * Desc: Depricated.
 * [BGG](https://boardgamegeek.com/thread/2591023/facilities-10)
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/l8njos/facilities_10/)
-* [PDF c правилами на Google.Disk](https://drive.google.com/file/d/1UK8oU1jc23FCUvQw87zU7poYQSL8Zlp7/view)
-* [Архив для печати карт на Google.Disk](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
+* [PDF c правилами на Google.Drive](https://drive.google.com/file/d/1UK8oU1jc23FCUvQw87zU7poYQSL8Zlp7/view)
+* [Архив для печати карт на Google.Drive](https://drive.google.com/file/d/1gHc6JbkE9MCxZoDy5csCQPiymPMKkPGY/view)
 * [Yandex.Disk](https://disk.yandex.ru/d/OZkb9STfCXtPtg)
 
 ### Facilities v.2 by Tom Dullemond
 * [Yandex.Disk](https://disk.yandex.ru/d/Mho88aQAyud-_g)
+* [Google.Drive](https://drive.google.com/drive/folders/1rrXpH1duAuaYcOINfNNfDfmdSlIkZPtT?usp=drive_link)
 
 ### Agenda Reminder Tokens
 * Desc: Various Reminder Tokens for Laws in Play.
