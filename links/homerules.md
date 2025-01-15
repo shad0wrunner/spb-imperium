@@ -43,14 +43,22 @@ description: Homerules / Хоумрулы
 
 ## Discordant Stars 
 * Desc: 34 Community Homebrew Factions Pack
+* Desc: Наиболее известный и большой пак фанатских фракций
 * [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
 * [PnP Version](https://drive.google.com/drive/folders/1OV4zr3wcbXQROkv6cOvnO6H_8AvpIL8H?usp=drive_link)
+* [MB Print Order](https://sklep.mbprint.pl/en/product/ds-and-us/)
 
-### Warhammer 40k Faction Pack
+## Warhammer 40k Faction Pack
 * Desc: 8 Factions from the 40K universe
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
 * [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
+
+## By Tactic Blue
+
+### Blue Space Faction Pack
+* Desc: Predecessor of Discordant Stars.
+* [Yandex.Disk](https://disk.yandex.ru/d/YiylousFEQFaUg)
 
 # Alternative Components / Альтернативные компоненты
 
