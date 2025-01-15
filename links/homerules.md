@@ -47,18 +47,24 @@ description: Homerules / Хоумрулы
 * [BGG](https://www.boardgamegeek.com/thread/2731596/discordant-stars-24-community-homebrew-factions)
 * [Google.Drive](https://drive.google.com/drive/u/0/folders/1AipLLvGhyp2v--w2oeT7uQIovmH_HyVn)
 * [PnP Version](https://drive.google.com/drive/folders/1OV4zr3wcbXQROkv6cOvnO6H_8AvpIL8H?usp=drive_link)
-* [MB Print Order](https://sklep.mbprint.pl/en/product/ds-and-us/)
+* [MB Print Order](https://sklep.mbprint.pl/en/product/ds-and-us/) - страница заказа DS (англоязычной версии).
 
 ## Warhammer 40k Faction Pack
 * Desc: 8 Factions from the 40K universe
 * [Reddit](https://www.reddit.com/r/twilightimperium/comments/wwjkgx/ti_warhammer_40k/)
 * [Google.Drive](https://drive.google.com/drive/folders/11_RSdXQANP10Rjecaq8wz3mPwkrXE4E-?usp=sharing)
 
-## By Tactic Blue
+## By Tactics Blue
 
 ### Blue Space Faction Pack
-* Desc: Predecessor of Discordant Stars.
+* Desc: Predecessor of Discordant Stars
+* Desc: Предшественник Discordant Stars
 * [Yandex.Disk](https://disk.yandex.ru/d/YiylousFEQFaUg)
+
+### New Factions by Tactics Blue
+* Desc: New factions by Tactics Blue
+* Desc: Новые фракции от патриарха хоумбрю
+* [Yandex.Disk](https://disk.yandex.ru/d/eKyhp1W3FEbiMQ)
 
 # Alternative Components / Альтернативные компоненты
 
@@ -155,6 +161,12 @@ description: Homerules / Хоумрулы
 ## By Berkel
 * Desc: Various stuff by Berkel, inspired by TI3: Shattered Ascension. Include Border Anomalies and Tiles.
 * Описание: Различный контент от Беркеля, в основном вдохновлённый модом к TI3 под названием Shattered Ascension. Из заметного: пограничные аномалии и тайлы.
+
+### BTV (ex-SA)
+* Desc: Magnum Opus by Berkel, WIP
+* Desc: Магнум опус автора. Находится в активной разработке.
+* [Google.Drive](https://drive.google.com/drive/folders/1c7IwxOUjJ4xcHW1WQtNDrKEhAiTqhDXn?usp=drive_link)
+* [Yandex.Disk](https://disk.yandex.ru/d/S0NetcZjOds5ww)
 
 ### General Folder / Общий архив
 * [Yandex.Disk](https://disk.yandex.ru/d/9EIBTpoV0X_V0Q)
