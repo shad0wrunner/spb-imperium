@@ -126,6 +126,7 @@ description: Homerules / Хоумрулы
 * [Google.Drive](https://drive.google.com/drive/folders/1umkc-Jlb-uJvJcFIA4vQ2YYnhCr2hoeS?usp=sharing) - Карты обещаний для дальтоников.
 * [Google.Drive](https://drive.google.com/drive/folders/1XCttvvb5nYCnsLuv0SuFhQFoIQd6sBUE?usp=sharing) - Переработка карт обещаний (версия для дальтоников).
 * [Yandex.Disk](https://disk.yandex.ru/d/BwasIlOPecgqIg) - Colorblind Voting Cards.
+* [Google.Drive](https://drive.google.com/drive/folders/1g3glqx0it48-pyiPahaOCU4ZRl7SCERh?usp=drive_link) - Radical TI [WIP].
 
 ## By Andrew Schull aka Andrewnicus90
 * Desc: Various stuff by Andrew Schull, include Client Factions.
